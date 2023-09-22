@@ -16,11 +16,9 @@ Primeiro trabalho da disciplina AEDS II - Top K Elementos
 
 <h2>Introdução </h2>
 
-<p>Listar a frequência de dados constantemente recorrentes em um banco de dados é uma prática fundamental para extrair informações valiosas e insights úteis. Ao analisar a frequência com que diferentes conjuntos de dados aparecem, é possível identificar padrões de comportamento, tendências emergentes e até mesmo anomalias que poderiam passar despercebidas em uma análise superficial. Esses padrões podem ser cruciais para entender a dinâmica de um sistema, seja ele um mercado, uma operação de negócios ou até mesmo um ambiente científico.</p>
+<p>A inclusão de um sistema de autocompletar e sugestões de palavras em um programa ou aplicativo é fundamental para melhorar a experiência do usuário, reduzir erros de digitação, aumentar a produtividade, aprimorar a acessibilidade e oferecer sugestões personalizadas. Além disso, essa funcionalidade possibilita a economia tempo, melhoria da consistência dos dados e otimização da comunicação com servidores remotos, tornando-se uma característica valiosa em uma ampla gama de contextos de uso, desde aplicativos de produtividade até motores de busca e redes sociais.</p>
 
-<p>Além disso, a análise da frequência de dados recorrentes também desempenha um papel crucial na alocação de recursos. Ao identificar quais dados ou eventos têm maior incidência, as organizações podem direcionar seus recursos, como tempo, dinheiro e pessoal, de maneira mais eficiente. Isso evita gastos desnecessários em áreas que não trazem tanto impacto e concentra os recursos onde eles podem ter um efeito mais significativo.</p>
-
-<p>Dito isso, o algoritmo que será implementado "Top K Elementos", tende a simplificar e clarear quais são os dados com maior recorrência em um arquivo de texto, no qual será listado 20 palavras junto com o número de recorrências no texto. </p>
+<p>O projeto utiliza uma estrutura de árvore binária como base central e implementa uma árvore AVL e o algoritmo de Huffman para análises de desempenho. Essas implementações adicionais permitem comparações detalhadas entre diferentes estruturas e algoritmos, a fim de entender seu impacto na eficiência e eficácia do sistema. Portanto, objetivo principal do algoritmo "Sistema de Autocompletar e Sugestões de Palavras" é melhorar a capacidade de oferecer recomendações e sugestões relevantes aos usuários, aprimorando a experiência de pesquisa e autocompletar com base na frequência de ocorrência das palavras nos textos e nas palavras que os usuários estão buscando.</p>
 
 <h2>Interpretação do Problema </h2>
 
@@ -102,14 +100,18 @@ Primeiro trabalho da disciplina AEDS II - Top K Elementos
 <h2>Arquivos </h2>
 
 * ``` main.cpp ```: Arquivo e função principal do sistema que recebe tanto o arquivo Funcoes.hpp quanto o arquivo Aux.hpp para execução do programa;
-* ``` Funcoes.hpp ```: Arquivo que cria as funções utilizadas;
+* ``` Funcoes.hpp ```: Arquivo que cria as funções utilizadas como base do programa;
 * ``` Funcoes.cpp ```: Arquivo que implementa as funções criadas em Funcoes.hpp;
-* ``` Aux.hpp ```: Arquivo que cria as funções utilizadas;
-* ``` Aux.cpp ```: Arquivo que implementa as funções criadas em Funcoes.hpp;;
-* ``` in1.data ```: Primeiro arquivo que contém texto para execução do programa;
-* ``` in2.data ```: Segundo arquivo que contém texto para execução do programa;
+* ``` AVLTree.hpp ```: Arquivo que cria as funções utilizadas para a implementação da árvore AVL;
+* ``` AVLTree.cpp ```: Arquivo que implementa as funções criadas em AVLTree.hpp;
+* ``` BinTree.hpp ```: Arquivo que cria as funções utilizadas para a implementação da árvore binária;
+* ``` BinTree.cpp ```: Arquivo que implementa as funções criadas em BinTree.hpp;
+* ``` HuffTree.hpp ```: Arquivo que cria as funções utilizadas para a implementação da árvore de Huffman;
+* ``` HuffTree.cpp ```: Arquivo que implementa as funções criadas em HuffTree.hpp;
+* ``` in1.data até in6.data```: Arquivos utilizados para testar o sistema;
 * ``` stopwords.txt ```: Contém as stopwords que serão verificadas pelo algoritmo;
 * ``` Makefile ```: Automatiza os processos de compilação do sistema.
+
 
 <h2>Funções </h2>
 
