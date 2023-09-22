@@ -171,7 +171,9 @@ Segundo trabalho da disciplina AEDS II
 * ``` Makefile ```: Automatiza os processos de compilação do sistema.
 
 
-<h2>Funções </h2>
+<h2>Funções das Classes </h2>
+
+<h3>Funcoes.hpp e Funcoes.cpp</h3>
 
 * ``` void Welcome(); ```: Função contendo couts para inicializar o programa; 
 * ``` wchar_t* getText(const locale loc, string name); ```: A função Funcoes::getText recebe um objeto de localização locale e o nome de um arquivo como entrada. Ela lê o conteúdo do arquivo de texto especificado usando wide characters (wchar_t), aplicando a localização dada. Se o arquivo não puder ser aberto, exibe uma mensagem de erro e termina o programa. A função determina o tamanho do arquivo, aloca memória suficiente para armazenar seu conteúdo em um array de wchar_t, lê o conteúdo do arquivo para esse array e retorna o ponteiro para esse array, contendo o texto lido. O arquivo é então fechado;
