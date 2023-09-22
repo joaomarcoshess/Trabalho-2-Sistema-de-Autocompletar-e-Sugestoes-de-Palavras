@@ -196,15 +196,30 @@ Segundo trabalho da disciplina AEDS II
 * ``` void printAVLTreePosOrdem(AVLTree *t, ofstream& outputFile) ```: Imprime a árvore AVL com o método de Pós-Ordem;
 * ``` void printAVLTreePreOrdem(AVLTree *t, ofstream& outputFile) ```: Imprime a árvore AVL com o método de Pré-Ordem;
 * ``` void printAVLTreeInOrdem(AVLTree *t, ofstream& outputFile)  ```: Imprime a árvore AVL com o método In-Ordem;
-* ``` void printAVLTree(AVLTree *t, ofstream& outputFile) ```: Chama todas as funções que imprimem a árvore com o seu método em uma função só.
+* ``` void printAVLTree(AVLTree *t, ofstream& outputFile) ```: Chama todas as funções que imprimem a árvore AVL com o seu método em uma função só.
 
 
-``` BinTree.hpp e BinTree.cpp ```
+<p>BinTree.hpp e BinTree.cpp </p>
+
+* ``` void insertBinTree(BinTree **t, const pair<string, int>& word) ```: Insere elementos dentro da árvore binária;
+* ``` void destroyBinaryTree(BinaryTree *t) ```: Destrói a árvore binária;
+* ``` void printBinTreePosOrdem(BinTree *t, ofstream& outputFile) ```: Imprime a árvore binária com o método de Pós-Ordem;
+* ``` void printBinTreePreOrdem(BinTree *t, ofstream& outputFile) ```: Imprime a árvore binária com o método de Pré-Ordem;
+* ``` void printBinTreeInOrdem(BinTree *t, ofstream& outputFile) ```: Imprime a árvore binária com o método de In-Ordem;
+* ``` void printBinTree(BinTree *t, ofstream& outputFile) ```: Chama todas as funções que imprimem a árvore binária com o seu método em uma função só.
 
 
 
+<p>HuffTree.hpp e HuffTree.hpp</p>
 
-``` HuffTree.hpp e HuffTree.cpp ```
+* ``` void createHuffTree(HuffTree*& t, vector<pair<wstring, int>>& data) ```: Cria a árvore de Huffman;
+* ``` void destroyHuffTree(HuffTree* t) ```: Destrói a árvore de Huffman;
+* ``` void printHuffTreePosOrdem(HuffTree* t, ofstream& outputFile, string code) ```: Imprime a árvore de Huffman com o método de Pós-Ordem;
+* ``` void printHuffTreePreOrdem(HuffTree* t, ofstream& outputFile, string code) ```: Imprime a árvore de Huffman com o método de Pré-Ordem;
+* ``` void printHuffTreeInOrdem(HuffTree* t, ofstream& outputFile, string code) ```: Imprime a árvore de Huffman com o método de In-Ordem;
+* ``` void printHuffTree(HuffTree* t, ofstream& outputFile) ```: Chama todas as funções que imprimem a árvore de Huffman com o seu método em uma função só.
+
+
 
 <h2>Funções do C++ </h2>
 
