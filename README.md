@@ -105,7 +105,7 @@ Segundo trabalho da disciplina AEDS II
 
 <p align="center">
   <img src="img/img1.jpg">
-<p align="center"><b>Figura 1 - Exemplo de Árvore Binária</b></p>
+<p align="center"><b>Figura 1 - Exemplo de Árvore Binária </b></p>
 </p><br>
 
 <h2>Arquivos </h2>
