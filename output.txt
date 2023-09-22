@@ -1,0 +1,1721 @@
+aquilo
+
+in1
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+aquilo
+
+in2
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+aquilo
+
+in3
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+aquilo
+
+in4
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+aquilo
+
+in5
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+aquilo
+
+in6
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+sobre
+
+in1
+
+Binary Tree (Pós-Ordem):
+[princípio : 91 / maneira : 95 / quanto : 95 / wittgenstein : 95 / assim : 94 / É : 96 / imanente : 104 / segundo : 114 / pensamento : 115 / modo : 129 / priori : 125 / condição : 134 / mundo : 134 / sujeito : 145 / teoria : 176 / sistema : 115 / sentido : 110 / vista : 96 / pode : 95 / virtual : 93 / ]
+
+Binary Tree (Pré-Ordem):
+[virtual : 93 / princípio : 91 / pode : 95 / assim : 94 / wittgenstein : 95 / quanto : 95 / maneira : 95 / vista : 96 / É : 96 / sentido : 110 / imanente : 104 / sistema : 115 / pensamento : 115 / segundo : 114 / teoria : 176 / sujeito : 145 / mundo : 134 / condição : 134 / priori : 125 / modo : 129 / ]
+
+Binary Tree (In-Ordem):
+[princípio : 91 / virtual : 93 / assim : 94 / maneira : 95 / quanto : 95 / wittgenstein : 95 / pode : 95 / É : 96 / vista : 96 / imanente : 104 / sentido : 110 / segundo : 114 / pensamento : 115 / sistema : 115 / priori : 125 / modo : 129 / condição : 134 / mundo : 134 / sujeito : 145 / teoria : 176 / ]
+
+AVL Tree (Pós-Ordem):
+[princípio : 91 / virtual : 93 / maneira : 95 / quanto : 95 / assim : 94 / pode : 95 / imanente : 104 / vista : 96 / É : 96 / wittgenstein : 95 / segundo : 114 / sistema : 115 / pensamento : 115 / modo : 129 / priori : 125 / mundo : 134 / teoria : 176 / sujeito : 145 / condição : 134 / sentido : 110 / ]
+
+AVL Tree (Pré-Ordem):
+[sentido : 110 / wittgenstein : 95 / assim : 94 / virtual : 93 / princípio : 91 / quanto : 95 / maneira : 95 / É : 96 / pode : 95 / vista : 96 / imanente : 104 / condição : 134 / priori : 125 / pensamento : 115 / segundo : 114 / sistema : 115 / modo : 129 / sujeito : 145 / mundo : 134 / teoria : 176 / ]
+
+AVL Tree (In-Ordem):
+[princípio : 91 / virtual : 93 / assim : 94 / maneira : 95 / quanto : 95 / wittgenstein : 95 / pode : 95 / É : 96 / vista : 96 / imanente : 104 / sentido : 110 / segundo : 114 / pensamento : 115 / sistema : 115 / priori : 125 / modo : 129 / condição : 134 / mundo : 134 / sujeito : 145 / teoria : 176 / ]
+
+Huffman Tree (Pós-Ordem):
+[É : 96 : 0000 / imanente : 104 : 0001 / sentido : 110 : 0010 / segundo : 114 : 0011 / sistema : 115 : 0100 / pensamento : 115 : 0101 / priori : 125 : 0110 / modo : 129 : 0111 / condição : 134 : 1000 / mundo : 134 : 1001 / sujeito : 145 : 1010 / teoria : 176 : 1011 / princípio : 91 : 11000 / virtual : 93 : 11001 / assim : 94 : 11010 / pode : 95 : 11011 / wittgenstein : 95 : 11100 / quanto : 95 : 11101 / maneira : 95 : 11110 / vista : 96 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[É : 96 : 0000 / imanente : 104 : 0001 / sentido : 110 : 0010 / segundo : 114 : 0011 / sistema : 115 : 0100 / pensamento : 115 : 0101 / priori : 125 : 0110 / modo : 129 : 0111 / condição : 134 : 1000 / mundo : 134 : 1001 / sujeito : 145 : 1010 / teoria : 176 : 1011 / princípio : 91 : 11000 / virtual : 93 : 11001 / assim : 94 : 11010 / pode : 95 : 11011 / wittgenstein : 95 : 11100 / quanto : 95 : 11101 / maneira : 95 : 11110 / vista : 96 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[É : 96 : 0000 / imanente : 104 : 0001 / sentido : 110 : 0010 / segundo : 114 : 0011 / sistema : 115 : 0100 / pensamento : 115 : 0101 / priori : 125 : 0110 / modo : 129 : 0111 / condição : 134 : 1000 / mundo : 134 : 1001 / sujeito : 145 : 1010 / teoria : 176 : 1011 / princípio : 91 : 11000 / virtual : 93 : 11001 / assim : 94 : 11010 / pode : 95 : 11011 / wittgenstein : 95 : 11100 / quanto : 95 : 11101 / maneira : 95 : 11110 / vista : 96 : 11111 / ]
+-----------------------------------------------------------------------------
+
+sobre
+
+in2
+
+Binary Tree (Pós-Ordem):
+[É : 95 / wittgenstein : 95 / possível : 95 / vista : 95 / respeito : 90 / imanente : 109 / princípio : 97 / segundo : 114 / pensamento : 115 / condição : 133 / priori : 144 / modo : 129 / sistema : 119 / sentido : 111 / teoria : 192 / sujeito : 149 / mundo : 144 / pode : 96 / maneira : 95 / infinito : 89 / ]
+
+Binary Tree (Pré-Ordem):
+[infinito : 89 / maneira : 95 / respeito : 90 / vista : 95 / possível : 95 / wittgenstein : 95 / É : 95 / pode : 96 / mundo : 144 / sentido : 111 / princípio : 97 / imanente : 109 / sistema : 119 / pensamento : 115 / segundo : 114 / modo : 129 / priori : 144 / condição : 133 / sujeito : 149 / teoria : 192 / ]
+
+Binary Tree (In-Ordem):
+[infinito : 89 / respeito : 90 / É : 95 / wittgenstein : 95 / possível : 95 / vista : 95 / maneira : 95 / pode : 96 / princípio : 97 / imanente : 109 / sentido : 111 / segundo : 114 / pensamento : 115 / sistema : 119 / modo : 129 / condição : 133 / priori : 144 / mundo : 144 / sujeito : 149 / teoria : 192 / ]
+
+AVL Tree (Pós-Ordem):
+[infinito : 89 / É : 95 / possível : 95 / wittgenstein : 95 / respeito : 90 / maneira : 95 / pode : 96 / vista : 95 / imanente : 109 / segundo : 114 / pensamento : 115 / sentido : 111 / condição : 133 / modo : 129 / mundo : 144 / teoria : 192 / sujeito : 149 / priori : 144 / sistema : 119 / princípio : 97 / ]
+
+AVL Tree (Pré-Ordem):
+[princípio : 97 / vista : 95 / respeito : 90 / infinito : 89 / wittgenstein : 95 / É : 95 / possível : 95 / pode : 96 / maneira : 95 / sistema : 119 / sentido : 111 / imanente : 109 / pensamento : 115 / segundo : 114 / priori : 144 / modo : 129 / condição : 133 / sujeito : 149 / mundo : 144 / teoria : 192 / ]
+
+AVL Tree (In-Ordem):
+[infinito : 89 / respeito : 90 / É : 95 / wittgenstein : 95 / possível : 95 / vista : 95 / maneira : 95 / pode : 96 / princípio : 97 / imanente : 109 / sentido : 111 / segundo : 114 / pensamento : 115 / sistema : 119 / modo : 129 / condição : 133 / priori : 144 / mundo : 144 / sujeito : 149 / teoria : 192 / ]
+
+Huffman Tree (Pós-Ordem):
+[princípio : 97 : 0000 / imanente : 109 : 0001 / sentido : 111 : 0010 / segundo : 114 : 0011 / pensamento : 115 : 0100 / sistema : 119 : 0101 / modo : 129 : 0110 / condição : 133 : 0111 / mundo : 144 : 1000 / priori : 144 : 1001 / sujeito : 149 : 1010 / infinito : 89 : 10110 / respeito : 90 : 10111 / É : 95 : 11000 / possível : 95 : 11001 / maneira : 95 : 11010 / vista : 95 : 11011 / wittgenstein : 95 : 11100 / pode : 96 : 11101 / teoria : 192 : 1111 / ]
+
+Huffman Tree (Pré-Ordem):
+[princípio : 97 : 0000 / imanente : 109 : 0001 / sentido : 111 : 0010 / segundo : 114 : 0011 / pensamento : 115 : 0100 / sistema : 119 : 0101 / modo : 129 : 0110 / condição : 133 : 0111 / mundo : 144 : 1000 / priori : 144 : 1001 / sujeito : 149 : 1010 / infinito : 89 : 10110 / respeito : 90 : 10111 / É : 95 : 11000 / possível : 95 : 11001 / maneira : 95 : 11010 / vista : 95 : 11011 / wittgenstein : 95 : 11100 / pode : 96 : 11101 / teoria : 192 : 1111 / ]
+
+Huffman Tree (In-Ordem):
+[princípio : 97 : 0000 / imanente : 109 : 0001 / sentido : 111 : 0010 / segundo : 114 : 0011 / pensamento : 115 : 0100 / sistema : 119 : 0101 / modo : 129 : 0110 / condição : 133 : 0111 / mundo : 144 : 1000 / priori : 144 : 1001 / sujeito : 149 : 1010 / infinito : 89 : 10110 / respeito : 90 : 10111 / É : 95 : 11000 / possível : 95 : 11001 / maneira : 95 : 11010 / vista : 95 : 11011 / wittgenstein : 95 : 11100 / pode : 96 : 11101 / teoria : 192 : 1111 / ]
+-----------------------------------------------------------------------------
+
+sobre
+
+in3
+
+Binary Tree (Pós-Ordem):
+[vez : 134 / impacto : 135 / formas : 135 / pontos : 135 / melhoria : 135 / determinação : 135 / importante : 135 / podemos : 136 / quadros : 136 / É : 137 / importância : 137 / sistema : 138 / pode : 137 / estabelecimento : 136 / assim : 200 / sentido : 203 / processo : 202 / modo : 138 / atual : 135 / ressaltar : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[ressaltar : 134 / vez : 134 / atual : 135 / importante : 135 / determinação : 135 / melhoria : 135 / pontos : 135 / formas : 135 / impacto : 135 / modo : 138 / estabelecimento : 136 / quadros : 136 / podemos : 136 / pode : 137 / importância : 137 / É : 137 / sistema : 138 / processo : 202 / assim : 200 / sentido : 203 / ]
+
+Binary Tree (In-Ordem):
+[vez : 134 / ressaltar : 134 / impacto : 135 / formas : 135 / pontos : 135 / melhoria : 135 / determinação : 135 / importante : 135 / atual : 135 / podemos : 136 / quadros : 136 / estabelecimento : 136 / É : 137 / importância : 137 / pode : 137 / sistema : 138 / modo : 138 / assim : 200 / processo : 202 / sentido : 203 / ]
+
+AVL Tree (Pós-Ordem):
+[vez : 134 / impacto : 135 / pontos : 135 / formas : 135 / ressaltar : 134 / determinação : 135 / atual : 135 / quadros : 136 / podemos : 136 / importante : 135 / melhoria : 135 / É : 137 / importância : 137 / sistema : 138 / pode : 137 / assim : 200 / sentido : 203 / processo : 202 / modo : 138 / estabelecimento : 136 / ]
+
+AVL Tree (Pré-Ordem):
+[estabelecimento : 136 / melhoria : 135 / ressaltar : 134 / vez : 134 / formas : 135 / impacto : 135 / pontos : 135 / importante : 135 / determinação : 135 / podemos : 136 / atual : 135 / quadros : 136 / modo : 138 / pode : 137 / importância : 137 / É : 137 / sistema : 138 / processo : 202 / assim : 200 / sentido : 203 / ]
+
+AVL Tree (In-Ordem):
+[vez : 134 / ressaltar : 134 / impacto : 135 / formas : 135 / pontos : 135 / melhoria : 135 / determinação : 135 / importante : 135 / atual : 135 / podemos : 136 / quadros : 136 / estabelecimento : 136 / É : 137 / importância : 137 / pode : 137 / sistema : 138 / modo : 138 / assim : 200 / processo : 202 / sentido : 203 / ]
+
+Huffman Tree (Pós-Ordem):
+[importante : 135 : 0000 / estabelecimento : 136 : 0001 / podemos : 136 : 0010 / quadros : 136 : 0011 / É : 137 : 0100 / importância : 137 : 0101 / pode : 137 : 0110 / modo : 138 : 0111 / sistema : 138 : 1000 / assim : 200 : 1001 / processo : 202 : 1010 / sentido : 203 : 1011 / vez : 134 : 11000 / ressaltar : 134 : 11001 / melhoria : 135 : 11010 / atual : 135 : 11011 / pontos : 135 : 11100 / determinação : 135 : 11101 / impacto : 135 : 11110 / formas : 135 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[importante : 135 : 0000 / estabelecimento : 136 : 0001 / podemos : 136 : 0010 / quadros : 136 : 0011 / É : 137 : 0100 / importância : 137 : 0101 / pode : 137 : 0110 / modo : 138 : 0111 / sistema : 138 : 1000 / assim : 200 : 1001 / processo : 202 : 1010 / sentido : 203 : 1011 / vez : 134 : 11000 / ressaltar : 134 : 11001 / melhoria : 135 : 11010 / atual : 135 : 11011 / pontos : 135 : 11100 / determinação : 135 : 11101 / impacto : 135 : 11110 / formas : 135 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[importante : 135 : 0000 / estabelecimento : 136 : 0001 / podemos : 136 : 0010 / quadros : 136 : 0011 / É : 137 : 0100 / importância : 137 : 0101 / pode : 137 : 0110 / modo : 138 : 0111 / sistema : 138 : 1000 / assim : 200 : 1001 / processo : 202 : 1010 / sentido : 203 : 1011 / vez : 134 : 11000 / ressaltar : 134 : 11001 / melhoria : 135 : 11010 / atual : 135 : 11011 / pontos : 135 : 11100 / determinação : 135 : 11101 / impacto : 135 : 11110 / formas : 135 : 11111 / ]
+-----------------------------------------------------------------------------
+
+sobre
+
+in4
+
+Binary Tree (Pós-Ordem):
+[modo : 134 / ainda : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / segurança : 134 / longo : 134 / processo : 198 / eleitores : 199 / política : 198 / melhoria : 201 / saúde : 201 / atual : 201 / político : 400 / políticas : 267 / assim : 201 / sentido : 200 / metas : 199 / impacto : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[impacto : 134 / longo : 134 / segurança : 134 / determinação : 134 / importância : 134 / condições : 134 / É : 134 / ainda : 134 / modo : 134 / metas : 199 / política : 198 / processo : 198 / eleitores : 199 / sentido : 200 / assim : 201 / atual : 201 / saúde : 201 / melhoria : 201 / políticas : 267 / político : 400 / ]
+
+Binary Tree (In-Ordem):
+[modo : 134 / ainda : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / segurança : 134 / longo : 134 / impacto : 134 / processo : 198 / política : 198 / eleitores : 199 / metas : 199 / sentido : 200 / melhoria : 201 / saúde : 201 / atual : 201 / assim : 201 / políticas : 267 / político : 400 / ]
+
+AVL Tree (Pós-Ordem):
+[modo : 134 / É : 134 / ainda : 134 / importância : 134 / segurança : 134 / determinação : 134 / condições : 134 / impacto : 134 / eleitores : 199 / política : 198 / processo : 198 / sentido : 200 / saúde : 201 / melhoria : 201 / assim : 201 / político : 400 / políticas : 267 / atual : 201 / metas : 199 / longo : 134 / ]
+
+AVL Tree (Pré-Ordem):
+[longo : 134 / condições : 134 / ainda : 134 / modo : 134 / É : 134 / determinação : 134 / importância : 134 / segurança : 134 / metas : 199 / processo : 198 / impacto : 134 / política : 198 / eleitores : 199 / atual : 201 / melhoria : 201 / sentido : 200 / saúde : 201 / políticas : 267 / assim : 201 / político : 400 / ]
+
+AVL Tree (In-Ordem):
+[modo : 134 / ainda : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / segurança : 134 / longo : 134 / impacto : 134 / processo : 198 / política : 198 / eleitores : 199 / metas : 199 / sentido : 200 / melhoria : 201 / saúde : 201 / atual : 201 / assim : 201 / políticas : 267 / político : 400 / ]
+
+Huffman Tree (Pós-Ordem):
+[política : 198 : 0000 / eleitores : 199 : 0001 / metas : 199 : 0010 / sentido : 200 : 0011 / político : 400 : 010 / atual : 201 : 0110 / saúde : 201 : 0111 / melhoria : 201 : 1000 / assim : 201 : 1001 / políticas : 267 : 1010 / ainda : 134 : 10110 / importância : 134 : 10111 / condições : 134 : 11000 / segurança : 134 : 11001 / modo : 134 : 11010 / É : 134 : 11011 / determinação : 134 : 11100 / impacto : 134 : 11101 / longo : 134 : 11110 / processo : 198 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[política : 198 : 0000 / eleitores : 199 : 0001 / metas : 199 : 0010 / sentido : 200 : 0011 / político : 400 : 010 / atual : 201 : 0110 / saúde : 201 : 0111 / melhoria : 201 : 1000 / assim : 201 : 1001 / políticas : 267 : 1010 / ainda : 134 : 10110 / importância : 134 : 10111 / condições : 134 : 11000 / segurança : 134 : 11001 / modo : 134 : 11010 / É : 134 : 11011 / determinação : 134 : 11100 / impacto : 134 : 11101 / longo : 134 : 11110 / processo : 198 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[política : 198 : 0000 / eleitores : 199 : 0001 / metas : 199 : 0010 / sentido : 200 : 0011 / político : 400 : 010 / atual : 201 : 0110 / saúde : 201 : 0111 / melhoria : 201 : 1000 / assim : 201 : 1001 / políticas : 267 : 1010 / ainda : 134 : 10110 / importância : 134 : 10111 / condições : 134 : 11000 / segurança : 134 : 11001 / modo : 134 : 11010 / É : 134 : 11011 / determinação : 134 : 11100 / impacto : 134 : 11101 / longo : 134 : 11110 / processo : 198 : 11111 / ]
+-----------------------------------------------------------------------------
+
+sobre
+
+in5
+
+Binary Tree (Pós-Ordem):
+[sentido : 134 / software : 134 / envolvidos : 134 / problemas : 134 / hardware : 199 / assim : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / informações : 201 / ti : 201 / novas : 201 / implantação : 266 / segurança : 268 / dados : 201 / utilização : 399 / sistema : 200 / tempo : 199 / utilizados : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[utilizados : 134 / problemas : 134 / envolvidos : 134 / software : 134 / sentido : 134 / tempo : 199 / assim : 199 / hardware : 199 / sistema : 200 / aumento : 200 / desenvolvimento : 200 / melhor : 200 / impacto : 200 / utilização : 399 / dados : 201 / novas : 201 / ti : 201 / informações : 201 / segurança : 268 / implantação : 266 / ]
+
+Binary Tree (In-Ordem):
+[sentido : 134 / software : 134 / envolvidos : 134 / problemas : 134 / utilizados : 134 / hardware : 199 / assim : 199 / tempo : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / sistema : 200 / informações : 201 / ti : 201 / novas : 201 / dados : 201 / implantação : 266 / segurança : 268 / utilização : 399 / ]
+
+AVL Tree (Pós-Ordem):
+[sentido : 134 / software : 134 / problemas : 134 / envolvidos : 134 / hardware : 199 / assim : 199 / impacto : 200 / tempo : 199 / utilizados : 134 / desenvolvimento : 200 / aumento : 200 / informações : 201 / novas : 201 / ti : 201 / implantação : 266 / utilização : 399 / segurança : 268 / dados : 201 / sistema : 200 / melhor : 200 / ]
+
+AVL Tree (Pré-Ordem):
+[melhor : 200 / utilizados : 134 / envolvidos : 134 / software : 134 / sentido : 134 / problemas : 134 / tempo : 199 / assim : 199 / hardware : 199 / impacto : 200 / sistema : 200 / aumento : 200 / desenvolvimento : 200 / dados : 201 / ti : 201 / informações : 201 / novas : 201 / segurança : 268 / implantação : 266 / utilização : 399 / ]
+
+AVL Tree (In-Ordem):
+[sentido : 134 / software : 134 / envolvidos : 134 / problemas : 134 / utilizados : 134 / hardware : 199 / assim : 199 / tempo : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / sistema : 200 / informações : 201 / ti : 201 / novas : 201 / dados : 201 / implantação : 266 / segurança : 268 / utilização : 399 / ]
+
+Huffman Tree (Pós-Ordem):
+[desenvolvimento : 200 : 0000 / melhor : 200 : 0001 / sistema : 200 : 0010 / impacto : 200 : 0011 / aumento : 200 : 0100 / ti : 201 : 0101 / informações : 201 : 0110 / dados : 201 : 0111 / novas : 201 : 1000 / implantação : 266 : 1001 / sentido : 134 : 10100 / software : 134 : 10101 / segurança : 268 : 1011 / envolvidos : 134 : 11000 / utilizados : 134 : 11001 / problemas : 134 : 11010 / hardware : 199 : 11011 / assim : 199 : 11100 / tempo : 199 : 11101 / utilização : 399 : 1111 / ]
+
+Huffman Tree (Pré-Ordem):
+[desenvolvimento : 200 : 0000 / melhor : 200 : 0001 / sistema : 200 : 0010 / impacto : 200 : 0011 / aumento : 200 : 0100 / ti : 201 : 0101 / informações : 201 : 0110 / dados : 201 : 0111 / novas : 201 : 1000 / implantação : 266 : 1001 / sentido : 134 : 10100 / software : 134 : 10101 / segurança : 268 : 1011 / envolvidos : 134 : 11000 / utilizados : 134 : 11001 / problemas : 134 : 11010 / hardware : 199 : 11011 / assim : 199 : 11100 / tempo : 199 : 11101 / utilização : 399 : 1111 / ]
+
+Huffman Tree (In-Ordem):
+[desenvolvimento : 200 : 0000 / melhor : 200 : 0001 / sistema : 200 : 0010 / impacto : 200 : 0011 / aumento : 200 : 0100 / ti : 201 : 0101 / informações : 201 : 0110 / dados : 201 : 0111 / novas : 201 : 1000 / implantação : 266 : 1001 / sentido : 134 : 10100 / software : 134 : 10101 / segurança : 268 : 1011 / envolvidos : 134 : 11000 / utilizados : 134 : 11001 / problemas : 134 : 11010 / hardware : 199 : 11011 / assim : 199 : 11100 / tempo : 199 : 11101 / utilização : 399 : 1111 / ]
+-----------------------------------------------------------------------------
+
+sobre
+
+in6
+
+Binary Tree (Pós-Ordem):
+[software : 134 / existem : 134 / uso : 134 / rede : 134 / sistema : 199 / impacto : 199 / desenvolvimento : 199 / tempo : 199 / hardware : 201 / dados : 201 / informações : 200 / assim : 201 / melhor : 201 / aumento : 201 / implantação : 267 / utilização : 400 / segurança : 268 / ti : 201 / novas : 199 / dúvidas : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[dúvidas : 134 / rede : 134 / uso : 134 / existem : 134 / software : 134 / novas : 199 / tempo : 199 / desenvolvimento : 199 / impacto : 199 / sistema : 199 / ti : 201 / aumento : 201 / melhor : 201 / assim : 201 / informações : 200 / dados : 201 / hardware : 201 / segurança : 268 / implantação : 267 / utilização : 400 / ]
+
+Binary Tree (In-Ordem):
+[software : 134 / existem : 134 / uso : 134 / rede : 134 / dúvidas : 134 / sistema : 199 / impacto : 199 / desenvolvimento : 199 / tempo : 199 / novas : 199 / informações : 200 / hardware : 201 / dados : 201 / assim : 201 / melhor : 201 / aumento : 201 / ti : 201 / implantação : 267 / segurança : 268 / utilização : 400 / ]
+
+AVL Tree (Pós-Ordem):
+[software : 134 / existem : 134 / rede : 134 / uso : 134 / sistema : 199 / desenvolvimento : 199 / impacto : 199 / dúvidas : 134 / novas : 199 / hardware : 201 / dados : 201 / informações : 200 / melhor : 201 / ti : 201 / aumento : 201 / utilização : 400 / segurança : 268 / implantação : 267 / assim : 201 / tempo : 199 / ]
+
+AVL Tree (Pré-Ordem):
+[tempo : 199 / dúvidas : 134 / uso : 134 / existem : 134 / software : 134 / rede : 134 / impacto : 199 / sistema : 199 / desenvolvimento : 199 / assim : 201 / informações : 200 / novas : 199 / dados : 201 / hardware : 201 / implantação : 267 / aumento : 201 / melhor : 201 / ti : 201 / segurança : 268 / utilização : 400 / ]
+
+AVL Tree (In-Ordem):
+[software : 134 / existem : 134 / uso : 134 / rede : 134 / dúvidas : 134 / sistema : 199 / impacto : 199 / desenvolvimento : 199 / tempo : 199 / novas : 199 / informações : 200 / hardware : 201 / dados : 201 / assim : 201 / melhor : 201 / aumento : 201 / ti : 201 / implantação : 267 / segurança : 268 / utilização : 400 / ]
+
+Huffman Tree (Pós-Ordem):
+[utilização : 400 : 000 / informações : 200 : 0010 / dados : 201 : 0011 / aumento : 201 : 0100 / melhor : 201 : 0101 / hardware : 201 : 0110 / ti : 201 : 0111 / assim : 201 : 1000 / implantação : 267 : 1001 / software : 134 : 10100 / existem : 134 : 10101 / uso : 134 : 10110 / dúvidas : 134 : 10111 / segurança : 268 : 1100 / rede : 134 : 11010 / sistema : 199 : 11011 / novas : 199 : 11100 / desenvolvimento : 199 : 11101 / tempo : 199 : 11110 / impacto : 199 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[utilização : 400 : 000 / informações : 200 : 0010 / dados : 201 : 0011 / aumento : 201 : 0100 / melhor : 201 : 0101 / hardware : 201 : 0110 / ti : 201 : 0111 / assim : 201 : 1000 / implantação : 267 : 1001 / software : 134 : 10100 / existem : 134 : 10101 / uso : 134 : 10110 / dúvidas : 134 : 10111 / segurança : 268 : 1100 / rede : 134 : 11010 / sistema : 199 : 11011 / novas : 199 : 11100 / desenvolvimento : 199 : 11101 / tempo : 199 : 11110 / impacto : 199 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[utilização : 400 : 000 / informações : 200 : 0010 / dados : 201 : 0011 / aumento : 201 : 0100 / melhor : 201 : 0101 / hardware : 201 : 0110 / ti : 201 : 0111 / assim : 201 : 1000 / implantação : 267 : 1001 / software : 134 : 10100 / existem : 134 : 10101 / uso : 134 : 10110 / dúvidas : 134 : 10111 / segurança : 268 : 1100 / rede : 134 : 11010 / sistema : 199 : 11011 / novas : 199 : 11100 / desenvolvimento : 199 : 11101 / tempo : 199 : 11110 / impacto : 199 : 11111 / ]
+-----------------------------------------------------------------------------
+
+software
+
+in1
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+software
+
+in2
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+software
+
+in3
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+software
+
+in4
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+software
+
+in5
+
+Binary Tree (Pós-Ordem):
+[sentido : 134 / sistemas : 134 / envolvidos : 134 / problemas : 134 / hardware : 199 / assim : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / informações : 201 / ti : 201 / novas : 201 / implantação : 266 / segurança : 268 / dados : 201 / utilização : 399 / sistema : 200 / tempo : 199 / utilizados : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[utilizados : 134 / problemas : 134 / envolvidos : 134 / sistemas : 134 / sentido : 134 / tempo : 199 / assim : 199 / hardware : 199 / sistema : 200 / aumento : 200 / desenvolvimento : 200 / melhor : 200 / impacto : 200 / utilização : 399 / dados : 201 / novas : 201 / ti : 201 / informações : 201 / segurança : 268 / implantação : 266 / ]
+
+Binary Tree (In-Ordem):
+[sentido : 134 / sistemas : 134 / envolvidos : 134 / problemas : 134 / utilizados : 134 / hardware : 199 / assim : 199 / tempo : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / sistema : 200 / informações : 201 / ti : 201 / novas : 201 / dados : 201 / implantação : 266 / segurança : 268 / utilização : 399 / ]
+
+AVL Tree (Pós-Ordem):
+[sentido : 134 / sistemas : 134 / problemas : 134 / envolvidos : 134 / hardware : 199 / assim : 199 / impacto : 200 / tempo : 199 / utilizados : 134 / desenvolvimento : 200 / aumento : 200 / informações : 201 / novas : 201 / ti : 201 / implantação : 266 / utilização : 399 / segurança : 268 / dados : 201 / sistema : 200 / melhor : 200 / ]
+
+AVL Tree (Pré-Ordem):
+[melhor : 200 / utilizados : 134 / envolvidos : 134 / sistemas : 134 / sentido : 134 / problemas : 134 / tempo : 199 / assim : 199 / hardware : 199 / impacto : 200 / sistema : 200 / aumento : 200 / desenvolvimento : 200 / dados : 201 / ti : 201 / informações : 201 / novas : 201 / segurança : 268 / implantação : 266 / utilização : 399 / ]
+
+AVL Tree (In-Ordem):
+[sentido : 134 / sistemas : 134 / envolvidos : 134 / problemas : 134 / utilizados : 134 / hardware : 199 / assim : 199 / tempo : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / sistema : 200 / informações : 201 / ti : 201 / novas : 201 / dados : 201 / implantação : 266 / segurança : 268 / utilização : 399 / ]
+
+Huffman Tree (Pós-Ordem):
+[desenvolvimento : 200 : 0000 / melhor : 200 : 0001 / sistema : 200 : 0010 / impacto : 200 : 0011 / aumento : 200 : 0100 / ti : 201 : 0101 / informações : 201 : 0110 / dados : 201 : 0111 / novas : 201 : 1000 / implantação : 266 : 1001 / sentido : 134 : 10100 / sistemas : 134 : 10101 / segurança : 268 : 1011 / envolvidos : 134 : 11000 / utilizados : 134 : 11001 / problemas : 134 : 11010 / hardware : 199 : 11011 / assim : 199 : 11100 / tempo : 199 : 11101 / utilização : 399 : 1111 / ]
+
+Huffman Tree (Pré-Ordem):
+[desenvolvimento : 200 : 0000 / melhor : 200 : 0001 / sistema : 200 : 0010 / impacto : 200 : 0011 / aumento : 200 : 0100 / ti : 201 : 0101 / informações : 201 : 0110 / dados : 201 : 0111 / novas : 201 : 1000 / implantação : 266 : 1001 / sentido : 134 : 10100 / sistemas : 134 : 10101 / segurança : 268 : 1011 / envolvidos : 134 : 11000 / utilizados : 134 : 11001 / problemas : 134 : 11010 / hardware : 199 : 11011 / assim : 199 : 11100 / tempo : 199 : 11101 / utilização : 399 : 1111 / ]
+
+Huffman Tree (In-Ordem):
+[desenvolvimento : 200 : 0000 / melhor : 200 : 0001 / sistema : 200 : 0010 / impacto : 200 : 0011 / aumento : 200 : 0100 / ti : 201 : 0101 / informações : 201 : 0110 / dados : 201 : 0111 / novas : 201 : 1000 / implantação : 266 : 1001 / sentido : 134 : 10100 / sistemas : 134 : 10101 / segurança : 268 : 1011 / envolvidos : 134 : 11000 / utilizados : 134 : 11001 / problemas : 134 : 11010 / hardware : 199 : 11011 / assim : 199 : 11100 / tempo : 199 : 11101 / utilização : 399 : 1111 / ]
+-----------------------------------------------------------------------------
+
+software
+
+in6
+
+Binary Tree (Pós-Ordem):
+[uso : 134 / existem : 134 / rede : 134 / sobre : 134 / sistema : 199 / impacto : 199 / desenvolvimento : 199 / tempo : 199 / hardware : 201 / dados : 201 / informações : 200 / assim : 201 / melhor : 201 / aumento : 201 / implantação : 267 / utilização : 400 / segurança : 268 / ti : 201 / novas : 199 / dúvidas : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[dúvidas : 134 / sobre : 134 / rede : 134 / existem : 134 / uso : 134 / novas : 199 / tempo : 199 / desenvolvimento : 199 / impacto : 199 / sistema : 199 / ti : 201 / aumento : 201 / melhor : 201 / assim : 201 / informações : 200 / dados : 201 / hardware : 201 / segurança : 268 / implantação : 267 / utilização : 400 / ]
+
+Binary Tree (In-Ordem):
+[uso : 134 / existem : 134 / rede : 134 / sobre : 134 / dúvidas : 134 / sistema : 199 / impacto : 199 / desenvolvimento : 199 / tempo : 199 / novas : 199 / informações : 200 / hardware : 201 / dados : 201 / assim : 201 / melhor : 201 / aumento : 201 / ti : 201 / implantação : 267 / segurança : 268 / utilização : 400 / ]
+
+AVL Tree (Pós-Ordem):
+[uso : 134 / existem : 134 / sobre : 134 / rede : 134 / sistema : 199 / desenvolvimento : 199 / impacto : 199 / dúvidas : 134 / novas : 199 / hardware : 201 / dados : 201 / informações : 200 / melhor : 201 / ti : 201 / aumento : 201 / utilização : 400 / segurança : 268 / implantação : 267 / assim : 201 / tempo : 199 / ]
+
+AVL Tree (Pré-Ordem):
+[tempo : 199 / dúvidas : 134 / rede : 134 / existem : 134 / uso : 134 / sobre : 134 / impacto : 199 / sistema : 199 / desenvolvimento : 199 / assim : 201 / informações : 200 / novas : 199 / dados : 201 / hardware : 201 / implantação : 267 / aumento : 201 / melhor : 201 / ti : 201 / segurança : 268 / utilização : 400 / ]
+
+AVL Tree (In-Ordem):
+[uso : 134 / existem : 134 / rede : 134 / sobre : 134 / dúvidas : 134 / sistema : 199 / impacto : 199 / desenvolvimento : 199 / tempo : 199 / novas : 199 / informações : 200 / hardware : 201 / dados : 201 / assim : 201 / melhor : 201 / aumento : 201 / ti : 201 / implantação : 267 / segurança : 268 / utilização : 400 / ]
+
+Huffman Tree (Pós-Ordem):
+[utilização : 400 : 000 / informações : 200 : 0010 / dados : 201 : 0011 / aumento : 201 : 0100 / melhor : 201 : 0101 / hardware : 201 : 0110 / ti : 201 : 0111 / assim : 201 : 1000 / implantação : 267 : 1001 / uso : 134 : 10100 / existem : 134 : 10101 / rede : 134 : 10110 / dúvidas : 134 : 10111 / segurança : 268 : 1100 / sobre : 134 : 11010 / sistema : 199 : 11011 / novas : 199 : 11100 / desenvolvimento : 199 : 11101 / tempo : 199 : 11110 / impacto : 199 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[utilização : 400 : 000 / informações : 200 : 0010 / dados : 201 : 0011 / aumento : 201 : 0100 / melhor : 201 : 0101 / hardware : 201 : 0110 / ti : 201 : 0111 / assim : 201 : 1000 / implantação : 267 : 1001 / uso : 134 : 10100 / existem : 134 : 10101 / rede : 134 : 10110 / dúvidas : 134 : 10111 / segurança : 268 : 1100 / sobre : 134 : 11010 / sistema : 199 : 11011 / novas : 199 : 11100 / desenvolvimento : 199 : 11101 / tempo : 199 : 11110 / impacto : 199 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[utilização : 400 : 000 / informações : 200 : 0010 / dados : 201 : 0011 / aumento : 201 : 0100 / melhor : 201 : 0101 / hardware : 201 : 0110 / ti : 201 : 0111 / assim : 201 : 1000 / implantação : 267 : 1001 / uso : 134 : 10100 / existem : 134 : 10101 / rede : 134 : 10110 / dúvidas : 134 : 10111 / segurança : 268 : 1100 / sobre : 134 : 11010 / sistema : 199 : 11011 / novas : 199 : 11100 / desenvolvimento : 199 : 11101 / tempo : 199 : 11110 / impacto : 199 : 11111 / ]
+-----------------------------------------------------------------------------
+
+melhor
+
+in1
+
+Binary Tree (Pós-Ordem):
+[maneira : 95 / quanto : 95 / wittgenstein : 95 / assim : 94 / É : 96 / imanente : 104 / segundo : 114 / sentido : 110 / pensamento : 115 / modo : 129 / priori : 125 / condição : 134 / mundo : 134 / sujeito : 145 / teoria : 176 / sistema : 115 / sobre : 114 / vista : 96 / pode : 95 / virtual : 93 / ]
+
+Binary Tree (Pré-Ordem):
+[virtual : 93 / pode : 95 / assim : 94 / wittgenstein : 95 / quanto : 95 / maneira : 95 / vista : 96 / É : 96 / sobre : 114 / sentido : 110 / imanente : 104 / segundo : 114 / sistema : 115 / pensamento : 115 / teoria : 176 / sujeito : 145 / mundo : 134 / condição : 134 / priori : 125 / modo : 129 / ]
+
+Binary Tree (In-Ordem):
+[virtual : 93 / assim : 94 / maneira : 95 / quanto : 95 / wittgenstein : 95 / pode : 95 / É : 96 / vista : 96 / imanente : 104 / sentido : 110 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 115 / priori : 125 / modo : 129 / condição : 134 / mundo : 134 / sujeito : 145 / teoria : 176 / ]
+
+AVL Tree (Pós-Ordem):
+[virtual : 93 / maneira : 95 / quanto : 95 / assim : 94 / É : 96 / pode : 95 / wittgenstein : 95 / imanente : 104 / segundo : 114 / pensamento : 115 / sobre : 114 / sentido : 110 / modo : 129 / priori : 125 / mundo : 134 / teoria : 176 / sujeito : 145 / condição : 134 / sistema : 115 / vista : 96 / ]
+
+AVL Tree (Pré-Ordem):
+[vista : 96 / wittgenstein : 95 / assim : 94 / virtual : 93 / quanto : 95 / maneira : 95 / pode : 95 / É : 96 / sistema : 115 / sentido : 110 / imanente : 104 / sobre : 114 / segundo : 114 / pensamento : 115 / condição : 134 / priori : 125 / modo : 129 / sujeito : 145 / mundo : 134 / teoria : 176 / ]
+
+AVL Tree (In-Ordem):
+[virtual : 93 / assim : 94 / maneira : 95 / quanto : 95 / wittgenstein : 95 / pode : 95 / É : 96 / vista : 96 / imanente : 104 / sentido : 110 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 115 / priori : 125 / modo : 129 / condição : 134 / mundo : 134 / sujeito : 145 / teoria : 176 / ]
+
+Huffman Tree (Pós-Ordem):
+[imanente : 104 : 0000 / sentido : 110 : 0001 / sobre : 114 : 0010 / segundo : 114 : 0011 / pensamento : 115 : 0100 / sistema : 115 : 0101 / priori : 125 : 0110 / modo : 129 : 0111 / condição : 134 : 1000 / mundo : 134 : 1001 / sujeito : 145 : 1010 / teoria : 176 : 1011 / virtual : 93 : 11000 / assim : 94 : 11001 / wittgenstein : 95 : 11010 / pode : 95 : 11011 / quanto : 95 : 11100 / maneira : 95 : 11101 / É : 96 : 11110 / vista : 96 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[imanente : 104 : 0000 / sentido : 110 : 0001 / sobre : 114 : 0010 / segundo : 114 : 0011 / pensamento : 115 : 0100 / sistema : 115 : 0101 / priori : 125 : 0110 / modo : 129 : 0111 / condição : 134 : 1000 / mundo : 134 : 1001 / sujeito : 145 : 1010 / teoria : 176 : 1011 / virtual : 93 : 11000 / assim : 94 : 11001 / wittgenstein : 95 : 11010 / pode : 95 : 11011 / quanto : 95 : 11100 / maneira : 95 : 11101 / É : 96 : 11110 / vista : 96 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[imanente : 104 : 0000 / sentido : 110 : 0001 / sobre : 114 : 0010 / segundo : 114 : 0011 / pensamento : 115 : 0100 / sistema : 115 : 0101 / priori : 125 : 0110 / modo : 129 : 0111 / condição : 134 : 1000 / mundo : 134 : 1001 / sujeito : 145 : 1010 / teoria : 176 : 1011 / virtual : 93 : 11000 / assim : 94 : 11001 / wittgenstein : 95 : 11010 / pode : 95 : 11011 / quanto : 95 : 11100 / maneira : 95 : 11101 / É : 96 : 11110 / vista : 96 : 11111 / ]
+-----------------------------------------------------------------------------
+
+melhor
+
+in2
+
+Binary Tree (Pós-Ordem):
+[É : 95 / possível : 95 / vista : 95 / wittgenstein : 95 / imanente : 109 / segundo : 114 / sobre : 114 / pensamento : 115 / condição : 133 / priori : 144 / modo : 129 / sistema : 119 / sentido : 111 / teoria : 192 / sujeito : 149 / mundo : 144 / princípio : 97 / pode : 96 / maneira : 95 / respeito : 90 / ]
+
+Binary Tree (Pré-Ordem):
+[respeito : 90 / maneira : 95 / wittgenstein : 95 / vista : 95 / possível : 95 / É : 95 / pode : 96 / princípio : 97 / mundo : 144 / sentido : 111 / imanente : 109 / sistema : 119 / pensamento : 115 / sobre : 114 / segundo : 114 / modo : 129 / priori : 144 / condição : 133 / sujeito : 149 / teoria : 192 / ]
+
+Binary Tree (In-Ordem):
+[respeito : 90 / É : 95 / possível : 95 / vista : 95 / wittgenstein : 95 / maneira : 95 / pode : 96 / princípio : 97 / imanente : 109 / sentido : 111 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 119 / modo : 129 / condição : 133 / priori : 144 / mundo : 144 / sujeito : 149 / teoria : 192 / ]
+
+AVL Tree (Pós-Ordem):
+[É : 95 / respeito : 90 / vista : 95 / possível : 95 / maneira : 95 / imanente : 109 / princípio : 97 / pode : 96 / wittgenstein : 95 / segundo : 114 / sobre : 114 / sistema : 119 / pensamento : 115 / condição : 133 / priori : 144 / teoria : 192 / sujeito : 149 / mundo : 144 / modo : 129 / sentido : 111 / ]
+
+AVL Tree (Pré-Ordem):
+[sentido : 111 / wittgenstein : 95 / possível : 95 / respeito : 90 / É : 95 / vista : 95 / pode : 96 / maneira : 95 / princípio : 97 / imanente : 109 / modo : 129 / pensamento : 115 / sobre : 114 / segundo : 114 / sistema : 119 / mundo : 144 / priori : 144 / condição : 133 / sujeito : 149 / teoria : 192 / ]
+
+AVL Tree (In-Ordem):
+[respeito : 90 / É : 95 / possível : 95 / vista : 95 / wittgenstein : 95 / maneira : 95 / pode : 96 / princípio : 97 / imanente : 109 / sentido : 111 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 119 / modo : 129 / condição : 133 / priori : 144 / mundo : 144 / sujeito : 149 / teoria : 192 / ]
+
+Huffman Tree (Pós-Ordem):
+[imanente : 109 : 0000 / sentido : 111 : 0001 / segundo : 114 : 0010 / sobre : 114 : 0011 / pensamento : 115 : 0100 / sistema : 119 : 0101 / modo : 129 : 0110 / condição : 133 : 0111 / mundo : 144 : 1000 / priori : 144 : 1001 / sujeito : 149 : 1010 / respeito : 90 : 10110 / É : 95 : 10111 / possível : 95 : 11000 / maneira : 95 : 11001 / vista : 95 : 11010 / wittgenstein : 95 : 11011 / teoria : 192 : 1110 / pode : 96 : 11110 / princípio : 97 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[imanente : 109 : 0000 / sentido : 111 : 0001 / segundo : 114 : 0010 / sobre : 114 : 0011 / pensamento : 115 : 0100 / sistema : 119 : 0101 / modo : 129 : 0110 / condição : 133 : 0111 / mundo : 144 : 1000 / priori : 144 : 1001 / sujeito : 149 : 1010 / respeito : 90 : 10110 / É : 95 : 10111 / possível : 95 : 11000 / maneira : 95 : 11001 / vista : 95 : 11010 / wittgenstein : 95 : 11011 / teoria : 192 : 1110 / pode : 96 : 11110 / princípio : 97 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[imanente : 109 : 0000 / sentido : 111 : 0001 / segundo : 114 : 0010 / sobre : 114 : 0011 / pensamento : 115 : 0100 / sistema : 119 : 0101 / modo : 129 : 0110 / condição : 133 : 0111 / mundo : 144 : 1000 / priori : 144 : 1001 / sujeito : 149 : 1010 / respeito : 90 : 10110 / É : 95 : 10111 / possível : 95 : 11000 / maneira : 95 : 11001 / vista : 95 : 11010 / wittgenstein : 95 : 11011 / teoria : 192 : 1110 / pode : 96 : 11110 / princípio : 97 : 11111 / ]
+-----------------------------------------------------------------------------
+
+melhor
+
+in3
+
+Binary Tree (Pós-Ordem):
+[impacto : 135 / formas : 135 / pontos : 135 / sobre : 135 / melhoria : 135 / determinação : 135 / importante : 135 / podemos : 136 / quadros : 136 / É : 137 / importância : 137 / sistema : 138 / pode : 137 / estabelecimento : 136 / assim : 200 / sentido : 203 / processo : 202 / modo : 138 / atual : 135 / ressaltar : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[ressaltar : 134 / atual : 135 / importante : 135 / determinação : 135 / melhoria : 135 / sobre : 135 / pontos : 135 / formas : 135 / impacto : 135 / modo : 138 / estabelecimento : 136 / quadros : 136 / podemos : 136 / pode : 137 / importância : 137 / É : 137 / sistema : 138 / processo : 202 / assim : 200 / sentido : 203 / ]
+
+Binary Tree (In-Ordem):
+[ressaltar : 134 / impacto : 135 / formas : 135 / pontos : 135 / sobre : 135 / melhoria : 135 / determinação : 135 / importante : 135 / atual : 135 / podemos : 136 / quadros : 136 / estabelecimento : 136 / É : 137 / importância : 137 / pode : 137 / sistema : 138 / modo : 138 / assim : 200 / processo : 202 / sentido : 203 / ]
+
+AVL Tree (Pós-Ordem):
+[ressaltar : 134 / formas : 135 / impacto : 135 / sobre : 135 / pontos : 135 / determinação : 135 / atual : 135 / quadros : 136 / podemos : 136 / importante : 135 / melhoria : 135 / É : 137 / importância : 137 / sistema : 138 / pode : 137 / assim : 200 / sentido : 203 / processo : 202 / modo : 138 / estabelecimento : 136 / ]
+
+AVL Tree (Pré-Ordem):
+[estabelecimento : 136 / melhoria : 135 / pontos : 135 / impacto : 135 / ressaltar : 134 / formas : 135 / sobre : 135 / importante : 135 / determinação : 135 / podemos : 136 / atual : 135 / quadros : 136 / modo : 138 / pode : 137 / importância : 137 / É : 137 / sistema : 138 / processo : 202 / assim : 200 / sentido : 203 / ]
+
+AVL Tree (In-Ordem):
+[ressaltar : 134 / impacto : 135 / formas : 135 / pontos : 135 / sobre : 135 / melhoria : 135 / determinação : 135 / importante : 135 / atual : 135 / podemos : 136 / quadros : 136 / estabelecimento : 136 / É : 137 / importância : 137 / pode : 137 / sistema : 138 / modo : 138 / assim : 200 / processo : 202 / sentido : 203 / ]
+
+Huffman Tree (Pós-Ordem):
+[importante : 135 : 0000 / podemos : 136 : 0001 / estabelecimento : 136 : 0010 / quadros : 136 : 0011 / É : 137 : 0100 / importância : 137 : 0101 / pode : 137 : 0110 / modo : 138 : 0111 / sistema : 138 : 1000 / assim : 200 : 1001 / processo : 202 : 1010 / sentido : 203 : 1011 / ressaltar : 134 : 11000 / impacto : 135 : 11001 / atual : 135 : 11010 / pontos : 135 : 11011 / determinação : 135 : 11100 / sobre : 135 : 11101 / formas : 135 : 11110 / melhoria : 135 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[importante : 135 : 0000 / podemos : 136 : 0001 / estabelecimento : 136 : 0010 / quadros : 136 : 0011 / É : 137 : 0100 / importância : 137 : 0101 / pode : 137 : 0110 / modo : 138 : 0111 / sistema : 138 : 1000 / assim : 200 : 1001 / processo : 202 : 1010 / sentido : 203 : 1011 / ressaltar : 134 : 11000 / impacto : 135 : 11001 / atual : 135 : 11010 / pontos : 135 : 11011 / determinação : 135 : 11100 / sobre : 135 : 11101 / formas : 135 : 11110 / melhoria : 135 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[importante : 135 : 0000 / podemos : 136 : 0001 / estabelecimento : 136 : 0010 / quadros : 136 : 0011 / É : 137 : 0100 / importância : 137 : 0101 / pode : 137 : 0110 / modo : 138 : 0111 / sistema : 138 : 1000 / assim : 200 : 1001 / processo : 202 : 1010 / sentido : 203 : 1011 / ressaltar : 134 : 11000 / impacto : 135 : 11001 / atual : 135 : 11010 / pontos : 135 : 11011 / determinação : 135 : 11100 / sobre : 135 : 11101 / formas : 135 : 11110 / melhoria : 135 : 11111 / ]
+-----------------------------------------------------------------------------
+
+melhor
+
+in4
+
+Binary Tree (Pós-Ordem):
+[modo : 134 / ainda : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / segurança : 134 / longo : 134 / processo : 198 / eleitores : 199 / política : 198 / melhoria : 201 / saúde : 201 / atual : 201 / político : 400 / políticas : 267 / assim : 201 / sentido : 200 / metas : 199 / impacto : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[impacto : 134 / longo : 134 / segurança : 134 / determinação : 134 / importância : 134 / condições : 134 / É : 134 / ainda : 134 / modo : 134 / metas : 199 / política : 198 / processo : 198 / eleitores : 199 / sentido : 200 / assim : 201 / atual : 201 / saúde : 201 / melhoria : 201 / políticas : 267 / político : 400 / ]
+
+Binary Tree (In-Ordem):
+[modo : 134 / ainda : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / segurança : 134 / longo : 134 / impacto : 134 / processo : 198 / política : 198 / eleitores : 199 / metas : 199 / sentido : 200 / melhoria : 201 / saúde : 201 / atual : 201 / assim : 201 / políticas : 267 / político : 400 / ]
+
+AVL Tree (Pós-Ordem):
+[modo : 134 / É : 134 / ainda : 134 / importância : 134 / segurança : 134 / determinação : 134 / condições : 134 / impacto : 134 / eleitores : 199 / política : 198 / processo : 198 / sentido : 200 / saúde : 201 / melhoria : 201 / assim : 201 / político : 400 / políticas : 267 / atual : 201 / metas : 199 / longo : 134 / ]
+
+AVL Tree (Pré-Ordem):
+[longo : 134 / condições : 134 / ainda : 134 / modo : 134 / É : 134 / determinação : 134 / importância : 134 / segurança : 134 / metas : 199 / processo : 198 / impacto : 134 / política : 198 / eleitores : 199 / atual : 201 / melhoria : 201 / sentido : 200 / saúde : 201 / políticas : 267 / assim : 201 / político : 400 / ]
+
+AVL Tree (In-Ordem):
+[modo : 134 / ainda : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / segurança : 134 / longo : 134 / impacto : 134 / processo : 198 / política : 198 / eleitores : 199 / metas : 199 / sentido : 200 / melhoria : 201 / saúde : 201 / atual : 201 / assim : 201 / políticas : 267 / político : 400 / ]
+
+Huffman Tree (Pós-Ordem):
+[política : 198 : 0000 / eleitores : 199 : 0001 / metas : 199 : 0010 / sentido : 200 : 0011 / político : 400 : 010 / atual : 201 : 0110 / saúde : 201 : 0111 / melhoria : 201 : 1000 / assim : 201 : 1001 / políticas : 267 : 1010 / ainda : 134 : 10110 / importância : 134 : 10111 / condições : 134 : 11000 / segurança : 134 : 11001 / modo : 134 : 11010 / É : 134 : 11011 / determinação : 134 : 11100 / impacto : 134 : 11101 / longo : 134 : 11110 / processo : 198 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[política : 198 : 0000 / eleitores : 199 : 0001 / metas : 199 : 0010 / sentido : 200 : 0011 / político : 400 : 010 / atual : 201 : 0110 / saúde : 201 : 0111 / melhoria : 201 : 1000 / assim : 201 : 1001 / políticas : 267 : 1010 / ainda : 134 : 10110 / importância : 134 : 10111 / condições : 134 : 11000 / segurança : 134 : 11001 / modo : 134 : 11010 / É : 134 : 11011 / determinação : 134 : 11100 / impacto : 134 : 11101 / longo : 134 : 11110 / processo : 198 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[política : 198 : 0000 / eleitores : 199 : 0001 / metas : 199 : 0010 / sentido : 200 : 0011 / político : 400 : 010 / atual : 201 : 0110 / saúde : 201 : 0111 / melhoria : 201 : 1000 / assim : 201 : 1001 / políticas : 267 : 1010 / ainda : 134 : 10110 / importância : 134 : 10111 / condições : 134 : 11000 / segurança : 134 : 11001 / modo : 134 : 11010 / É : 134 : 11011 / determinação : 134 : 11100 / impacto : 134 : 11101 / longo : 134 : 11110 / processo : 198 : 11111 / ]
+-----------------------------------------------------------------------------
+
+melhor
+
+in5
+
+Binary Tree (Pós-Ordem):
+[software : 134 / sentido : 134 / sistemas : 134 / envolvidos : 134 / problemas : 134 / hardware : 199 / assim : 199 / impacto : 200 / desenvolvimento : 200 / aumento : 200 / informações : 201 / ti : 201 / novas : 201 / implantação : 266 / segurança : 268 / dados : 201 / utilização : 399 / sistema : 200 / tempo : 199 / utilizados : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[utilizados : 134 / problemas : 134 / envolvidos : 134 / sistemas : 134 / sentido : 134 / software : 134 / tempo : 199 / assim : 199 / hardware : 199 / sistema : 200 / aumento : 200 / desenvolvimento : 200 / impacto : 200 / utilização : 399 / dados : 201 / novas : 201 / ti : 201 / informações : 201 / segurança : 268 / implantação : 266 / ]
+
+Binary Tree (In-Ordem):
+[software : 134 / sentido : 134 / sistemas : 134 / envolvidos : 134 / problemas : 134 / utilizados : 134 / hardware : 199 / assim : 199 / tempo : 199 / impacto : 200 / desenvolvimento : 200 / aumento : 200 / sistema : 200 / informações : 201 / ti : 201 / novas : 201 / dados : 201 / implantação : 266 / segurança : 268 / utilização : 399 / ]
+
+AVL Tree (Pós-Ordem):
+[software : 134 / sistemas : 134 / sentido : 134 / problemas : 134 / envolvidos : 134 / hardware : 199 / assim : 199 / impacto : 200 / desenvolvimento : 200 / tempo : 199 / utilizados : 134 / informações : 201 / sistema : 200 / novas : 201 / ti : 201 / implantação : 266 / utilização : 399 / segurança : 268 / dados : 201 / aumento : 200 / ]
+
+AVL Tree (Pré-Ordem):
+[aumento : 200 / utilizados : 134 / envolvidos : 134 / sentido : 134 / software : 134 / sistemas : 134 / problemas : 134 / tempo : 199 / assim : 199 / hardware : 199 / desenvolvimento : 200 / impacto : 200 / dados : 201 / ti : 201 / sistema : 200 / informações : 201 / novas : 201 / segurança : 268 / implantação : 266 / utilização : 399 / ]
+
+AVL Tree (In-Ordem):
+[software : 134 / sentido : 134 / sistemas : 134 / envolvidos : 134 / problemas : 134 / utilizados : 134 / hardware : 199 / assim : 199 / tempo : 199 / impacto : 200 / desenvolvimento : 200 / aumento : 200 / sistema : 200 / informações : 201 / ti : 201 / novas : 201 / dados : 201 / implantação : 266 / segurança : 268 / utilização : 399 / ]
+
+Huffman Tree (Pós-Ordem):
+[utilização : 399 : 000 / sistema : 200 : 0010 / impacto : 200 : 0011 / aumento : 200 : 0100 / ti : 201 : 0101 / informações : 201 : 0110 / dados : 201 : 0111 / novas : 201 : 1000 / implantação : 266 : 1001 / envolvidos : 134 : 10100 / utilizados : 134 : 10101 / sistemas : 134 : 10110 / problemas : 134 : 10111 / software : 134 : 11000 / sentido : 134 : 11001 / segurança : 268 : 1101 / hardware : 199 : 11100 / assim : 199 : 11101 / tempo : 199 : 11110 / desenvolvimento : 200 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[utilização : 399 : 000 / sistema : 200 : 0010 / impacto : 200 : 0011 / aumento : 200 : 0100 / ti : 201 : 0101 / informações : 201 : 0110 / dados : 201 : 0111 / novas : 201 : 1000 / implantação : 266 : 1001 / envolvidos : 134 : 10100 / utilizados : 134 : 10101 / sistemas : 134 : 10110 / problemas : 134 : 10111 / software : 134 : 11000 / sentido : 134 : 11001 / segurança : 268 : 1101 / hardware : 199 : 11100 / assim : 199 : 11101 / tempo : 199 : 11110 / desenvolvimento : 200 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[utilização : 399 : 000 / sistema : 200 : 0010 / impacto : 200 : 0011 / aumento : 200 : 0100 / ti : 201 : 0101 / informações : 201 : 0110 / dados : 201 : 0111 / novas : 201 : 1000 / implantação : 266 : 1001 / envolvidos : 134 : 10100 / utilizados : 134 : 10101 / sistemas : 134 : 10110 / problemas : 134 : 10111 / software : 134 : 11000 / sentido : 134 : 11001 / segurança : 268 : 1101 / hardware : 199 : 11100 / assim : 199 : 11101 / tempo : 199 : 11110 / desenvolvimento : 200 : 11111 / ]
+-----------------------------------------------------------------------------
+
+melhor
+
+in6
+
+Binary Tree (Pós-Ordem):
+[dúvidas : 134 / software : 134 / existem : 134 / uso : 134 / rede : 134 / sistema : 199 / impacto : 199 / desenvolvimento : 199 / tempo : 199 / hardware : 201 / dados : 201 / informações : 200 / assim : 201 / aumento : 201 / implantação : 267 / utilização : 400 / segurança : 268 / ti : 201 / novas : 199 / sobre : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[sobre : 134 / rede : 134 / uso : 134 / existem : 134 / software : 134 / dúvidas : 134 / novas : 199 / tempo : 199 / desenvolvimento : 199 / impacto : 199 / sistema : 199 / ti : 201 / aumento : 201 / assim : 201 / informações : 200 / dados : 201 / hardware : 201 / segurança : 268 / implantação : 267 / utilização : 400 / ]
+
+Binary Tree (In-Ordem):
+[dúvidas : 134 / software : 134 / existem : 134 / uso : 134 / rede : 134 / sobre : 134 / sistema : 199 / impacto : 199 / desenvolvimento : 199 / tempo : 199 / novas : 199 / informações : 200 / hardware : 201 / dados : 201 / assim : 201 / aumento : 201 / ti : 201 / implantação : 267 / segurança : 268 / utilização : 400 / ]
+
+AVL Tree (Pós-Ordem):
+[dúvidas : 134 / existem : 134 / software : 134 / rede : 134 / uso : 134 / sistema : 199 / desenvolvimento : 199 / impacto : 199 / novas : 199 / tempo : 199 / sobre : 134 / hardware : 201 / assim : 201 / dados : 201 / ti : 201 / utilização : 400 / segurança : 268 / implantação : 267 / aumento : 201 / informações : 200 / ]
+
+AVL Tree (Pré-Ordem):
+[informações : 200 / sobre : 134 / uso : 134 / software : 134 / dúvidas : 134 / existem : 134 / rede : 134 / tempo : 199 / impacto : 199 / sistema : 199 / desenvolvimento : 199 / novas : 199 / aumento : 201 / dados : 201 / hardware : 201 / assim : 201 / implantação : 267 / ti : 201 / segurança : 268 / utilização : 400 / ]
+
+AVL Tree (In-Ordem):
+[dúvidas : 134 / software : 134 / existem : 134 / uso : 134 / rede : 134 / sobre : 134 / sistema : 199 / impacto : 199 / desenvolvimento : 199 / tempo : 199 / novas : 199 / informações : 200 / hardware : 201 / dados : 201 / assim : 201 / aumento : 201 / ti : 201 / implantação : 267 / segurança : 268 / utilização : 400 / ]
+
+Huffman Tree (Pós-Ordem):
+[desenvolvimento : 199 : 0000 / informações : 200 : 0001 / utilização : 400 : 001 / dados : 201 : 0100 / hardware : 201 : 0101 / ti : 201 : 0110 / aumento : 201 : 0111 / assim : 201 : 1000 / implantação : 267 : 1001 / rede : 134 : 10100 / software : 134 : 10101 / uso : 134 : 10110 / sobre : 134 : 10111 / dúvidas : 134 : 11000 / existem : 134 : 11001 / segurança : 268 : 1101 / sistema : 199 : 11100 / tempo : 199 : 11101 / impacto : 199 : 11110 / novas : 199 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[desenvolvimento : 199 : 0000 / informações : 200 : 0001 / utilização : 400 : 001 / dados : 201 : 0100 / hardware : 201 : 0101 / ti : 201 : 0110 / aumento : 201 : 0111 / assim : 201 : 1000 / implantação : 267 : 1001 / rede : 134 : 10100 / software : 134 : 10101 / uso : 134 : 10110 / sobre : 134 : 10111 / dúvidas : 134 : 11000 / existem : 134 : 11001 / segurança : 268 : 1101 / sistema : 199 : 11100 / tempo : 199 : 11101 / impacto : 199 : 11110 / novas : 199 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[desenvolvimento : 199 : 0000 / informações : 200 : 0001 / utilização : 400 : 001 / dados : 201 : 0100 / hardware : 201 : 0101 / ti : 201 : 0110 / aumento : 201 : 0111 / assim : 201 : 1000 / implantação : 267 : 1001 / rede : 134 : 10100 / software : 134 : 10101 / uso : 134 : 10110 / sobre : 134 : 10111 / dúvidas : 134 : 11000 / existem : 134 : 11001 / segurança : 268 : 1101 / sistema : 199 : 11100 / tempo : 199 : 11101 / impacto : 199 : 11110 / novas : 199 : 11111 / ]
+-----------------------------------------------------------------------------
+
+recursos
+
+in1
+
+Binary Tree (Pós-Ordem):
+[maneira : 95 / quanto : 95 / wittgenstein : 95 / assim : 94 / É : 96 / imanente : 104 / segundo : 114 / sentido : 110 / pensamento : 115 / modo : 129 / priori : 125 / condição : 134 / mundo : 134 / sujeito : 145 / teoria : 176 / sistema : 115 / sobre : 114 / vista : 96 / pode : 95 / virtual : 93 / ]
+
+Binary Tree (Pré-Ordem):
+[virtual : 93 / pode : 95 / assim : 94 / wittgenstein : 95 / quanto : 95 / maneira : 95 / vista : 96 / É : 96 / sobre : 114 / sentido : 110 / imanente : 104 / segundo : 114 / sistema : 115 / pensamento : 115 / teoria : 176 / sujeito : 145 / mundo : 134 / condição : 134 / priori : 125 / modo : 129 / ]
+
+Binary Tree (In-Ordem):
+[virtual : 93 / assim : 94 / maneira : 95 / quanto : 95 / wittgenstein : 95 / pode : 95 / É : 96 / vista : 96 / imanente : 104 / sentido : 110 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 115 / priori : 125 / modo : 129 / condição : 134 / mundo : 134 / sujeito : 145 / teoria : 176 / ]
+
+AVL Tree (Pós-Ordem):
+[virtual : 93 / maneira : 95 / quanto : 95 / assim : 94 / É : 96 / pode : 95 / wittgenstein : 95 / imanente : 104 / segundo : 114 / pensamento : 115 / sobre : 114 / sentido : 110 / modo : 129 / priori : 125 / mundo : 134 / teoria : 176 / sujeito : 145 / condição : 134 / sistema : 115 / vista : 96 / ]
+
+AVL Tree (Pré-Ordem):
+[vista : 96 / wittgenstein : 95 / assim : 94 / virtual : 93 / quanto : 95 / maneira : 95 / pode : 95 / É : 96 / sistema : 115 / sentido : 110 / imanente : 104 / sobre : 114 / segundo : 114 / pensamento : 115 / condição : 134 / priori : 125 / modo : 129 / sujeito : 145 / mundo : 134 / teoria : 176 / ]
+
+AVL Tree (In-Ordem):
+[virtual : 93 / assim : 94 / maneira : 95 / quanto : 95 / wittgenstein : 95 / pode : 95 / É : 96 / vista : 96 / imanente : 104 / sentido : 110 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 115 / priori : 125 / modo : 129 / condição : 134 / mundo : 134 / sujeito : 145 / teoria : 176 / ]
+
+Huffman Tree (Pós-Ordem):
+[imanente : 104 : 0000 / sentido : 110 : 0001 / sobre : 114 : 0010 / segundo : 114 : 0011 / pensamento : 115 : 0100 / sistema : 115 : 0101 / priori : 125 : 0110 / modo : 129 : 0111 / condição : 134 : 1000 / mundo : 134 : 1001 / sujeito : 145 : 1010 / teoria : 176 : 1011 / virtual : 93 : 11000 / assim : 94 : 11001 / wittgenstein : 95 : 11010 / pode : 95 : 11011 / quanto : 95 : 11100 / maneira : 95 : 11101 / É : 96 : 11110 / vista : 96 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[imanente : 104 : 0000 / sentido : 110 : 0001 / sobre : 114 : 0010 / segundo : 114 : 0011 / pensamento : 115 : 0100 / sistema : 115 : 0101 / priori : 125 : 0110 / modo : 129 : 0111 / condição : 134 : 1000 / mundo : 134 : 1001 / sujeito : 145 : 1010 / teoria : 176 : 1011 / virtual : 93 : 11000 / assim : 94 : 11001 / wittgenstein : 95 : 11010 / pode : 95 : 11011 / quanto : 95 : 11100 / maneira : 95 : 11101 / É : 96 : 11110 / vista : 96 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[imanente : 104 : 0000 / sentido : 110 : 0001 / sobre : 114 : 0010 / segundo : 114 : 0011 / pensamento : 115 : 0100 / sistema : 115 : 0101 / priori : 125 : 0110 / modo : 129 : 0111 / condição : 134 : 1000 / mundo : 134 : 1001 / sujeito : 145 : 1010 / teoria : 176 : 1011 / virtual : 93 : 11000 / assim : 94 : 11001 / wittgenstein : 95 : 11010 / pode : 95 : 11011 / quanto : 95 : 11100 / maneira : 95 : 11101 / É : 96 : 11110 / vista : 96 : 11111 / ]
+-----------------------------------------------------------------------------
+
+recursos
+
+in2
+
+Binary Tree (Pós-Ordem):
+[É : 95 / possível : 95 / vista : 95 / wittgenstein : 95 / imanente : 109 / segundo : 114 / sobre : 114 / pensamento : 115 / condição : 133 / priori : 144 / modo : 129 / sistema : 119 / sentido : 111 / teoria : 192 / sujeito : 149 / mundo : 144 / princípio : 97 / pode : 96 / maneira : 95 / respeito : 90 / ]
+
+Binary Tree (Pré-Ordem):
+[respeito : 90 / maneira : 95 / wittgenstein : 95 / vista : 95 / possível : 95 / É : 95 / pode : 96 / princípio : 97 / mundo : 144 / sentido : 111 / imanente : 109 / sistema : 119 / pensamento : 115 / sobre : 114 / segundo : 114 / modo : 129 / priori : 144 / condição : 133 / sujeito : 149 / teoria : 192 / ]
+
+Binary Tree (In-Ordem):
+[respeito : 90 / É : 95 / possível : 95 / vista : 95 / wittgenstein : 95 / maneira : 95 / pode : 96 / princípio : 97 / imanente : 109 / sentido : 111 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 119 / modo : 129 / condição : 133 / priori : 144 / mundo : 144 / sujeito : 149 / teoria : 192 / ]
+
+AVL Tree (Pós-Ordem):
+[É : 95 / respeito : 90 / vista : 95 / possível : 95 / maneira : 95 / imanente : 109 / princípio : 97 / pode : 96 / wittgenstein : 95 / segundo : 114 / sobre : 114 / sistema : 119 / pensamento : 115 / condição : 133 / priori : 144 / teoria : 192 / sujeito : 149 / mundo : 144 / modo : 129 / sentido : 111 / ]
+
+AVL Tree (Pré-Ordem):
+[sentido : 111 / wittgenstein : 95 / possível : 95 / respeito : 90 / É : 95 / vista : 95 / pode : 96 / maneira : 95 / princípio : 97 / imanente : 109 / modo : 129 / pensamento : 115 / sobre : 114 / segundo : 114 / sistema : 119 / mundo : 144 / priori : 144 / condição : 133 / sujeito : 149 / teoria : 192 / ]
+
+AVL Tree (In-Ordem):
+[respeito : 90 / É : 95 / possível : 95 / vista : 95 / wittgenstein : 95 / maneira : 95 / pode : 96 / princípio : 97 / imanente : 109 / sentido : 111 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 119 / modo : 129 / condição : 133 / priori : 144 / mundo : 144 / sujeito : 149 / teoria : 192 / ]
+
+Huffman Tree (Pós-Ordem):
+[imanente : 109 : 0000 / sentido : 111 : 0001 / segundo : 114 : 0010 / sobre : 114 : 0011 / pensamento : 115 : 0100 / sistema : 119 : 0101 / modo : 129 : 0110 / condição : 133 : 0111 / mundo : 144 : 1000 / priori : 144 : 1001 / sujeito : 149 : 1010 / respeito : 90 : 10110 / É : 95 : 10111 / possível : 95 : 11000 / maneira : 95 : 11001 / vista : 95 : 11010 / wittgenstein : 95 : 11011 / teoria : 192 : 1110 / pode : 96 : 11110 / princípio : 97 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[imanente : 109 : 0000 / sentido : 111 : 0001 / segundo : 114 : 0010 / sobre : 114 : 0011 / pensamento : 115 : 0100 / sistema : 119 : 0101 / modo : 129 : 0110 / condição : 133 : 0111 / mundo : 144 : 1000 / priori : 144 : 1001 / sujeito : 149 : 1010 / respeito : 90 : 10110 / É : 95 : 10111 / possível : 95 : 11000 / maneira : 95 : 11001 / vista : 95 : 11010 / wittgenstein : 95 : 11011 / teoria : 192 : 1110 / pode : 96 : 11110 / princípio : 97 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[imanente : 109 : 0000 / sentido : 111 : 0001 / segundo : 114 : 0010 / sobre : 114 : 0011 / pensamento : 115 : 0100 / sistema : 119 : 0101 / modo : 129 : 0110 / condição : 133 : 0111 / mundo : 144 : 1000 / priori : 144 : 1001 / sujeito : 149 : 1010 / respeito : 90 : 10110 / É : 95 : 10111 / possível : 95 : 11000 / maneira : 95 : 11001 / vista : 95 : 11010 / wittgenstein : 95 : 11011 / teoria : 192 : 1110 / pode : 96 : 11110 / princípio : 97 : 11111 / ]
+-----------------------------------------------------------------------------
+
+recursos
+
+in3
+
+Binary Tree (Pós-Ordem):
+[impacto : 135 / formas : 135 / pontos : 135 / sobre : 135 / melhoria : 135 / determinação : 135 / importante : 135 / podemos : 136 / quadros : 136 / É : 137 / importância : 137 / sistema : 138 / pode : 137 / estabelecimento : 136 / assim : 200 / sentido : 203 / processo : 202 / modo : 138 / atual : 135 / ressaltar : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[ressaltar : 134 / atual : 135 / importante : 135 / determinação : 135 / melhoria : 135 / sobre : 135 / pontos : 135 / formas : 135 / impacto : 135 / modo : 138 / estabelecimento : 136 / quadros : 136 / podemos : 136 / pode : 137 / importância : 137 / É : 137 / sistema : 138 / processo : 202 / assim : 200 / sentido : 203 / ]
+
+Binary Tree (In-Ordem):
+[ressaltar : 134 / impacto : 135 / formas : 135 / pontos : 135 / sobre : 135 / melhoria : 135 / determinação : 135 / importante : 135 / atual : 135 / podemos : 136 / quadros : 136 / estabelecimento : 136 / É : 137 / importância : 137 / pode : 137 / sistema : 138 / modo : 138 / assim : 200 / processo : 202 / sentido : 203 / ]
+
+AVL Tree (Pós-Ordem):
+[ressaltar : 134 / formas : 135 / impacto : 135 / sobre : 135 / pontos : 135 / determinação : 135 / atual : 135 / quadros : 136 / podemos : 136 / importante : 135 / melhoria : 135 / É : 137 / importância : 137 / sistema : 138 / pode : 137 / assim : 200 / sentido : 203 / processo : 202 / modo : 138 / estabelecimento : 136 / ]
+
+AVL Tree (Pré-Ordem):
+[estabelecimento : 136 / melhoria : 135 / pontos : 135 / impacto : 135 / ressaltar : 134 / formas : 135 / sobre : 135 / importante : 135 / determinação : 135 / podemos : 136 / atual : 135 / quadros : 136 / modo : 138 / pode : 137 / importância : 137 / É : 137 / sistema : 138 / processo : 202 / assim : 200 / sentido : 203 / ]
+
+AVL Tree (In-Ordem):
+[ressaltar : 134 / impacto : 135 / formas : 135 / pontos : 135 / sobre : 135 / melhoria : 135 / determinação : 135 / importante : 135 / atual : 135 / podemos : 136 / quadros : 136 / estabelecimento : 136 / É : 137 / importância : 137 / pode : 137 / sistema : 138 / modo : 138 / assim : 200 / processo : 202 / sentido : 203 / ]
+
+Huffman Tree (Pós-Ordem):
+[importante : 135 : 0000 / podemos : 136 : 0001 / estabelecimento : 136 : 0010 / quadros : 136 : 0011 / É : 137 : 0100 / importância : 137 : 0101 / pode : 137 : 0110 / modo : 138 : 0111 / sistema : 138 : 1000 / assim : 200 : 1001 / processo : 202 : 1010 / sentido : 203 : 1011 / ressaltar : 134 : 11000 / impacto : 135 : 11001 / atual : 135 : 11010 / pontos : 135 : 11011 / determinação : 135 : 11100 / sobre : 135 : 11101 / formas : 135 : 11110 / melhoria : 135 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[importante : 135 : 0000 / podemos : 136 : 0001 / estabelecimento : 136 : 0010 / quadros : 136 : 0011 / É : 137 : 0100 / importância : 137 : 0101 / pode : 137 : 0110 / modo : 138 : 0111 / sistema : 138 : 1000 / assim : 200 : 1001 / processo : 202 : 1010 / sentido : 203 : 1011 / ressaltar : 134 : 11000 / impacto : 135 : 11001 / atual : 135 : 11010 / pontos : 135 : 11011 / determinação : 135 : 11100 / sobre : 135 : 11101 / formas : 135 : 11110 / melhoria : 135 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[importante : 135 : 0000 / podemos : 136 : 0001 / estabelecimento : 136 : 0010 / quadros : 136 : 0011 / É : 137 : 0100 / importância : 137 : 0101 / pode : 137 : 0110 / modo : 138 : 0111 / sistema : 138 : 1000 / assim : 200 : 1001 / processo : 202 : 1010 / sentido : 203 : 1011 / ressaltar : 134 : 11000 / impacto : 135 : 11001 / atual : 135 : 11010 / pontos : 135 : 11011 / determinação : 135 : 11100 / sobre : 135 : 11101 / formas : 135 : 11110 / melhoria : 135 : 11111 / ]
+-----------------------------------------------------------------------------
+
+recursos
+
+in4
+
+Binary Tree (Pós-Ordem):
+[modo : 134 / ainda : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / segurança : 134 / longo : 134 / processo : 198 / eleitores : 199 / política : 198 / melhoria : 201 / saúde : 201 / atual : 201 / político : 400 / políticas : 267 / assim : 201 / sentido : 200 / metas : 199 / impacto : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[impacto : 134 / longo : 134 / segurança : 134 / determinação : 134 / importância : 134 / condições : 134 / É : 134 / ainda : 134 / modo : 134 / metas : 199 / política : 198 / processo : 198 / eleitores : 199 / sentido : 200 / assim : 201 / atual : 201 / saúde : 201 / melhoria : 201 / políticas : 267 / político : 400 / ]
+
+Binary Tree (In-Ordem):
+[modo : 134 / ainda : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / segurança : 134 / longo : 134 / impacto : 134 / processo : 198 / política : 198 / eleitores : 199 / metas : 199 / sentido : 200 / melhoria : 201 / saúde : 201 / atual : 201 / assim : 201 / políticas : 267 / político : 400 / ]
+
+AVL Tree (Pós-Ordem):
+[modo : 134 / É : 134 / ainda : 134 / importância : 134 / segurança : 134 / determinação : 134 / condições : 134 / impacto : 134 / eleitores : 199 / política : 198 / processo : 198 / sentido : 200 / saúde : 201 / melhoria : 201 / assim : 201 / político : 400 / políticas : 267 / atual : 201 / metas : 199 / longo : 134 / ]
+
+AVL Tree (Pré-Ordem):
+[longo : 134 / condições : 134 / ainda : 134 / modo : 134 / É : 134 / determinação : 134 / importância : 134 / segurança : 134 / metas : 199 / processo : 198 / impacto : 134 / política : 198 / eleitores : 199 / atual : 201 / melhoria : 201 / sentido : 200 / saúde : 201 / políticas : 267 / assim : 201 / político : 400 / ]
+
+AVL Tree (In-Ordem):
+[modo : 134 / ainda : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / segurança : 134 / longo : 134 / impacto : 134 / processo : 198 / política : 198 / eleitores : 199 / metas : 199 / sentido : 200 / melhoria : 201 / saúde : 201 / atual : 201 / assim : 201 / políticas : 267 / político : 400 / ]
+
+Huffman Tree (Pós-Ordem):
+[política : 198 : 0000 / eleitores : 199 : 0001 / metas : 199 : 0010 / sentido : 200 : 0011 / político : 400 : 010 / atual : 201 : 0110 / saúde : 201 : 0111 / melhoria : 201 : 1000 / assim : 201 : 1001 / políticas : 267 : 1010 / ainda : 134 : 10110 / importância : 134 : 10111 / condições : 134 : 11000 / segurança : 134 : 11001 / modo : 134 : 11010 / É : 134 : 11011 / determinação : 134 : 11100 / impacto : 134 : 11101 / longo : 134 : 11110 / processo : 198 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[política : 198 : 0000 / eleitores : 199 : 0001 / metas : 199 : 0010 / sentido : 200 : 0011 / político : 400 : 010 / atual : 201 : 0110 / saúde : 201 : 0111 / melhoria : 201 : 1000 / assim : 201 : 1001 / políticas : 267 : 1010 / ainda : 134 : 10110 / importância : 134 : 10111 / condições : 134 : 11000 / segurança : 134 : 11001 / modo : 134 : 11010 / É : 134 : 11011 / determinação : 134 : 11100 / impacto : 134 : 11101 / longo : 134 : 11110 / processo : 198 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[política : 198 : 0000 / eleitores : 199 : 0001 / metas : 199 : 0010 / sentido : 200 : 0011 / político : 400 : 010 / atual : 201 : 0110 / saúde : 201 : 0111 / melhoria : 201 : 1000 / assim : 201 : 1001 / políticas : 267 : 1010 / ainda : 134 : 10110 / importância : 134 : 10111 / condições : 134 : 11000 / segurança : 134 : 11001 / modo : 134 : 11010 / É : 134 : 11011 / determinação : 134 : 11100 / impacto : 134 : 11101 / longo : 134 : 11110 / processo : 198 : 11111 / ]
+-----------------------------------------------------------------------------
+
+recursos
+
+in5
+
+Binary Tree (Pós-Ordem):
+[sentido : 134 / software : 134 / envolvidos : 134 / problemas : 134 / hardware : 199 / assim : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / informações : 201 / ti : 201 / novas : 201 / implantação : 266 / segurança : 268 / dados : 201 / utilização : 399 / sistema : 200 / tempo : 199 / utilizados : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[utilizados : 134 / problemas : 134 / envolvidos : 134 / software : 134 / sentido : 134 / tempo : 199 / assim : 199 / hardware : 199 / sistema : 200 / aumento : 200 / desenvolvimento : 200 / melhor : 200 / impacto : 200 / utilização : 399 / dados : 201 / novas : 201 / ti : 201 / informações : 201 / segurança : 268 / implantação : 266 / ]
+
+Binary Tree (In-Ordem):
+[sentido : 134 / software : 134 / envolvidos : 134 / problemas : 134 / utilizados : 134 / hardware : 199 / assim : 199 / tempo : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / sistema : 200 / informações : 201 / ti : 201 / novas : 201 / dados : 201 / implantação : 266 / segurança : 268 / utilização : 399 / ]
+
+AVL Tree (Pós-Ordem):
+[sentido : 134 / software : 134 / problemas : 134 / envolvidos : 134 / hardware : 199 / assim : 199 / impacto : 200 / tempo : 199 / utilizados : 134 / desenvolvimento : 200 / aumento : 200 / informações : 201 / novas : 201 / ti : 201 / implantação : 266 / utilização : 399 / segurança : 268 / dados : 201 / sistema : 200 / melhor : 200 / ]
+
+AVL Tree (Pré-Ordem):
+[melhor : 200 / utilizados : 134 / envolvidos : 134 / software : 134 / sentido : 134 / problemas : 134 / tempo : 199 / assim : 199 / hardware : 199 / impacto : 200 / sistema : 200 / aumento : 200 / desenvolvimento : 200 / dados : 201 / ti : 201 / informações : 201 / novas : 201 / segurança : 268 / implantação : 266 / utilização : 399 / ]
+
+AVL Tree (In-Ordem):
+[sentido : 134 / software : 134 / envolvidos : 134 / problemas : 134 / utilizados : 134 / hardware : 199 / assim : 199 / tempo : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / sistema : 200 / informações : 201 / ti : 201 / novas : 201 / dados : 201 / implantação : 266 / segurança : 268 / utilização : 399 / ]
+
+Huffman Tree (Pós-Ordem):
+[desenvolvimento : 200 : 0000 / melhor : 200 : 0001 / sistema : 200 : 0010 / impacto : 200 : 0011 / aumento : 200 : 0100 / ti : 201 : 0101 / informações : 201 : 0110 / dados : 201 : 0111 / novas : 201 : 1000 / implantação : 266 : 1001 / sentido : 134 : 10100 / software : 134 : 10101 / segurança : 268 : 1011 / envolvidos : 134 : 11000 / utilizados : 134 : 11001 / problemas : 134 : 11010 / hardware : 199 : 11011 / assim : 199 : 11100 / tempo : 199 : 11101 / utilização : 399 : 1111 / ]
+
+Huffman Tree (Pré-Ordem):
+[desenvolvimento : 200 : 0000 / melhor : 200 : 0001 / sistema : 200 : 0010 / impacto : 200 : 0011 / aumento : 200 : 0100 / ti : 201 : 0101 / informações : 201 : 0110 / dados : 201 : 0111 / novas : 201 : 1000 / implantação : 266 : 1001 / sentido : 134 : 10100 / software : 134 : 10101 / segurança : 268 : 1011 / envolvidos : 134 : 11000 / utilizados : 134 : 11001 / problemas : 134 : 11010 / hardware : 199 : 11011 / assim : 199 : 11100 / tempo : 199 : 11101 / utilização : 399 : 1111 / ]
+
+Huffman Tree (In-Ordem):
+[desenvolvimento : 200 : 0000 / melhor : 200 : 0001 / sistema : 200 : 0010 / impacto : 200 : 0011 / aumento : 200 : 0100 / ti : 201 : 0101 / informações : 201 : 0110 / dados : 201 : 0111 / novas : 201 : 1000 / implantação : 266 : 1001 / sentido : 134 : 10100 / software : 134 : 10101 / segurança : 268 : 1011 / envolvidos : 134 : 11000 / utilizados : 134 : 11001 / problemas : 134 : 11010 / hardware : 199 : 11011 / assim : 199 : 11100 / tempo : 199 : 11101 / utilização : 399 : 1111 / ]
+-----------------------------------------------------------------------------
+
+recursos
+
+in6
+
+Binary Tree (Pós-Ordem):
+[software : 134 / existem : 134 / uso : 134 / rede : 134 / sistema : 199 / impacto : 199 / desenvolvimento : 199 / tempo : 199 / hardware : 201 / dados : 201 / informações : 200 / assim : 201 / melhor : 201 / aumento : 201 / implantação : 267 / utilização : 400 / segurança : 268 / ti : 201 / novas : 199 / sobre : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[sobre : 134 / rede : 134 / uso : 134 / existem : 134 / software : 134 / novas : 199 / tempo : 199 / desenvolvimento : 199 / impacto : 199 / sistema : 199 / ti : 201 / aumento : 201 / melhor : 201 / assim : 201 / informações : 200 / dados : 201 / hardware : 201 / segurança : 268 / implantação : 267 / utilização : 400 / ]
+
+Binary Tree (In-Ordem):
+[software : 134 / existem : 134 / uso : 134 / rede : 134 / sobre : 134 / sistema : 199 / impacto : 199 / desenvolvimento : 199 / tempo : 199 / novas : 199 / informações : 200 / hardware : 201 / dados : 201 / assim : 201 / melhor : 201 / aumento : 201 / ti : 201 / implantação : 267 / segurança : 268 / utilização : 400 / ]
+
+AVL Tree (Pós-Ordem):
+[software : 134 / existem : 134 / rede : 134 / uso : 134 / sistema : 199 / desenvolvimento : 199 / impacto : 199 / sobre : 134 / novas : 199 / hardware : 201 / dados : 201 / informações : 200 / melhor : 201 / ti : 201 / aumento : 201 / utilização : 400 / segurança : 268 / implantação : 267 / assim : 201 / tempo : 199 / ]
+
+AVL Tree (Pré-Ordem):
+[tempo : 199 / sobre : 134 / uso : 134 / existem : 134 / software : 134 / rede : 134 / impacto : 199 / sistema : 199 / desenvolvimento : 199 / assim : 201 / informações : 200 / novas : 199 / dados : 201 / hardware : 201 / implantação : 267 / aumento : 201 / melhor : 201 / ti : 201 / segurança : 268 / utilização : 400 / ]
+
+AVL Tree (In-Ordem):
+[software : 134 / existem : 134 / uso : 134 / rede : 134 / sobre : 134 / sistema : 199 / impacto : 199 / desenvolvimento : 199 / tempo : 199 / novas : 199 / informações : 200 / hardware : 201 / dados : 201 / assim : 201 / melhor : 201 / aumento : 201 / ti : 201 / implantação : 267 / segurança : 268 / utilização : 400 / ]
+
+Huffman Tree (Pós-Ordem):
+[utilização : 400 : 000 / informações : 200 : 0010 / dados : 201 : 0011 / aumento : 201 : 0100 / melhor : 201 : 0101 / hardware : 201 : 0110 / ti : 201 : 0111 / assim : 201 : 1000 / implantação : 267 : 1001 / software : 134 : 10100 / existem : 134 : 10101 / uso : 134 : 10110 / sobre : 134 : 10111 / segurança : 268 : 1100 / rede : 134 : 11010 / sistema : 199 : 11011 / novas : 199 : 11100 / desenvolvimento : 199 : 11101 / tempo : 199 : 11110 / impacto : 199 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[utilização : 400 : 000 / informações : 200 : 0010 / dados : 201 : 0011 / aumento : 201 : 0100 / melhor : 201 : 0101 / hardware : 201 : 0110 / ti : 201 : 0111 / assim : 201 : 1000 / implantação : 267 : 1001 / software : 134 : 10100 / existem : 134 : 10101 / uso : 134 : 10110 / sobre : 134 : 10111 / segurança : 268 : 1100 / rede : 134 : 11010 / sistema : 199 : 11011 / novas : 199 : 11100 / desenvolvimento : 199 : 11101 / tempo : 199 : 11110 / impacto : 199 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[utilização : 400 : 000 / informações : 200 : 0010 / dados : 201 : 0011 / aumento : 201 : 0100 / melhor : 201 : 0101 / hardware : 201 : 0110 / ti : 201 : 0111 / assim : 201 : 1000 / implantação : 267 : 1001 / software : 134 : 10100 / existem : 134 : 10101 / uso : 134 : 10110 / sobre : 134 : 10111 / segurança : 268 : 1100 / rede : 134 : 11010 / sistema : 199 : 11011 / novas : 199 : 11100 / desenvolvimento : 199 : 11101 / tempo : 199 : 11110 / impacto : 199 : 11111 / ]
+-----------------------------------------------------------------------------
+
+segurança
+
+in1
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+segurança
+
+in2
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+segurança
+
+in3
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+segurança
+
+in4
+
+Binary Tree (Pós-Ordem):
+[modo : 134 / ainda : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / participação : 133 / longo : 134 / processo : 198 / eleitores : 199 / política : 198 / melhoria : 201 / saúde : 201 / atual : 201 / político : 400 / políticas : 267 / assim : 201 / sentido : 200 / metas : 199 / impacto : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[impacto : 134 / longo : 134 / participação : 133 / determinação : 134 / importância : 134 / condições : 134 / É : 134 / ainda : 134 / modo : 134 / metas : 199 / política : 198 / processo : 198 / eleitores : 199 / sentido : 200 / assim : 201 / atual : 201 / saúde : 201 / melhoria : 201 / políticas : 267 / político : 400 / ]
+
+Binary Tree (In-Ordem):
+[participação : 133 / modo : 134 / ainda : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / longo : 134 / impacto : 134 / processo : 198 / política : 198 / eleitores : 199 / metas : 199 / sentido : 200 / melhoria : 201 / saúde : 201 / atual : 201 / assim : 201 / políticas : 267 / político : 400 / ]
+
+AVL Tree (Pós-Ordem):
+[participação : 133 / ainda : 134 / modo : 134 / condições : 134 / determinação : 134 / importância : 134 / É : 134 / impacto : 134 / eleitores : 199 / política : 198 / processo : 198 / sentido : 200 / saúde : 201 / melhoria : 201 / assim : 201 / político : 400 / políticas : 267 / atual : 201 / metas : 199 / longo : 134 / ]
+
+AVL Tree (Pré-Ordem):
+[longo : 134 / É : 134 / modo : 134 / participação : 133 / ainda : 134 / importância : 134 / condições : 134 / determinação : 134 / metas : 199 / processo : 198 / impacto : 134 / política : 198 / eleitores : 199 / atual : 201 / melhoria : 201 / sentido : 200 / saúde : 201 / políticas : 267 / assim : 201 / político : 400 / ]
+
+AVL Tree (In-Ordem):
+[participação : 133 / modo : 134 / ainda : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / longo : 134 / impacto : 134 / processo : 198 / política : 198 / eleitores : 199 / metas : 199 / sentido : 200 / melhoria : 201 / saúde : 201 / atual : 201 / assim : 201 / políticas : 267 / político : 400 / ]
+
+Huffman Tree (Pós-Ordem):
+[política : 198 : 0000 / eleitores : 199 : 0001 / metas : 199 : 0010 / sentido : 200 : 0011 / político : 400 : 010 / atual : 201 : 0110 / saúde : 201 : 0111 / melhoria : 201 : 1000 / assim : 201 : 1001 / participação : 133 : 10100 / ainda : 134 : 10101 / políticas : 267 : 1011 / É : 134 : 11000 / determinação : 134 : 11001 / modo : 134 : 11010 / condições : 134 : 11011 / importância : 134 : 11100 / impacto : 134 : 11101 / longo : 134 : 11110 / processo : 198 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[política : 198 : 0000 / eleitores : 199 : 0001 / metas : 199 : 0010 / sentido : 200 : 0011 / político : 400 : 010 / atual : 201 : 0110 / saúde : 201 : 0111 / melhoria : 201 : 1000 / assim : 201 : 1001 / participação : 133 : 10100 / ainda : 134 : 10101 / políticas : 267 : 1011 / É : 134 : 11000 / determinação : 134 : 11001 / modo : 134 : 11010 / condições : 134 : 11011 / importância : 134 : 11100 / impacto : 134 : 11101 / longo : 134 : 11110 / processo : 198 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[política : 198 : 0000 / eleitores : 199 : 0001 / metas : 199 : 0010 / sentido : 200 : 0011 / político : 400 : 010 / atual : 201 : 0110 / saúde : 201 : 0111 / melhoria : 201 : 1000 / assim : 201 : 1001 / participação : 133 : 10100 / ainda : 134 : 10101 / políticas : 267 : 1011 / É : 134 : 11000 / determinação : 134 : 11001 / modo : 134 : 11010 / condições : 134 : 11011 / importância : 134 : 11100 / impacto : 134 : 11101 / longo : 134 : 11110 / processo : 198 : 11111 / ]
+-----------------------------------------------------------------------------
+
+segurança
+
+in5
+
+Binary Tree (Pós-Ordem):
+[sistemas : 134 / sentido : 134 / software : 134 / envolvidos : 134 / problemas : 134 / hardware : 199 / assim : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / informações : 201 / ti : 201 / novas : 201 / implantação : 266 / dados : 201 / utilização : 399 / sistema : 200 / tempo : 199 / utilizados : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[utilizados : 134 / problemas : 134 / envolvidos : 134 / software : 134 / sentido : 134 / sistemas : 134 / tempo : 199 / assim : 199 / hardware : 199 / sistema : 200 / aumento : 200 / desenvolvimento : 200 / melhor : 200 / impacto : 200 / utilização : 399 / dados : 201 / novas : 201 / ti : 201 / informações : 201 / implantação : 266 / ]
+
+Binary Tree (In-Ordem):
+[sistemas : 134 / sentido : 134 / software : 134 / envolvidos : 134 / problemas : 134 / utilizados : 134 / hardware : 199 / assim : 199 / tempo : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / sistema : 200 / informações : 201 / ti : 201 / novas : 201 / dados : 201 / implantação : 266 / utilização : 399 / ]
+
+AVL Tree (Pós-Ordem):
+[sistemas : 134 / software : 134 / sentido : 134 / problemas : 134 / envolvidos : 134 / hardware : 199 / assim : 199 / impacto : 200 / tempo : 199 / utilizados : 134 / desenvolvimento : 200 / aumento : 200 / informações : 201 / novas : 201 / ti : 201 / implantação : 266 / utilização : 399 / dados : 201 / sistema : 200 / melhor : 200 / ]
+
+AVL Tree (Pré-Ordem):
+[melhor : 200 / utilizados : 134 / envolvidos : 134 / sentido : 134 / sistemas : 134 / software : 134 / problemas : 134 / tempo : 199 / assim : 199 / hardware : 199 / impacto : 200 / sistema : 200 / aumento : 200 / desenvolvimento : 200 / dados : 201 / ti : 201 / informações : 201 / novas : 201 / utilização : 399 / implantação : 266 / ]
+
+AVL Tree (In-Ordem):
+[sistemas : 134 / sentido : 134 / software : 134 / envolvidos : 134 / problemas : 134 / utilizados : 134 / hardware : 199 / assim : 199 / tempo : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / sistema : 200 / informações : 201 / ti : 201 / novas : 201 / dados : 201 / implantação : 266 / utilização : 399 / ]
+
+Huffman Tree (Pós-Ordem):
+[tempo : 199 : 0000 / desenvolvimento : 200 : 0001 / melhor : 200 : 0010 / sistema : 200 : 0011 / impacto : 200 : 0100 / aumento : 200 : 0101 / informações : 201 : 0110 / dados : 201 : 0111 / novas : 201 : 1000 / ti : 201 : 1001 / implantação : 266 : 1010 / sistemas : 134 : 10110 / sentido : 134 : 10111 / software : 134 : 11000 / envolvidos : 134 : 11001 / utilizados : 134 : 11010 / problemas : 134 : 11011 / hardware : 199 : 11100 / assim : 199 : 11101 / utilização : 399 : 1111 / ]
+
+Huffman Tree (Pré-Ordem):
+[tempo : 199 : 0000 / desenvolvimento : 200 : 0001 / melhor : 200 : 0010 / sistema : 200 : 0011 / impacto : 200 : 0100 / aumento : 200 : 0101 / informações : 201 : 0110 / dados : 201 : 0111 / novas : 201 : 1000 / ti : 201 : 1001 / implantação : 266 : 1010 / sistemas : 134 : 10110 / sentido : 134 : 10111 / software : 134 : 11000 / envolvidos : 134 : 11001 / utilizados : 134 : 11010 / problemas : 134 : 11011 / hardware : 199 : 11100 / assim : 199 : 11101 / utilização : 399 : 1111 / ]
+
+Huffman Tree (In-Ordem):
+[tempo : 199 : 0000 / desenvolvimento : 200 : 0001 / melhor : 200 : 0010 / sistema : 200 : 0011 / impacto : 200 : 0100 / aumento : 200 : 0101 / informações : 201 : 0110 / dados : 201 : 0111 / novas : 201 : 1000 / ti : 201 : 1001 / implantação : 266 : 1010 / sistemas : 134 : 10110 / sentido : 134 : 10111 / software : 134 : 11000 / envolvidos : 134 : 11001 / utilizados : 134 : 11010 / problemas : 134 : 11011 / hardware : 199 : 11100 / assim : 199 : 11101 / utilização : 399 : 1111 / ]
+-----------------------------------------------------------------------------
+
+segurança
+
+in6
+
+Binary Tree (Pós-Ordem):
+[dúvidas : 134 / software : 134 / existem : 134 / uso : 134 / rede : 134 / sistema : 199 / impacto : 199 / desenvolvimento : 199 / tempo : 199 / hardware : 201 / dados : 201 / informações : 200 / assim : 201 / melhor : 201 / aumento : 201 / utilização : 400 / implantação : 267 / ti : 201 / novas : 199 / sobre : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[sobre : 134 / rede : 134 / uso : 134 / existem : 134 / software : 134 / dúvidas : 134 / novas : 199 / tempo : 199 / desenvolvimento : 199 / impacto : 199 / sistema : 199 / ti : 201 / aumento : 201 / melhor : 201 / assim : 201 / informações : 200 / dados : 201 / hardware : 201 / implantação : 267 / utilização : 400 / ]
+
+Binary Tree (In-Ordem):
+[dúvidas : 134 / software : 134 / existem : 134 / uso : 134 / rede : 134 / sobre : 134 / sistema : 199 / impacto : 199 / desenvolvimento : 199 / tempo : 199 / novas : 199 / informações : 200 / hardware : 201 / dados : 201 / assim : 201 / melhor : 201 / aumento : 201 / ti : 201 / implantação : 267 / utilização : 400 / ]
+
+AVL Tree (Pós-Ordem):
+[dúvidas : 134 / existem : 134 / software : 134 / rede : 134 / uso : 134 / sistema : 199 / desenvolvimento : 199 / impacto : 199 / sobre : 134 / novas : 199 / hardware : 201 / dados : 201 / informações : 200 / melhor : 201 / ti : 201 / utilização : 400 / implantação : 267 / aumento : 201 / assim : 201 / tempo : 199 / ]
+
+AVL Tree (Pré-Ordem):
+[tempo : 199 / sobre : 134 / uso : 134 / software : 134 / dúvidas : 134 / existem : 134 / rede : 134 / impacto : 199 / sistema : 199 / desenvolvimento : 199 / assim : 201 / informações : 200 / novas : 199 / dados : 201 / hardware : 201 / aumento : 201 / melhor : 201 / implantação : 267 / ti : 201 / utilização : 400 / ]
+
+AVL Tree (In-Ordem):
+[dúvidas : 134 / software : 134 / existem : 134 / uso : 134 / rede : 134 / sobre : 134 / sistema : 199 / impacto : 199 / desenvolvimento : 199 / tempo : 199 / novas : 199 / informações : 200 / hardware : 201 / dados : 201 / assim : 201 / melhor : 201 / aumento : 201 / ti : 201 / implantação : 267 / utilização : 400 / ]
+
+Huffman Tree (Pós-Ordem):
+[desenvolvimento : 199 : 0000 / informações : 200 : 0001 / utilização : 400 : 001 / melhor : 201 : 0100 / assim : 201 : 0101 / dados : 201 : 0110 / hardware : 201 : 0111 / ti : 201 : 1000 / aumento : 201 : 1001 / implantação : 267 : 1010 / rede : 134 : 10110 / software : 134 : 10111 / dúvidas : 134 : 11000 / existem : 134 : 11001 / uso : 134 : 11010 / sobre : 134 : 11011 / impacto : 199 : 11100 / novas : 199 : 11101 / sistema : 199 : 11110 / tempo : 199 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[desenvolvimento : 199 : 0000 / informações : 200 : 0001 / utilização : 400 : 001 / melhor : 201 : 0100 / assim : 201 : 0101 / dados : 201 : 0110 / hardware : 201 : 0111 / ti : 201 : 1000 / aumento : 201 : 1001 / implantação : 267 : 1010 / rede : 134 : 10110 / software : 134 : 10111 / dúvidas : 134 : 11000 / existem : 134 : 11001 / uso : 134 : 11010 / sobre : 134 : 11011 / impacto : 199 : 11100 / novas : 199 : 11101 / sistema : 199 : 11110 / tempo : 199 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[desenvolvimento : 199 : 0000 / informações : 200 : 0001 / utilização : 400 : 001 / melhor : 201 : 0100 / assim : 201 : 0101 / dados : 201 : 0110 / hardware : 201 : 0111 / ti : 201 : 1000 / aumento : 201 : 1001 / implantação : 267 : 1010 / rede : 134 : 10110 / software : 134 : 10111 / dúvidas : 134 : 11000 / existem : 134 : 11001 / uso : 134 : 11010 / sobre : 134 : 11011 / impacto : 199 : 11100 / novas : 199 : 11101 / sistema : 199 : 11110 / tempo : 199 : 11111 / ]
+-----------------------------------------------------------------------------
+
+ti
+
+in1
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+ti
+
+in2
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+ti
+
+in3
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+ti
+
+in4
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+ti
+
+in5
+
+Binary Tree (Pós-Ordem):
+[sistemas : 134 / sentido : 134 / software : 134 / envolvidos : 134 / problemas : 134 / hardware : 199 / assim : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / informações : 201 / novas : 201 / implantação : 266 / segurança : 268 / dados : 201 / utilização : 399 / sistema : 200 / tempo : 199 / utilizados : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[utilizados : 134 / problemas : 134 / envolvidos : 134 / software : 134 / sentido : 134 / sistemas : 134 / tempo : 199 / assim : 199 / hardware : 199 / sistema : 200 / aumento : 200 / desenvolvimento : 200 / melhor : 200 / impacto : 200 / utilização : 399 / dados : 201 / novas : 201 / informações : 201 / segurança : 268 / implantação : 266 / ]
+
+Binary Tree (In-Ordem):
+[sistemas : 134 / sentido : 134 / software : 134 / envolvidos : 134 / problemas : 134 / utilizados : 134 / hardware : 199 / assim : 199 / tempo : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / sistema : 200 / informações : 201 / novas : 201 / dados : 201 / implantação : 266 / segurança : 268 / utilização : 399 / ]
+
+AVL Tree (Pós-Ordem):
+[sistemas : 134 / software : 134 / sentido : 134 / problemas : 134 / envolvidos : 134 / hardware : 199 / assim : 199 / impacto : 200 / tempo : 199 / utilizados : 134 / desenvolvimento : 200 / aumento : 200 / informações : 201 / novas : 201 / implantação : 266 / utilização : 399 / segurança : 268 / dados : 201 / sistema : 200 / melhor : 200 / ]
+
+AVL Tree (Pré-Ordem):
+[melhor : 200 / utilizados : 134 / envolvidos : 134 / sentido : 134 / sistemas : 134 / software : 134 / problemas : 134 / tempo : 199 / assim : 199 / hardware : 199 / impacto : 200 / sistema : 200 / aumento : 200 / desenvolvimento : 200 / dados : 201 / novas : 201 / informações : 201 / segurança : 268 / implantação : 266 / utilização : 399 / ]
+
+AVL Tree (In-Ordem):
+[sistemas : 134 / sentido : 134 / software : 134 / envolvidos : 134 / problemas : 134 / utilizados : 134 / hardware : 199 / assim : 199 / tempo : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / sistema : 200 / informações : 201 / novas : 201 / dados : 201 / implantação : 266 / segurança : 268 / utilização : 399 / ]
+
+Huffman Tree (Pós-Ordem):
+[tempo : 199 : 0000 / desenvolvimento : 200 : 0001 / impacto : 200 : 0010 / aumento : 200 : 0011 / melhor : 200 : 0100 / sistema : 200 : 0101 / novas : 201 : 0110 / informações : 201 : 0111 / dados : 201 : 1000 / implantação : 266 : 1001 / software : 134 : 10100 / envolvidos : 134 : 10101 / segurança : 268 : 1011 / sistemas : 134 : 11000 / sentido : 134 : 11001 / utilizados : 134 : 11010 / problemas : 134 : 11011 / hardware : 199 : 11100 / assim : 199 : 11101 / utilização : 399 : 1111 / ]
+
+Huffman Tree (Pré-Ordem):
+[tempo : 199 : 0000 / desenvolvimento : 200 : 0001 / impacto : 200 : 0010 / aumento : 200 : 0011 / melhor : 200 : 0100 / sistema : 200 : 0101 / novas : 201 : 0110 / informações : 201 : 0111 / dados : 201 : 1000 / implantação : 266 : 1001 / software : 134 : 10100 / envolvidos : 134 : 10101 / segurança : 268 : 1011 / sistemas : 134 : 11000 / sentido : 134 : 11001 / utilizados : 134 : 11010 / problemas : 134 : 11011 / hardware : 199 : 11100 / assim : 199 : 11101 / utilização : 399 : 1111 / ]
+
+Huffman Tree (In-Ordem):
+[tempo : 199 : 0000 / desenvolvimento : 200 : 0001 / impacto : 200 : 0010 / aumento : 200 : 0011 / melhor : 200 : 0100 / sistema : 200 : 0101 / novas : 201 : 0110 / informações : 201 : 0111 / dados : 201 : 1000 / implantação : 266 : 1001 / software : 134 : 10100 / envolvidos : 134 : 10101 / segurança : 268 : 1011 / sistemas : 134 : 11000 / sentido : 134 : 11001 / utilizados : 134 : 11010 / problemas : 134 : 11011 / hardware : 199 : 11100 / assim : 199 : 11101 / utilização : 399 : 1111 / ]
+-----------------------------------------------------------------------------
+
+ti
+
+in6
+
+Binary Tree (Pós-Ordem):
+[software : 134 / existem : 134 / rede : 134 / uso : 134 / sobre : 134 / sistema : 199 / tempo : 199 / impacto : 199 / desenvolvimento : 199 / hardware : 201 / dados : 201 / informações : 200 / assim : 201 / melhor : 201 / implantação : 267 / utilização : 400 / segurança : 268 / aumento : 201 / novas : 199 / dúvidas : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[dúvidas : 134 / sobre : 134 / uso : 134 / rede : 134 / existem : 134 / software : 134 / novas : 199 / desenvolvimento : 199 / impacto : 199 / tempo : 199 / sistema : 199 / aumento : 201 / melhor : 201 / assim : 201 / informações : 200 / dados : 201 / hardware : 201 / segurança : 268 / implantação : 267 / utilização : 400 / ]
+
+Binary Tree (In-Ordem):
+[software : 134 / existem : 134 / rede : 134 / uso : 134 / sobre : 134 / dúvidas : 134 / sistema : 199 / tempo : 199 / impacto : 199 / desenvolvimento : 199 / novas : 199 / informações : 200 / hardware : 201 / dados : 201 / assim : 201 / melhor : 201 / aumento : 201 / implantação : 267 / segurança : 268 / utilização : 400 / ]
+
+AVL Tree (Pós-Ordem):
+[software : 134 / rede : 134 / existem : 134 / sobre : 134 / uso : 134 / sistema : 199 / impacto : 199 / tempo : 199 / dúvidas : 134 / novas : 199 / hardware : 201 / dados : 201 / informações : 200 / melhor : 201 / implantação : 267 / utilização : 400 / segurança : 268 / aumento : 201 / assim : 201 / desenvolvimento : 199 / ]
+
+AVL Tree (Pré-Ordem):
+[desenvolvimento : 199 / dúvidas : 134 / uso : 134 / existem : 134 / software : 134 / rede : 134 / sobre : 134 / tempo : 199 / sistema : 199 / impacto : 199 / assim : 201 / informações : 200 / novas : 199 / dados : 201 / hardware : 201 / aumento : 201 / melhor : 201 / segurança : 268 / implantação : 267 / utilização : 400 / ]
+
+AVL Tree (In-Ordem):
+[software : 134 / existem : 134 / rede : 134 / uso : 134 / sobre : 134 / dúvidas : 134 / sistema : 199 / tempo : 199 / impacto : 199 / desenvolvimento : 199 / novas : 199 / informações : 200 / hardware : 201 / dados : 201 / assim : 201 / melhor : 201 / aumento : 201 / implantação : 267 / segurança : 268 / utilização : 400 / ]
+
+Huffman Tree (Pós-Ordem):
+[desenvolvimento : 199 : 0000 / informações : 200 : 0001 / utilização : 400 : 001 / aumento : 201 : 0100 / melhor : 201 : 0101 / dados : 201 : 0110 / hardware : 201 : 0111 / assim : 201 : 1000 / implantação : 267 : 1001 / software : 134 : 10100 / existem : 134 : 10101 / segurança : 268 : 1011 / rede : 134 : 11000 / dúvidas : 134 : 11001 / uso : 134 : 11010 / sobre : 134 : 11011 / impacto : 199 : 11100 / novas : 199 : 11101 / sistema : 199 : 11110 / tempo : 199 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[desenvolvimento : 199 : 0000 / informações : 200 : 0001 / utilização : 400 : 001 / aumento : 201 : 0100 / melhor : 201 : 0101 / dados : 201 : 0110 / hardware : 201 : 0111 / assim : 201 : 1000 / implantação : 267 : 1001 / software : 134 : 10100 / existem : 134 : 10101 / segurança : 268 : 1011 / rede : 134 : 11000 / dúvidas : 134 : 11001 / uso : 134 : 11010 / sobre : 134 : 11011 / impacto : 199 : 11100 / novas : 199 : 11101 / sistema : 199 : 11110 / tempo : 199 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[desenvolvimento : 199 : 0000 / informações : 200 : 0001 / utilização : 400 : 001 / aumento : 201 : 0100 / melhor : 201 : 0101 / dados : 201 : 0110 / hardware : 201 : 0111 / assim : 201 : 1000 / implantação : 267 : 1001 / software : 134 : 10100 / existem : 134 : 10101 / segurança : 268 : 1011 / rede : 134 : 11000 / dúvidas : 134 : 11001 / uso : 134 : 11010 / sobre : 134 : 11011 / impacto : 199 : 11100 / novas : 199 : 11101 / sistema : 199 : 11110 / tempo : 199 : 11111 / ]
+-----------------------------------------------------------------------------
+
+análise
+
+in1
+
+Binary Tree (Pós-Ordem):
+[maneira : 95 / quanto : 95 / wittgenstein : 95 / assim : 94 / É : 96 / imanente : 104 / segundo : 114 / sentido : 110 / pensamento : 115 / modo : 129 / priori : 125 / condição : 134 / mundo : 134 / sujeito : 145 / teoria : 176 / sistema : 115 / sobre : 114 / vista : 96 / pode : 95 / virtual : 93 / ]
+
+Binary Tree (Pré-Ordem):
+[virtual : 93 / pode : 95 / assim : 94 / wittgenstein : 95 / quanto : 95 / maneira : 95 / vista : 96 / É : 96 / sobre : 114 / sentido : 110 / imanente : 104 / segundo : 114 / sistema : 115 / pensamento : 115 / teoria : 176 / sujeito : 145 / mundo : 134 / condição : 134 / priori : 125 / modo : 129 / ]
+
+Binary Tree (In-Ordem):
+[virtual : 93 / assim : 94 / maneira : 95 / quanto : 95 / wittgenstein : 95 / pode : 95 / É : 96 / vista : 96 / imanente : 104 / sentido : 110 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 115 / priori : 125 / modo : 129 / condição : 134 / mundo : 134 / sujeito : 145 / teoria : 176 / ]
+
+AVL Tree (Pós-Ordem):
+[virtual : 93 / maneira : 95 / quanto : 95 / assim : 94 / É : 96 / pode : 95 / wittgenstein : 95 / imanente : 104 / segundo : 114 / pensamento : 115 / sobre : 114 / sentido : 110 / modo : 129 / priori : 125 / mundo : 134 / teoria : 176 / sujeito : 145 / condição : 134 / sistema : 115 / vista : 96 / ]
+
+AVL Tree (Pré-Ordem):
+[vista : 96 / wittgenstein : 95 / assim : 94 / virtual : 93 / quanto : 95 / maneira : 95 / pode : 95 / É : 96 / sistema : 115 / sentido : 110 / imanente : 104 / sobre : 114 / segundo : 114 / pensamento : 115 / condição : 134 / priori : 125 / modo : 129 / sujeito : 145 / mundo : 134 / teoria : 176 / ]
+
+AVL Tree (In-Ordem):
+[virtual : 93 / assim : 94 / maneira : 95 / quanto : 95 / wittgenstein : 95 / pode : 95 / É : 96 / vista : 96 / imanente : 104 / sentido : 110 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 115 / priori : 125 / modo : 129 / condição : 134 / mundo : 134 / sujeito : 145 / teoria : 176 / ]
+
+Huffman Tree (Pós-Ordem):
+[imanente : 104 : 0000 / sentido : 110 : 0001 / sobre : 114 : 0010 / segundo : 114 : 0011 / pensamento : 115 : 0100 / sistema : 115 : 0101 / priori : 125 : 0110 / modo : 129 : 0111 / condição : 134 : 1000 / mundo : 134 : 1001 / sujeito : 145 : 1010 / teoria : 176 : 1011 / virtual : 93 : 11000 / assim : 94 : 11001 / wittgenstein : 95 : 11010 / pode : 95 : 11011 / quanto : 95 : 11100 / maneira : 95 : 11101 / É : 96 : 11110 / vista : 96 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[imanente : 104 : 0000 / sentido : 110 : 0001 / sobre : 114 : 0010 / segundo : 114 : 0011 / pensamento : 115 : 0100 / sistema : 115 : 0101 / priori : 125 : 0110 / modo : 129 : 0111 / condição : 134 : 1000 / mundo : 134 : 1001 / sujeito : 145 : 1010 / teoria : 176 : 1011 / virtual : 93 : 11000 / assim : 94 : 11001 / wittgenstein : 95 : 11010 / pode : 95 : 11011 / quanto : 95 : 11100 / maneira : 95 : 11101 / É : 96 : 11110 / vista : 96 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[imanente : 104 : 0000 / sentido : 110 : 0001 / sobre : 114 : 0010 / segundo : 114 : 0011 / pensamento : 115 : 0100 / sistema : 115 : 0101 / priori : 125 : 0110 / modo : 129 : 0111 / condição : 134 : 1000 / mundo : 134 : 1001 / sujeito : 145 : 1010 / teoria : 176 : 1011 / virtual : 93 : 11000 / assim : 94 : 11001 / wittgenstein : 95 : 11010 / pode : 95 : 11011 / quanto : 95 : 11100 / maneira : 95 : 11101 / É : 96 : 11110 / vista : 96 : 11111 / ]
+-----------------------------------------------------------------------------
+
+análise
+
+in2
+
+Binary Tree (Pós-Ordem):
+[É : 95 / possível : 95 / vista : 95 / wittgenstein : 95 / imanente : 109 / segundo : 114 / sobre : 114 / pensamento : 115 / condição : 133 / priori : 144 / modo : 129 / sistema : 119 / sentido : 111 / teoria : 192 / sujeito : 149 / mundo : 144 / princípio : 97 / pode : 96 / maneira : 95 / respeito : 90 / ]
+
+Binary Tree (Pré-Ordem):
+[respeito : 90 / maneira : 95 / wittgenstein : 95 / vista : 95 / possível : 95 / É : 95 / pode : 96 / princípio : 97 / mundo : 144 / sentido : 111 / imanente : 109 / sistema : 119 / pensamento : 115 / sobre : 114 / segundo : 114 / modo : 129 / priori : 144 / condição : 133 / sujeito : 149 / teoria : 192 / ]
+
+Binary Tree (In-Ordem):
+[respeito : 90 / É : 95 / possível : 95 / vista : 95 / wittgenstein : 95 / maneira : 95 / pode : 96 / princípio : 97 / imanente : 109 / sentido : 111 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 119 / modo : 129 / condição : 133 / priori : 144 / mundo : 144 / sujeito : 149 / teoria : 192 / ]
+
+AVL Tree (Pós-Ordem):
+[É : 95 / respeito : 90 / vista : 95 / possível : 95 / maneira : 95 / imanente : 109 / princípio : 97 / pode : 96 / wittgenstein : 95 / segundo : 114 / sobre : 114 / sistema : 119 / pensamento : 115 / condição : 133 / priori : 144 / teoria : 192 / sujeito : 149 / mundo : 144 / modo : 129 / sentido : 111 / ]
+
+AVL Tree (Pré-Ordem):
+[sentido : 111 / wittgenstein : 95 / possível : 95 / respeito : 90 / É : 95 / vista : 95 / pode : 96 / maneira : 95 / princípio : 97 / imanente : 109 / modo : 129 / pensamento : 115 / sobre : 114 / segundo : 114 / sistema : 119 / mundo : 144 / priori : 144 / condição : 133 / sujeito : 149 / teoria : 192 / ]
+
+AVL Tree (In-Ordem):
+[respeito : 90 / É : 95 / possível : 95 / vista : 95 / wittgenstein : 95 / maneira : 95 / pode : 96 / princípio : 97 / imanente : 109 / sentido : 111 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 119 / modo : 129 / condição : 133 / priori : 144 / mundo : 144 / sujeito : 149 / teoria : 192 / ]
+
+Huffman Tree (Pós-Ordem):
+[imanente : 109 : 0000 / sentido : 111 : 0001 / segundo : 114 : 0010 / sobre : 114 : 0011 / pensamento : 115 : 0100 / sistema : 119 : 0101 / modo : 129 : 0110 / condição : 133 : 0111 / mundo : 144 : 1000 / priori : 144 : 1001 / sujeito : 149 : 1010 / respeito : 90 : 10110 / É : 95 : 10111 / possível : 95 : 11000 / maneira : 95 : 11001 / vista : 95 : 11010 / wittgenstein : 95 : 11011 / teoria : 192 : 1110 / pode : 96 : 11110 / princípio : 97 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[imanente : 109 : 0000 / sentido : 111 : 0001 / segundo : 114 : 0010 / sobre : 114 : 0011 / pensamento : 115 : 0100 / sistema : 119 : 0101 / modo : 129 : 0110 / condição : 133 : 0111 / mundo : 144 : 1000 / priori : 144 : 1001 / sujeito : 149 : 1010 / respeito : 90 : 10110 / É : 95 : 10111 / possível : 95 : 11000 / maneira : 95 : 11001 / vista : 95 : 11010 / wittgenstein : 95 : 11011 / teoria : 192 : 1110 / pode : 96 : 11110 / princípio : 97 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[imanente : 109 : 0000 / sentido : 111 : 0001 / segundo : 114 : 0010 / sobre : 114 : 0011 / pensamento : 115 : 0100 / sistema : 119 : 0101 / modo : 129 : 0110 / condição : 133 : 0111 / mundo : 144 : 1000 / priori : 144 : 1001 / sujeito : 149 : 1010 / respeito : 90 : 10110 / É : 95 : 10111 / possível : 95 : 11000 / maneira : 95 : 11001 / vista : 95 : 11010 / wittgenstein : 95 : 11011 / teoria : 192 : 1110 / pode : 96 : 11110 / princípio : 97 : 11111 / ]
+-----------------------------------------------------------------------------
+
+análise
+
+in3
+
+Binary Tree (Pós-Ordem):
+[impacto : 135 / formas : 135 / pontos : 135 / sobre : 135 / melhoria : 135 / determinação : 135 / importante : 135 / podemos : 136 / quadros : 136 / É : 137 / importância : 137 / sistema : 138 / pode : 137 / estabelecimento : 136 / assim : 200 / sentido : 203 / processo : 202 / modo : 138 / atual : 135 / ressaltar : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[ressaltar : 134 / atual : 135 / importante : 135 / determinação : 135 / melhoria : 135 / sobre : 135 / pontos : 135 / formas : 135 / impacto : 135 / modo : 138 / estabelecimento : 136 / quadros : 136 / podemos : 136 / pode : 137 / importância : 137 / É : 137 / sistema : 138 / processo : 202 / assim : 200 / sentido : 203 / ]
+
+Binary Tree (In-Ordem):
+[ressaltar : 134 / impacto : 135 / formas : 135 / pontos : 135 / sobre : 135 / melhoria : 135 / determinação : 135 / importante : 135 / atual : 135 / podemos : 136 / quadros : 136 / estabelecimento : 136 / É : 137 / importância : 137 / pode : 137 / sistema : 138 / modo : 138 / assim : 200 / processo : 202 / sentido : 203 / ]
+
+AVL Tree (Pós-Ordem):
+[ressaltar : 134 / formas : 135 / impacto : 135 / sobre : 135 / pontos : 135 / determinação : 135 / atual : 135 / quadros : 136 / podemos : 136 / importante : 135 / melhoria : 135 / É : 137 / importância : 137 / sistema : 138 / pode : 137 / assim : 200 / sentido : 203 / processo : 202 / modo : 138 / estabelecimento : 136 / ]
+
+AVL Tree (Pré-Ordem):
+[estabelecimento : 136 / melhoria : 135 / pontos : 135 / impacto : 135 / ressaltar : 134 / formas : 135 / sobre : 135 / importante : 135 / determinação : 135 / podemos : 136 / atual : 135 / quadros : 136 / modo : 138 / pode : 137 / importância : 137 / É : 137 / sistema : 138 / processo : 202 / assim : 200 / sentido : 203 / ]
+
+AVL Tree (In-Ordem):
+[ressaltar : 134 / impacto : 135 / formas : 135 / pontos : 135 / sobre : 135 / melhoria : 135 / determinação : 135 / importante : 135 / atual : 135 / podemos : 136 / quadros : 136 / estabelecimento : 136 / É : 137 / importância : 137 / pode : 137 / sistema : 138 / modo : 138 / assim : 200 / processo : 202 / sentido : 203 / ]
+
+Huffman Tree (Pós-Ordem):
+[importante : 135 : 0000 / podemos : 136 : 0001 / estabelecimento : 136 : 0010 / quadros : 136 : 0011 / É : 137 : 0100 / importância : 137 : 0101 / pode : 137 : 0110 / modo : 138 : 0111 / sistema : 138 : 1000 / assim : 200 : 1001 / processo : 202 : 1010 / sentido : 203 : 1011 / ressaltar : 134 : 11000 / impacto : 135 : 11001 / atual : 135 : 11010 / pontos : 135 : 11011 / determinação : 135 : 11100 / sobre : 135 : 11101 / formas : 135 : 11110 / melhoria : 135 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[importante : 135 : 0000 / podemos : 136 : 0001 / estabelecimento : 136 : 0010 / quadros : 136 : 0011 / É : 137 : 0100 / importância : 137 : 0101 / pode : 137 : 0110 / modo : 138 : 0111 / sistema : 138 : 1000 / assim : 200 : 1001 / processo : 202 : 1010 / sentido : 203 : 1011 / ressaltar : 134 : 11000 / impacto : 135 : 11001 / atual : 135 : 11010 / pontos : 135 : 11011 / determinação : 135 : 11100 / sobre : 135 : 11101 / formas : 135 : 11110 / melhoria : 135 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[importante : 135 : 0000 / podemos : 136 : 0001 / estabelecimento : 136 : 0010 / quadros : 136 : 0011 / É : 137 : 0100 / importância : 137 : 0101 / pode : 137 : 0110 / modo : 138 : 0111 / sistema : 138 : 1000 / assim : 200 : 1001 / processo : 202 : 1010 / sentido : 203 : 1011 / ressaltar : 134 : 11000 / impacto : 135 : 11001 / atual : 135 : 11010 / pontos : 135 : 11011 / determinação : 135 : 11100 / sobre : 135 : 11101 / formas : 135 : 11110 / melhoria : 135 : 11111 / ]
+-----------------------------------------------------------------------------
+
+análise
+
+in4
+
+Binary Tree (Pós-Ordem):
+[modo : 134 / ainda : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / segurança : 134 / longo : 134 / processo : 198 / eleitores : 199 / política : 198 / melhoria : 201 / saúde : 201 / atual : 201 / político : 400 / políticas : 267 / assim : 201 / sentido : 200 / metas : 199 / impacto : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[impacto : 134 / longo : 134 / segurança : 134 / determinação : 134 / importância : 134 / condições : 134 / É : 134 / ainda : 134 / modo : 134 / metas : 199 / política : 198 / processo : 198 / eleitores : 199 / sentido : 200 / assim : 201 / atual : 201 / saúde : 201 / melhoria : 201 / políticas : 267 / político : 400 / ]
+
+Binary Tree (In-Ordem):
+[modo : 134 / ainda : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / segurança : 134 / longo : 134 / impacto : 134 / processo : 198 / política : 198 / eleitores : 199 / metas : 199 / sentido : 200 / melhoria : 201 / saúde : 201 / atual : 201 / assim : 201 / políticas : 267 / político : 400 / ]
+
+AVL Tree (Pós-Ordem):
+[modo : 134 / É : 134 / ainda : 134 / importância : 134 / segurança : 134 / determinação : 134 / condições : 134 / impacto : 134 / eleitores : 199 / política : 198 / processo : 198 / sentido : 200 / saúde : 201 / melhoria : 201 / assim : 201 / político : 400 / políticas : 267 / atual : 201 / metas : 199 / longo : 134 / ]
+
+AVL Tree (Pré-Ordem):
+[longo : 134 / condições : 134 / ainda : 134 / modo : 134 / É : 134 / determinação : 134 / importância : 134 / segurança : 134 / metas : 199 / processo : 198 / impacto : 134 / política : 198 / eleitores : 199 / atual : 201 / melhoria : 201 / sentido : 200 / saúde : 201 / políticas : 267 / assim : 201 / político : 400 / ]
+
+AVL Tree (In-Ordem):
+[modo : 134 / ainda : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / segurança : 134 / longo : 134 / impacto : 134 / processo : 198 / política : 198 / eleitores : 199 / metas : 199 / sentido : 200 / melhoria : 201 / saúde : 201 / atual : 201 / assim : 201 / políticas : 267 / político : 400 / ]
+
+Huffman Tree (Pós-Ordem):
+[política : 198 : 0000 / eleitores : 199 : 0001 / metas : 199 : 0010 / sentido : 200 : 0011 / político : 400 : 010 / atual : 201 : 0110 / saúde : 201 : 0111 / melhoria : 201 : 1000 / assim : 201 : 1001 / políticas : 267 : 1010 / ainda : 134 : 10110 / importância : 134 : 10111 / condições : 134 : 11000 / segurança : 134 : 11001 / modo : 134 : 11010 / É : 134 : 11011 / determinação : 134 : 11100 / impacto : 134 : 11101 / longo : 134 : 11110 / processo : 198 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[política : 198 : 0000 / eleitores : 199 : 0001 / metas : 199 : 0010 / sentido : 200 : 0011 / político : 400 : 010 / atual : 201 : 0110 / saúde : 201 : 0111 / melhoria : 201 : 1000 / assim : 201 : 1001 / políticas : 267 : 1010 / ainda : 134 : 10110 / importância : 134 : 10111 / condições : 134 : 11000 / segurança : 134 : 11001 / modo : 134 : 11010 / É : 134 : 11011 / determinação : 134 : 11100 / impacto : 134 : 11101 / longo : 134 : 11110 / processo : 198 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[política : 198 : 0000 / eleitores : 199 : 0001 / metas : 199 : 0010 / sentido : 200 : 0011 / político : 400 : 010 / atual : 201 : 0110 / saúde : 201 : 0111 / melhoria : 201 : 1000 / assim : 201 : 1001 / políticas : 267 : 1010 / ainda : 134 : 10110 / importância : 134 : 10111 / condições : 134 : 11000 / segurança : 134 : 11001 / modo : 134 : 11010 / É : 134 : 11011 / determinação : 134 : 11100 / impacto : 134 : 11101 / longo : 134 : 11110 / processo : 198 : 11111 / ]
+-----------------------------------------------------------------------------
+
+análise
+
+in5
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+análise
+
+in6
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+ainda
+
+in1
+
+Binary Tree (Pós-Ordem):
+[maneira : 95 / quanto : 95 / wittgenstein : 95 / assim : 94 / É : 96 / imanente : 104 / segundo : 114 / sentido : 110 / pensamento : 115 / modo : 129 / priori : 125 / condição : 134 / mundo : 134 / sujeito : 145 / teoria : 176 / sistema : 115 / sobre : 114 / vista : 96 / pode : 95 / virtual : 93 / ]
+
+Binary Tree (Pré-Ordem):
+[virtual : 93 / pode : 95 / assim : 94 / wittgenstein : 95 / quanto : 95 / maneira : 95 / vista : 96 / É : 96 / sobre : 114 / sentido : 110 / imanente : 104 / segundo : 114 / sistema : 115 / pensamento : 115 / teoria : 176 / sujeito : 145 / mundo : 134 / condição : 134 / priori : 125 / modo : 129 / ]
+
+Binary Tree (In-Ordem):
+[virtual : 93 / assim : 94 / maneira : 95 / quanto : 95 / wittgenstein : 95 / pode : 95 / É : 96 / vista : 96 / imanente : 104 / sentido : 110 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 115 / priori : 125 / modo : 129 / condição : 134 / mundo : 134 / sujeito : 145 / teoria : 176 / ]
+
+AVL Tree (Pós-Ordem):
+[virtual : 93 / maneira : 95 / quanto : 95 / assim : 94 / É : 96 / pode : 95 / wittgenstein : 95 / imanente : 104 / segundo : 114 / pensamento : 115 / sobre : 114 / sentido : 110 / modo : 129 / priori : 125 / mundo : 134 / teoria : 176 / sujeito : 145 / condição : 134 / sistema : 115 / vista : 96 / ]
+
+AVL Tree (Pré-Ordem):
+[vista : 96 / wittgenstein : 95 / assim : 94 / virtual : 93 / quanto : 95 / maneira : 95 / pode : 95 / É : 96 / sistema : 115 / sentido : 110 / imanente : 104 / sobre : 114 / segundo : 114 / pensamento : 115 / condição : 134 / priori : 125 / modo : 129 / sujeito : 145 / mundo : 134 / teoria : 176 / ]
+
+AVL Tree (In-Ordem):
+[virtual : 93 / assim : 94 / maneira : 95 / quanto : 95 / wittgenstein : 95 / pode : 95 / É : 96 / vista : 96 / imanente : 104 / sentido : 110 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 115 / priori : 125 / modo : 129 / condição : 134 / mundo : 134 / sujeito : 145 / teoria : 176 / ]
+
+Huffman Tree (Pós-Ordem):
+[imanente : 104 : 0000 / sentido : 110 : 0001 / sobre : 114 : 0010 / segundo : 114 : 0011 / pensamento : 115 : 0100 / sistema : 115 : 0101 / priori : 125 : 0110 / modo : 129 : 0111 / condição : 134 : 1000 / mundo : 134 : 1001 / sujeito : 145 : 1010 / teoria : 176 : 1011 / virtual : 93 : 11000 / assim : 94 : 11001 / wittgenstein : 95 : 11010 / pode : 95 : 11011 / quanto : 95 : 11100 / maneira : 95 : 11101 / É : 96 : 11110 / vista : 96 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[imanente : 104 : 0000 / sentido : 110 : 0001 / sobre : 114 : 0010 / segundo : 114 : 0011 / pensamento : 115 : 0100 / sistema : 115 : 0101 / priori : 125 : 0110 / modo : 129 : 0111 / condição : 134 : 1000 / mundo : 134 : 1001 / sujeito : 145 : 1010 / teoria : 176 : 1011 / virtual : 93 : 11000 / assim : 94 : 11001 / wittgenstein : 95 : 11010 / pode : 95 : 11011 / quanto : 95 : 11100 / maneira : 95 : 11101 / É : 96 : 11110 / vista : 96 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[imanente : 104 : 0000 / sentido : 110 : 0001 / sobre : 114 : 0010 / segundo : 114 : 0011 / pensamento : 115 : 0100 / sistema : 115 : 0101 / priori : 125 : 0110 / modo : 129 : 0111 / condição : 134 : 1000 / mundo : 134 : 1001 / sujeito : 145 : 1010 / teoria : 176 : 1011 / virtual : 93 : 11000 / assim : 94 : 11001 / wittgenstein : 95 : 11010 / pode : 95 : 11011 / quanto : 95 : 11100 / maneira : 95 : 11101 / É : 96 : 11110 / vista : 96 : 11111 / ]
+-----------------------------------------------------------------------------
+
+ainda
+
+in2
+
+Binary Tree (Pós-Ordem):
+[É : 95 / possível : 95 / vista : 95 / wittgenstein : 95 / imanente : 109 / segundo : 114 / sobre : 114 / pensamento : 115 / condição : 133 / priori : 144 / modo : 129 / sistema : 119 / sentido : 111 / teoria : 192 / sujeito : 149 / mundo : 144 / princípio : 97 / pode : 96 / maneira : 95 / respeito : 90 / ]
+
+Binary Tree (Pré-Ordem):
+[respeito : 90 / maneira : 95 / wittgenstein : 95 / vista : 95 / possível : 95 / É : 95 / pode : 96 / princípio : 97 / mundo : 144 / sentido : 111 / imanente : 109 / sistema : 119 / pensamento : 115 / sobre : 114 / segundo : 114 / modo : 129 / priori : 144 / condição : 133 / sujeito : 149 / teoria : 192 / ]
+
+Binary Tree (In-Ordem):
+[respeito : 90 / É : 95 / possível : 95 / vista : 95 / wittgenstein : 95 / maneira : 95 / pode : 96 / princípio : 97 / imanente : 109 / sentido : 111 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 119 / modo : 129 / condição : 133 / priori : 144 / mundo : 144 / sujeito : 149 / teoria : 192 / ]
+
+AVL Tree (Pós-Ordem):
+[É : 95 / respeito : 90 / vista : 95 / possível : 95 / maneira : 95 / imanente : 109 / princípio : 97 / pode : 96 / wittgenstein : 95 / segundo : 114 / sobre : 114 / sistema : 119 / pensamento : 115 / condição : 133 / priori : 144 / teoria : 192 / sujeito : 149 / mundo : 144 / modo : 129 / sentido : 111 / ]
+
+AVL Tree (Pré-Ordem):
+[sentido : 111 / wittgenstein : 95 / possível : 95 / respeito : 90 / É : 95 / vista : 95 / pode : 96 / maneira : 95 / princípio : 97 / imanente : 109 / modo : 129 / pensamento : 115 / sobre : 114 / segundo : 114 / sistema : 119 / mundo : 144 / priori : 144 / condição : 133 / sujeito : 149 / teoria : 192 / ]
+
+AVL Tree (In-Ordem):
+[respeito : 90 / É : 95 / possível : 95 / vista : 95 / wittgenstein : 95 / maneira : 95 / pode : 96 / princípio : 97 / imanente : 109 / sentido : 111 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 119 / modo : 129 / condição : 133 / priori : 144 / mundo : 144 / sujeito : 149 / teoria : 192 / ]
+
+Huffman Tree (Pós-Ordem):
+[imanente : 109 : 0000 / sentido : 111 : 0001 / segundo : 114 : 0010 / sobre : 114 : 0011 / pensamento : 115 : 0100 / sistema : 119 : 0101 / modo : 129 : 0110 / condição : 133 : 0111 / mundo : 144 : 1000 / priori : 144 : 1001 / sujeito : 149 : 1010 / respeito : 90 : 10110 / É : 95 : 10111 / possível : 95 : 11000 / maneira : 95 : 11001 / vista : 95 : 11010 / wittgenstein : 95 : 11011 / teoria : 192 : 1110 / pode : 96 : 11110 / princípio : 97 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[imanente : 109 : 0000 / sentido : 111 : 0001 / segundo : 114 : 0010 / sobre : 114 : 0011 / pensamento : 115 : 0100 / sistema : 119 : 0101 / modo : 129 : 0110 / condição : 133 : 0111 / mundo : 144 : 1000 / priori : 144 : 1001 / sujeito : 149 : 1010 / respeito : 90 : 10110 / É : 95 : 10111 / possível : 95 : 11000 / maneira : 95 : 11001 / vista : 95 : 11010 / wittgenstein : 95 : 11011 / teoria : 192 : 1110 / pode : 96 : 11110 / princípio : 97 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[imanente : 109 : 0000 / sentido : 111 : 0001 / segundo : 114 : 0010 / sobre : 114 : 0011 / pensamento : 115 : 0100 / sistema : 119 : 0101 / modo : 129 : 0110 / condição : 133 : 0111 / mundo : 144 : 1000 / priori : 144 : 1001 / sujeito : 149 : 1010 / respeito : 90 : 10110 / É : 95 : 10111 / possível : 95 : 11000 / maneira : 95 : 11001 / vista : 95 : 11010 / wittgenstein : 95 : 11011 / teoria : 192 : 1110 / pode : 96 : 11110 / princípio : 97 : 11111 / ]
+-----------------------------------------------------------------------------
+
+ainda
+
+in3
+
+Binary Tree (Pós-Ordem):
+[impacto : 135 / formas : 135 / pontos : 135 / sobre : 135 / melhoria : 135 / determinação : 135 / importante : 135 / podemos : 136 / quadros : 136 / É : 137 / importância : 137 / sistema : 138 / pode : 137 / estabelecimento : 136 / assim : 200 / sentido : 203 / processo : 202 / modo : 138 / atual : 135 / ressaltar : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[ressaltar : 134 / atual : 135 / importante : 135 / determinação : 135 / melhoria : 135 / sobre : 135 / pontos : 135 / formas : 135 / impacto : 135 / modo : 138 / estabelecimento : 136 / quadros : 136 / podemos : 136 / pode : 137 / importância : 137 / É : 137 / sistema : 138 / processo : 202 / assim : 200 / sentido : 203 / ]
+
+Binary Tree (In-Ordem):
+[ressaltar : 134 / impacto : 135 / formas : 135 / pontos : 135 / sobre : 135 / melhoria : 135 / determinação : 135 / importante : 135 / atual : 135 / podemos : 136 / quadros : 136 / estabelecimento : 136 / É : 137 / importância : 137 / pode : 137 / sistema : 138 / modo : 138 / assim : 200 / processo : 202 / sentido : 203 / ]
+
+AVL Tree (Pós-Ordem):
+[ressaltar : 134 / formas : 135 / impacto : 135 / sobre : 135 / pontos : 135 / determinação : 135 / atual : 135 / quadros : 136 / podemos : 136 / importante : 135 / melhoria : 135 / É : 137 / importância : 137 / sistema : 138 / pode : 137 / assim : 200 / sentido : 203 / processo : 202 / modo : 138 / estabelecimento : 136 / ]
+
+AVL Tree (Pré-Ordem):
+[estabelecimento : 136 / melhoria : 135 / pontos : 135 / impacto : 135 / ressaltar : 134 / formas : 135 / sobre : 135 / importante : 135 / determinação : 135 / podemos : 136 / atual : 135 / quadros : 136 / modo : 138 / pode : 137 / importância : 137 / É : 137 / sistema : 138 / processo : 202 / assim : 200 / sentido : 203 / ]
+
+AVL Tree (In-Ordem):
+[ressaltar : 134 / impacto : 135 / formas : 135 / pontos : 135 / sobre : 135 / melhoria : 135 / determinação : 135 / importante : 135 / atual : 135 / podemos : 136 / quadros : 136 / estabelecimento : 136 / É : 137 / importância : 137 / pode : 137 / sistema : 138 / modo : 138 / assim : 200 / processo : 202 / sentido : 203 / ]
+
+Huffman Tree (Pós-Ordem):
+[importante : 135 : 0000 / podemos : 136 : 0001 / estabelecimento : 136 : 0010 / quadros : 136 : 0011 / É : 137 : 0100 / importância : 137 : 0101 / pode : 137 : 0110 / modo : 138 : 0111 / sistema : 138 : 1000 / assim : 200 : 1001 / processo : 202 : 1010 / sentido : 203 : 1011 / ressaltar : 134 : 11000 / impacto : 135 : 11001 / atual : 135 : 11010 / pontos : 135 : 11011 / determinação : 135 : 11100 / sobre : 135 : 11101 / formas : 135 : 11110 / melhoria : 135 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[importante : 135 : 0000 / podemos : 136 : 0001 / estabelecimento : 136 : 0010 / quadros : 136 : 0011 / É : 137 : 0100 / importância : 137 : 0101 / pode : 137 : 0110 / modo : 138 : 0111 / sistema : 138 : 1000 / assim : 200 : 1001 / processo : 202 : 1010 / sentido : 203 : 1011 / ressaltar : 134 : 11000 / impacto : 135 : 11001 / atual : 135 : 11010 / pontos : 135 : 11011 / determinação : 135 : 11100 / sobre : 135 : 11101 / formas : 135 : 11110 / melhoria : 135 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[importante : 135 : 0000 / podemos : 136 : 0001 / estabelecimento : 136 : 0010 / quadros : 136 : 0011 / É : 137 : 0100 / importância : 137 : 0101 / pode : 137 : 0110 / modo : 138 : 0111 / sistema : 138 : 1000 / assim : 200 : 1001 / processo : 202 : 1010 / sentido : 203 : 1011 / ressaltar : 134 : 11000 / impacto : 135 : 11001 / atual : 135 : 11010 / pontos : 135 : 11011 / determinação : 135 : 11100 / sobre : 135 : 11101 / formas : 135 : 11110 / melhoria : 135 : 11111 / ]
+-----------------------------------------------------------------------------
+
+ainda
+
+in4
+
+Binary Tree (Pós-Ordem):
+[modo : 134 / participação : 133 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / segurança : 134 / longo : 134 / processo : 198 / eleitores : 199 / política : 198 / melhoria : 201 / saúde : 201 / atual : 201 / político : 400 / políticas : 267 / assim : 201 / sentido : 200 / metas : 199 / impacto : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[impacto : 134 / longo : 134 / segurança : 134 / determinação : 134 / importância : 134 / condições : 134 / É : 134 / participação : 133 / modo : 134 / metas : 199 / política : 198 / processo : 198 / eleitores : 199 / sentido : 200 / assim : 201 / atual : 201 / saúde : 201 / melhoria : 201 / políticas : 267 / político : 400 / ]
+
+Binary Tree (In-Ordem):
+[participação : 133 / modo : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / segurança : 134 / longo : 134 / impacto : 134 / processo : 198 / política : 198 / eleitores : 199 / metas : 199 / sentido : 200 / melhoria : 201 / saúde : 201 / atual : 201 / assim : 201 / políticas : 267 / político : 400 / ]
+
+AVL Tree (Pós-Ordem):
+[participação : 133 / É : 134 / modo : 134 / importância : 134 / segurança : 134 / determinação : 134 / condições : 134 / impacto : 134 / eleitores : 199 / política : 198 / processo : 198 / sentido : 200 / saúde : 201 / melhoria : 201 / assim : 201 / político : 400 / políticas : 267 / atual : 201 / metas : 199 / longo : 134 / ]
+
+AVL Tree (Pré-Ordem):
+[longo : 134 / condições : 134 / modo : 134 / participação : 133 / É : 134 / determinação : 134 / importância : 134 / segurança : 134 / metas : 199 / processo : 198 / impacto : 134 / política : 198 / eleitores : 199 / atual : 201 / melhoria : 201 / sentido : 200 / saúde : 201 / políticas : 267 / assim : 201 / político : 400 / ]
+
+AVL Tree (In-Ordem):
+[participação : 133 / modo : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / segurança : 134 / longo : 134 / impacto : 134 / processo : 198 / política : 198 / eleitores : 199 / metas : 199 / sentido : 200 / melhoria : 201 / saúde : 201 / atual : 201 / assim : 201 / políticas : 267 / político : 400 / ]
+
+Huffman Tree (Pós-Ordem):
+[política : 198 : 0000 / eleitores : 199 : 0001 / metas : 199 : 0010 / sentido : 200 : 0011 / político : 400 : 010 / atual : 201 : 0110 / saúde : 201 : 0111 / melhoria : 201 : 1000 / assim : 201 : 1001 / participação : 133 : 10100 / É : 134 : 10101 / políticas : 267 : 1011 / condições : 134 : 11000 / segurança : 134 : 11001 / modo : 134 : 11010 / importância : 134 : 11011 / determinação : 134 : 11100 / impacto : 134 : 11101 / longo : 134 : 11110 / processo : 198 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[política : 198 : 0000 / eleitores : 199 : 0001 / metas : 199 : 0010 / sentido : 200 : 0011 / político : 400 : 010 / atual : 201 : 0110 / saúde : 201 : 0111 / melhoria : 201 : 1000 / assim : 201 : 1001 / participação : 133 : 10100 / É : 134 : 10101 / políticas : 267 : 1011 / condições : 134 : 11000 / segurança : 134 : 11001 / modo : 134 : 11010 / importância : 134 : 11011 / determinação : 134 : 11100 / impacto : 134 : 11101 / longo : 134 : 11110 / processo : 198 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[política : 198 : 0000 / eleitores : 199 : 0001 / metas : 199 : 0010 / sentido : 200 : 0011 / político : 400 : 010 / atual : 201 : 0110 / saúde : 201 : 0111 / melhoria : 201 : 1000 / assim : 201 : 1001 / participação : 133 : 10100 / É : 134 : 10101 / políticas : 267 : 1011 / condições : 134 : 11000 / segurança : 134 : 11001 / modo : 134 : 11010 / importância : 134 : 11011 / determinação : 134 : 11100 / impacto : 134 : 11101 / longo : 134 : 11110 / processo : 198 : 11111 / ]
+-----------------------------------------------------------------------------
+
+ainda
+
+in5
+
+Binary Tree (Pós-Ordem):
+[sentido : 134 / software : 134 / envolvidos : 134 / problemas : 134 / hardware : 199 / assim : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / informações : 201 / ti : 201 / novas : 201 / implantação : 266 / segurança : 268 / dados : 201 / utilização : 399 / sistema : 200 / tempo : 199 / utilizados : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[utilizados : 134 / problemas : 134 / envolvidos : 134 / software : 134 / sentido : 134 / tempo : 199 / assim : 199 / hardware : 199 / sistema : 200 / aumento : 200 / desenvolvimento : 200 / melhor : 200 / impacto : 200 / utilização : 399 / dados : 201 / novas : 201 / ti : 201 / informações : 201 / segurança : 268 / implantação : 266 / ]
+
+Binary Tree (In-Ordem):
+[sentido : 134 / software : 134 / envolvidos : 134 / problemas : 134 / utilizados : 134 / hardware : 199 / assim : 199 / tempo : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / sistema : 200 / informações : 201 / ti : 201 / novas : 201 / dados : 201 / implantação : 266 / segurança : 268 / utilização : 399 / ]
+
+AVL Tree (Pós-Ordem):
+[sentido : 134 / software : 134 / problemas : 134 / envolvidos : 134 / hardware : 199 / assim : 199 / impacto : 200 / tempo : 199 / utilizados : 134 / desenvolvimento : 200 / aumento : 200 / informações : 201 / novas : 201 / ti : 201 / implantação : 266 / utilização : 399 / segurança : 268 / dados : 201 / sistema : 200 / melhor : 200 / ]
+
+AVL Tree (Pré-Ordem):
+[melhor : 200 / utilizados : 134 / envolvidos : 134 / software : 134 / sentido : 134 / problemas : 134 / tempo : 199 / assim : 199 / hardware : 199 / impacto : 200 / sistema : 200 / aumento : 200 / desenvolvimento : 200 / dados : 201 / ti : 201 / informações : 201 / novas : 201 / segurança : 268 / implantação : 266 / utilização : 399 / ]
+
+AVL Tree (In-Ordem):
+[sentido : 134 / software : 134 / envolvidos : 134 / problemas : 134 / utilizados : 134 / hardware : 199 / assim : 199 / tempo : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / sistema : 200 / informações : 201 / ti : 201 / novas : 201 / dados : 201 / implantação : 266 / segurança : 268 / utilização : 399 / ]
+
+Huffman Tree (Pós-Ordem):
+[desenvolvimento : 200 : 0000 / melhor : 200 : 0001 / sistema : 200 : 0010 / impacto : 200 : 0011 / aumento : 200 : 0100 / ti : 201 : 0101 / informações : 201 : 0110 / dados : 201 : 0111 / novas : 201 : 1000 / implantação : 266 : 1001 / sentido : 134 : 10100 / software : 134 : 10101 / segurança : 268 : 1011 / envolvidos : 134 : 11000 / utilizados : 134 : 11001 / problemas : 134 : 11010 / hardware : 199 : 11011 / assim : 199 : 11100 / tempo : 199 : 11101 / utilização : 399 : 1111 / ]
+
+Huffman Tree (Pré-Ordem):
+[desenvolvimento : 200 : 0000 / melhor : 200 : 0001 / sistema : 200 : 0010 / impacto : 200 : 0011 / aumento : 200 : 0100 / ti : 201 : 0101 / informações : 201 : 0110 / dados : 201 : 0111 / novas : 201 : 1000 / implantação : 266 : 1001 / sentido : 134 : 10100 / software : 134 : 10101 / segurança : 268 : 1011 / envolvidos : 134 : 11000 / utilizados : 134 : 11001 / problemas : 134 : 11010 / hardware : 199 : 11011 / assim : 199 : 11100 / tempo : 199 : 11101 / utilização : 399 : 1111 / ]
+
+Huffman Tree (In-Ordem):
+[desenvolvimento : 200 : 0000 / melhor : 200 : 0001 / sistema : 200 : 0010 / impacto : 200 : 0011 / aumento : 200 : 0100 / ti : 201 : 0101 / informações : 201 : 0110 / dados : 201 : 0111 / novas : 201 : 1000 / implantação : 266 : 1001 / sentido : 134 : 10100 / software : 134 : 10101 / segurança : 268 : 1011 / envolvidos : 134 : 11000 / utilizados : 134 : 11001 / problemas : 134 : 11010 / hardware : 199 : 11011 / assim : 199 : 11100 / tempo : 199 : 11101 / utilização : 399 : 1111 / ]
+-----------------------------------------------------------------------------
+
+ainda
+
+in6
+
+Binary Tree (Pós-Ordem):
+[software : 134 / existem : 134 / uso : 134 / rede : 134 / sistema : 199 / impacto : 199 / desenvolvimento : 199 / tempo : 199 / hardware : 201 / dados : 201 / informações : 200 / assim : 201 / melhor : 201 / aumento : 201 / implantação : 267 / utilização : 400 / segurança : 268 / ti : 201 / novas : 199 / sobre : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[sobre : 134 / rede : 134 / uso : 134 / existem : 134 / software : 134 / novas : 199 / tempo : 199 / desenvolvimento : 199 / impacto : 199 / sistema : 199 / ti : 201 / aumento : 201 / melhor : 201 / assim : 201 / informações : 200 / dados : 201 / hardware : 201 / segurança : 268 / implantação : 267 / utilização : 400 / ]
+
+Binary Tree (In-Ordem):
+[software : 134 / existem : 134 / uso : 134 / rede : 134 / sobre : 134 / sistema : 199 / impacto : 199 / desenvolvimento : 199 / tempo : 199 / novas : 199 / informações : 200 / hardware : 201 / dados : 201 / assim : 201 / melhor : 201 / aumento : 201 / ti : 201 / implantação : 267 / segurança : 268 / utilização : 400 / ]
+
+AVL Tree (Pós-Ordem):
+[software : 134 / existem : 134 / rede : 134 / uso : 134 / sistema : 199 / desenvolvimento : 199 / impacto : 199 / sobre : 134 / novas : 199 / hardware : 201 / dados : 201 / informações : 200 / melhor : 201 / ti : 201 / aumento : 201 / utilização : 400 / segurança : 268 / implantação : 267 / assim : 201 / tempo : 199 / ]
+
+AVL Tree (Pré-Ordem):
+[tempo : 199 / sobre : 134 / uso : 134 / existem : 134 / software : 134 / rede : 134 / impacto : 199 / sistema : 199 / desenvolvimento : 199 / assim : 201 / informações : 200 / novas : 199 / dados : 201 / hardware : 201 / implantação : 267 / aumento : 201 / melhor : 201 / ti : 201 / segurança : 268 / utilização : 400 / ]
+
+AVL Tree (In-Ordem):
+[software : 134 / existem : 134 / uso : 134 / rede : 134 / sobre : 134 / sistema : 199 / impacto : 199 / desenvolvimento : 199 / tempo : 199 / novas : 199 / informações : 200 / hardware : 201 / dados : 201 / assim : 201 / melhor : 201 / aumento : 201 / ti : 201 / implantação : 267 / segurança : 268 / utilização : 400 / ]
+
+Huffman Tree (Pós-Ordem):
+[utilização : 400 : 000 / informações : 200 : 0010 / dados : 201 : 0011 / aumento : 201 : 0100 / melhor : 201 : 0101 / hardware : 201 : 0110 / ti : 201 : 0111 / assim : 201 : 1000 / implantação : 267 : 1001 / software : 134 : 10100 / existem : 134 : 10101 / uso : 134 : 10110 / sobre : 134 : 10111 / segurança : 268 : 1100 / rede : 134 : 11010 / sistema : 199 : 11011 / novas : 199 : 11100 / desenvolvimento : 199 : 11101 / tempo : 199 : 11110 / impacto : 199 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[utilização : 400 : 000 / informações : 200 : 0010 / dados : 201 : 0011 / aumento : 201 : 0100 / melhor : 201 : 0101 / hardware : 201 : 0110 / ti : 201 : 0111 / assim : 201 : 1000 / implantação : 267 : 1001 / software : 134 : 10100 / existem : 134 : 10101 / uso : 134 : 10110 / sobre : 134 : 10111 / segurança : 268 : 1100 / rede : 134 : 11010 / sistema : 199 : 11011 / novas : 199 : 11100 / desenvolvimento : 199 : 11101 / tempo : 199 : 11110 / impacto : 199 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[utilização : 400 : 000 / informações : 200 : 0010 / dados : 201 : 0011 / aumento : 201 : 0100 / melhor : 201 : 0101 / hardware : 201 : 0110 / ti : 201 : 0111 / assim : 201 : 1000 / implantação : 267 : 1001 / software : 134 : 10100 / existem : 134 : 10101 / uso : 134 : 10110 / sobre : 134 : 10111 / segurança : 268 : 1100 / rede : 134 : 11010 / sistema : 199 : 11011 / novas : 199 : 11100 / desenvolvimento : 199 : 11101 / tempo : 199 : 11110 / impacto : 199 : 11111 / ]
+-----------------------------------------------------------------------------
+
+assim
+
+in1
+
+Binary Tree (Pós-Ordem):
+[maneira : 95 / quanto : 95 / wittgenstein : 95 / virtual : 93 / É : 96 / imanente : 104 / segundo : 114 / sentido : 110 / pensamento : 115 / modo : 129 / priori : 125 / condição : 134 / mundo : 134 / sujeito : 145 / teoria : 176 / sistema : 115 / sobre : 114 / vista : 96 / pode : 95 / princípio : 91 / ]
+
+Binary Tree (Pré-Ordem):
+[princípio : 91 / pode : 95 / virtual : 93 / wittgenstein : 95 / quanto : 95 / maneira : 95 / vista : 96 / É : 96 / sobre : 114 / sentido : 110 / imanente : 104 / segundo : 114 / sistema : 115 / pensamento : 115 / teoria : 176 / sujeito : 145 / mundo : 134 / condição : 134 / priori : 125 / modo : 129 / ]
+
+Binary Tree (In-Ordem):
+[princípio : 91 / virtual : 93 / maneira : 95 / quanto : 95 / wittgenstein : 95 / pode : 95 / É : 96 / vista : 96 / imanente : 104 / sentido : 110 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 115 / priori : 125 / modo : 129 / condição : 134 / mundo : 134 / sujeito : 145 / teoria : 176 / ]
+
+AVL Tree (Pós-Ordem):
+[princípio : 91 / maneira : 95 / quanto : 95 / virtual : 93 / É : 96 / pode : 95 / wittgenstein : 95 / imanente : 104 / segundo : 114 / pensamento : 115 / sobre : 114 / sentido : 110 / modo : 129 / priori : 125 / mundo : 134 / teoria : 176 / sujeito : 145 / condição : 134 / sistema : 115 / vista : 96 / ]
+
+AVL Tree (Pré-Ordem):
+[vista : 96 / wittgenstein : 95 / virtual : 93 / princípio : 91 / quanto : 95 / maneira : 95 / pode : 95 / É : 96 / sistema : 115 / sentido : 110 / imanente : 104 / sobre : 114 / segundo : 114 / pensamento : 115 / condição : 134 / priori : 125 / modo : 129 / sujeito : 145 / mundo : 134 / teoria : 176 / ]
+
+AVL Tree (In-Ordem):
+[princípio : 91 / virtual : 93 / maneira : 95 / quanto : 95 / wittgenstein : 95 / pode : 95 / É : 96 / vista : 96 / imanente : 104 / sentido : 110 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 115 / priori : 125 / modo : 129 / condição : 134 / mundo : 134 / sujeito : 145 / teoria : 176 / ]
+
+Huffman Tree (Pós-Ordem):
+[imanente : 104 : 0000 / sentido : 110 : 0001 / sobre : 114 : 0010 / segundo : 114 : 0011 / pensamento : 115 : 0100 / sistema : 115 : 0101 / priori : 125 : 0110 / modo : 129 : 0111 / condição : 134 : 1000 / mundo : 134 : 1001 / sujeito : 145 : 1010 / teoria : 176 : 1011 / princípio : 91 : 11000 / virtual : 93 : 11001 / wittgenstein : 95 : 11010 / pode : 95 : 11011 / quanto : 95 : 11100 / maneira : 95 : 11101 / É : 96 : 11110 / vista : 96 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[imanente : 104 : 0000 / sentido : 110 : 0001 / sobre : 114 : 0010 / segundo : 114 : 0011 / pensamento : 115 : 0100 / sistema : 115 : 0101 / priori : 125 : 0110 / modo : 129 : 0111 / condição : 134 : 1000 / mundo : 134 : 1001 / sujeito : 145 : 1010 / teoria : 176 : 1011 / princípio : 91 : 11000 / virtual : 93 : 11001 / wittgenstein : 95 : 11010 / pode : 95 : 11011 / quanto : 95 : 11100 / maneira : 95 : 11101 / É : 96 : 11110 / vista : 96 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[imanente : 104 : 0000 / sentido : 110 : 0001 / sobre : 114 : 0010 / segundo : 114 : 0011 / pensamento : 115 : 0100 / sistema : 115 : 0101 / priori : 125 : 0110 / modo : 129 : 0111 / condição : 134 : 1000 / mundo : 134 : 1001 / sujeito : 145 : 1010 / teoria : 176 : 1011 / princípio : 91 : 11000 / virtual : 93 : 11001 / wittgenstein : 95 : 11010 / pode : 95 : 11011 / quanto : 95 : 11100 / maneira : 95 : 11101 / É : 96 : 11110 / vista : 96 : 11111 / ]
+-----------------------------------------------------------------------------
+
+assim
+
+in2
+
+Binary Tree (Pós-Ordem):
+[É : 95 / possível : 95 / vista : 95 / wittgenstein : 95 / imanente : 109 / segundo : 114 / sobre : 114 / pensamento : 115 / condição : 133 / priori : 144 / modo : 129 / sistema : 119 / sentido : 111 / teoria : 192 / sujeito : 149 / mundo : 144 / princípio : 97 / pode : 96 / maneira : 95 / respeito : 90 / ]
+
+Binary Tree (Pré-Ordem):
+[respeito : 90 / maneira : 95 / wittgenstein : 95 / vista : 95 / possível : 95 / É : 95 / pode : 96 / princípio : 97 / mundo : 144 / sentido : 111 / imanente : 109 / sistema : 119 / pensamento : 115 / sobre : 114 / segundo : 114 / modo : 129 / priori : 144 / condição : 133 / sujeito : 149 / teoria : 192 / ]
+
+Binary Tree (In-Ordem):
+[respeito : 90 / É : 95 / possível : 95 / vista : 95 / wittgenstein : 95 / maneira : 95 / pode : 96 / princípio : 97 / imanente : 109 / sentido : 111 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 119 / modo : 129 / condição : 133 / priori : 144 / mundo : 144 / sujeito : 149 / teoria : 192 / ]
+
+AVL Tree (Pós-Ordem):
+[É : 95 / respeito : 90 / vista : 95 / possível : 95 / maneira : 95 / imanente : 109 / princípio : 97 / pode : 96 / wittgenstein : 95 / segundo : 114 / sobre : 114 / sistema : 119 / pensamento : 115 / condição : 133 / priori : 144 / teoria : 192 / sujeito : 149 / mundo : 144 / modo : 129 / sentido : 111 / ]
+
+AVL Tree (Pré-Ordem):
+[sentido : 111 / wittgenstein : 95 / possível : 95 / respeito : 90 / É : 95 / vista : 95 / pode : 96 / maneira : 95 / princípio : 97 / imanente : 109 / modo : 129 / pensamento : 115 / sobre : 114 / segundo : 114 / sistema : 119 / mundo : 144 / priori : 144 / condição : 133 / sujeito : 149 / teoria : 192 / ]
+
+AVL Tree (In-Ordem):
+[respeito : 90 / É : 95 / possível : 95 / vista : 95 / wittgenstein : 95 / maneira : 95 / pode : 96 / princípio : 97 / imanente : 109 / sentido : 111 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 119 / modo : 129 / condição : 133 / priori : 144 / mundo : 144 / sujeito : 149 / teoria : 192 / ]
+
+Huffman Tree (Pós-Ordem):
+[imanente : 109 : 0000 / sentido : 111 : 0001 / segundo : 114 : 0010 / sobre : 114 : 0011 / pensamento : 115 : 0100 / sistema : 119 : 0101 / modo : 129 : 0110 / condição : 133 : 0111 / mundo : 144 : 1000 / priori : 144 : 1001 / sujeito : 149 : 1010 / respeito : 90 : 10110 / É : 95 : 10111 / possível : 95 : 11000 / maneira : 95 : 11001 / vista : 95 : 11010 / wittgenstein : 95 : 11011 / teoria : 192 : 1110 / pode : 96 : 11110 / princípio : 97 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[imanente : 109 : 0000 / sentido : 111 : 0001 / segundo : 114 : 0010 / sobre : 114 : 0011 / pensamento : 115 : 0100 / sistema : 119 : 0101 / modo : 129 : 0110 / condição : 133 : 0111 / mundo : 144 : 1000 / priori : 144 : 1001 / sujeito : 149 : 1010 / respeito : 90 : 10110 / É : 95 : 10111 / possível : 95 : 11000 / maneira : 95 : 11001 / vista : 95 : 11010 / wittgenstein : 95 : 11011 / teoria : 192 : 1110 / pode : 96 : 11110 / princípio : 97 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[imanente : 109 : 0000 / sentido : 111 : 0001 / segundo : 114 : 0010 / sobre : 114 : 0011 / pensamento : 115 : 0100 / sistema : 119 : 0101 / modo : 129 : 0110 / condição : 133 : 0111 / mundo : 144 : 1000 / priori : 144 : 1001 / sujeito : 149 : 1010 / respeito : 90 : 10110 / É : 95 : 10111 / possível : 95 : 11000 / maneira : 95 : 11001 / vista : 95 : 11010 / wittgenstein : 95 : 11011 / teoria : 192 : 1110 / pode : 96 : 11110 / princípio : 97 : 11111 / ]
+-----------------------------------------------------------------------------
+
+assim
+
+in3
+
+Binary Tree (Pós-Ordem):
+[vez : 134 / impacto : 135 / formas : 135 / pontos : 135 / sobre : 135 / melhoria : 135 / determinação : 135 / importante : 135 / podemos : 136 / quadros : 136 / É : 137 / importância : 137 / sistema : 138 / pode : 137 / estabelecimento : 136 / sentido : 203 / processo : 202 / modo : 138 / atual : 135 / ressaltar : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[ressaltar : 134 / vez : 134 / atual : 135 / importante : 135 / determinação : 135 / melhoria : 135 / sobre : 135 / pontos : 135 / formas : 135 / impacto : 135 / modo : 138 / estabelecimento : 136 / quadros : 136 / podemos : 136 / pode : 137 / importância : 137 / É : 137 / sistema : 138 / processo : 202 / sentido : 203 / ]
+
+Binary Tree (In-Ordem):
+[vez : 134 / ressaltar : 134 / impacto : 135 / formas : 135 / pontos : 135 / sobre : 135 / melhoria : 135 / determinação : 135 / importante : 135 / atual : 135 / podemos : 136 / quadros : 136 / estabelecimento : 136 / É : 137 / importância : 137 / pode : 137 / sistema : 138 / modo : 138 / processo : 202 / sentido : 203 / ]
+
+AVL Tree (Pós-Ordem):
+[vez : 134 / ressaltar : 134 / formas : 135 / sobre : 135 / pontos : 135 / impacto : 135 / determinação : 135 / atual : 135 / quadros : 136 / podemos : 136 / importante : 135 / melhoria : 135 / É : 137 / importância : 137 / sistema : 138 / pode : 137 / sentido : 203 / processo : 202 / modo : 138 / estabelecimento : 136 / ]
+
+AVL Tree (Pré-Ordem):
+[estabelecimento : 136 / melhoria : 135 / impacto : 135 / ressaltar : 134 / vez : 134 / pontos : 135 / formas : 135 / sobre : 135 / importante : 135 / determinação : 135 / podemos : 136 / atual : 135 / quadros : 136 / modo : 138 / pode : 137 / importância : 137 / É : 137 / sistema : 138 / processo : 202 / sentido : 203 / ]
+
+AVL Tree (In-Ordem):
+[vez : 134 / ressaltar : 134 / impacto : 135 / formas : 135 / pontos : 135 / sobre : 135 / melhoria : 135 / determinação : 135 / importante : 135 / atual : 135 / podemos : 136 / quadros : 136 / estabelecimento : 136 / É : 137 / importância : 137 / pode : 137 / sistema : 138 / modo : 138 / processo : 202 / sentido : 203 / ]
+
+Huffman Tree (Pós-Ordem):
+[pontos : 135 : 0000 / determinação : 135 : 0001 / podemos : 136 : 0010 / estabelecimento : 136 : 0011 / quadros : 136 : 0100 / É : 137 : 0101 / importância : 137 : 0110 / pode : 137 : 0111 / modo : 138 : 1000 / sistema : 138 : 1001 / processo : 202 : 1010 / sentido : 203 : 1011 / vez : 134 : 11000 / ressaltar : 134 : 11001 / impacto : 135 : 11010 / melhoria : 135 : 11011 / sobre : 135 : 11100 / importante : 135 : 11101 / atual : 135 : 11110 / formas : 135 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[pontos : 135 : 0000 / determinação : 135 : 0001 / podemos : 136 : 0010 / estabelecimento : 136 : 0011 / quadros : 136 : 0100 / É : 137 : 0101 / importância : 137 : 0110 / pode : 137 : 0111 / modo : 138 : 1000 / sistema : 138 : 1001 / processo : 202 : 1010 / sentido : 203 : 1011 / vez : 134 : 11000 / ressaltar : 134 : 11001 / impacto : 135 : 11010 / melhoria : 135 : 11011 / sobre : 135 : 11100 / importante : 135 : 11101 / atual : 135 : 11110 / formas : 135 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[pontos : 135 : 0000 / determinação : 135 : 0001 / podemos : 136 : 0010 / estabelecimento : 136 : 0011 / quadros : 136 : 0100 / É : 137 : 0101 / importância : 137 : 0110 / pode : 137 : 0111 / modo : 138 : 1000 / sistema : 138 : 1001 / processo : 202 : 1010 / sentido : 203 : 1011 / vez : 134 : 11000 / ressaltar : 134 : 11001 / impacto : 135 : 11010 / melhoria : 135 : 11011 / sobre : 135 : 11100 / importante : 135 : 11101 / atual : 135 : 11110 / formas : 135 : 11111 / ]
+-----------------------------------------------------------------------------
+
+assim
+
+in4
+
+Binary Tree (Pós-Ordem):
+[modo : 134 / participação : 133 / ainda : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / segurança : 134 / longo : 134 / processo : 198 / eleitores : 199 / política : 198 / melhoria : 201 / saúde : 201 / político : 400 / políticas : 267 / atual : 201 / sentido : 200 / metas : 199 / impacto : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[impacto : 134 / longo : 134 / segurança : 134 / determinação : 134 / importância : 134 / condições : 134 / É : 134 / ainda : 134 / participação : 133 / modo : 134 / metas : 199 / política : 198 / processo : 198 / eleitores : 199 / sentido : 200 / atual : 201 / saúde : 201 / melhoria : 201 / políticas : 267 / político : 400 / ]
+
+Binary Tree (In-Ordem):
+[participação : 133 / modo : 134 / ainda : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / segurança : 134 / longo : 134 / impacto : 134 / processo : 198 / política : 198 / eleitores : 199 / metas : 199 / sentido : 200 / melhoria : 201 / saúde : 201 / atual : 201 / políticas : 267 / político : 400 / ]
+
+AVL Tree (Pós-Ordem):
+[modo : 134 / participação : 133 / É : 134 / ainda : 134 / importância : 134 / segurança : 134 / determinação : 134 / condições : 134 / impacto : 134 / eleitores : 199 / política : 198 / processo : 198 / melhoria : 201 / sentido : 200 / atual : 201 / político : 400 / políticas : 267 / saúde : 201 / metas : 199 / longo : 134 / ]
+
+AVL Tree (Pré-Ordem):
+[longo : 134 / condições : 134 / ainda : 134 / participação : 133 / modo : 134 / É : 134 / determinação : 134 / importância : 134 / segurança : 134 / metas : 199 / processo : 198 / impacto : 134 / política : 198 / eleitores : 199 / saúde : 201 / sentido : 200 / melhoria : 201 / políticas : 267 / atual : 201 / político : 400 / ]
+
+AVL Tree (In-Ordem):
+[participação : 133 / modo : 134 / ainda : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / segurança : 134 / longo : 134 / impacto : 134 / processo : 198 / política : 198 / eleitores : 199 / metas : 199 / sentido : 200 / melhoria : 201 / saúde : 201 / atual : 201 / políticas : 267 / político : 400 / ]
+
+Huffman Tree (Pós-Ordem):
+[processo : 198 : 0000 / política : 198 : 0001 / eleitores : 199 : 0010 / metas : 199 : 0011 / político : 400 : 010 / sentido : 200 : 0110 / melhoria : 201 : 0111 / atual : 201 : 1000 / saúde : 201 : 1001 / participação : 133 : 10100 / É : 134 : 10101 / políticas : 267 : 1011 / determinação : 134 : 11000 / impacto : 134 : 11001 / modo : 134 : 11010 / importância : 134 : 11011 / condições : 134 : 11100 / segurança : 134 : 11101 / ainda : 134 : 11110 / longo : 134 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[processo : 198 : 0000 / política : 198 : 0001 / eleitores : 199 : 0010 / metas : 199 : 0011 / político : 400 : 010 / sentido : 200 : 0110 / melhoria : 201 : 0111 / atual : 201 : 1000 / saúde : 201 : 1001 / participação : 133 : 10100 / É : 134 : 10101 / políticas : 267 : 1011 / determinação : 134 : 11000 / impacto : 134 : 11001 / modo : 134 : 11010 / importância : 134 : 11011 / condições : 134 : 11100 / segurança : 134 : 11101 / ainda : 134 : 11110 / longo : 134 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[processo : 198 : 0000 / política : 198 : 0001 / eleitores : 199 : 0010 / metas : 199 : 0011 / político : 400 : 010 / sentido : 200 : 0110 / melhoria : 201 : 0111 / atual : 201 : 1000 / saúde : 201 : 1001 / participação : 133 : 10100 / É : 134 : 10101 / políticas : 267 : 1011 / determinação : 134 : 11000 / impacto : 134 : 11001 / modo : 134 : 11010 / importância : 134 : 11011 / condições : 134 : 11100 / segurança : 134 : 11101 / ainda : 134 : 11110 / longo : 134 : 11111 / ]
+-----------------------------------------------------------------------------
+
+assim
+
+in5
+
+Binary Tree (Pós-Ordem):
+[software : 134 / sentido : 134 / sistemas : 134 / envolvidos : 134 / problemas : 134 / hardware : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / informações : 201 / ti : 201 / novas : 201 / implantação : 266 / segurança : 268 / dados : 201 / utilização : 399 / sistema : 200 / tempo : 199 / utilizados : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[utilizados : 134 / problemas : 134 / envolvidos : 134 / sistemas : 134 / sentido : 134 / software : 134 / tempo : 199 / hardware : 199 / sistema : 200 / aumento : 200 / desenvolvimento : 200 / melhor : 200 / impacto : 200 / utilização : 399 / dados : 201 / novas : 201 / ti : 201 / informações : 201 / segurança : 268 / implantação : 266 / ]
+
+Binary Tree (In-Ordem):
+[software : 134 / sentido : 134 / sistemas : 134 / envolvidos : 134 / problemas : 134 / utilizados : 134 / hardware : 199 / tempo : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / sistema : 200 / informações : 201 / ti : 201 / novas : 201 / dados : 201 / implantação : 266 / segurança : 268 / utilização : 399 / ]
+
+AVL Tree (Pós-Ordem):
+[software : 134 / sistemas : 134 / sentido : 134 / problemas : 134 / envolvidos : 134 / hardware : 199 / impacto : 200 / tempo : 199 / desenvolvimento : 200 / melhor : 200 / utilizados : 134 / informações : 201 / sistema : 200 / novas : 201 / ti : 201 / implantação : 266 / utilização : 399 / segurança : 268 / dados : 201 / aumento : 200 / ]
+
+AVL Tree (Pré-Ordem):
+[aumento : 200 / utilizados : 134 / envolvidos : 134 / sentido : 134 / software : 134 / sistemas : 134 / problemas : 134 / melhor : 200 / tempo : 199 / hardware : 199 / impacto : 200 / desenvolvimento : 200 / dados : 201 / ti : 201 / sistema : 200 / informações : 201 / novas : 201 / segurança : 268 / implantação : 266 / utilização : 399 / ]
+
+AVL Tree (In-Ordem):
+[software : 134 / sentido : 134 / sistemas : 134 / envolvidos : 134 / problemas : 134 / utilizados : 134 / hardware : 199 / tempo : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / sistema : 200 / informações : 201 / ti : 201 / novas : 201 / dados : 201 / implantação : 266 / segurança : 268 / utilização : 399 / ]
+
+Huffman Tree (Pós-Ordem):
+[sistema : 200 : 0000 / impacto : 200 : 0001 / desenvolvimento : 200 : 0010 / melhor : 200 : 0011 / aumento : 200 : 0100 / ti : 201 : 0101 / informações : 201 : 0110 / dados : 201 : 0111 / novas : 201 : 1000 / implantação : 266 : 1001 / software : 134 : 10100 / sentido : 134 : 10101 / sistemas : 134 : 10110 / problemas : 134 : 10111 / segurança : 268 : 1100 / envolvidos : 134 : 11010 / utilizados : 134 : 11011 / hardware : 199 : 11100 / tempo : 199 : 11101 / utilização : 399 : 1111 / ]
+
+Huffman Tree (Pré-Ordem):
+[sistema : 200 : 0000 / impacto : 200 : 0001 / desenvolvimento : 200 : 0010 / melhor : 200 : 0011 / aumento : 200 : 0100 / ti : 201 : 0101 / informações : 201 : 0110 / dados : 201 : 0111 / novas : 201 : 1000 / implantação : 266 : 1001 / software : 134 : 10100 / sentido : 134 : 10101 / sistemas : 134 : 10110 / problemas : 134 : 10111 / segurança : 268 : 1100 / envolvidos : 134 : 11010 / utilizados : 134 : 11011 / hardware : 199 : 11100 / tempo : 199 : 11101 / utilização : 399 : 1111 / ]
+
+Huffman Tree (In-Ordem):
+[sistema : 200 : 0000 / impacto : 200 : 0001 / desenvolvimento : 200 : 0010 / melhor : 200 : 0011 / aumento : 200 : 0100 / ti : 201 : 0101 / informações : 201 : 0110 / dados : 201 : 0111 / novas : 201 : 1000 / implantação : 266 : 1001 / software : 134 : 10100 / sentido : 134 : 10101 / sistemas : 134 : 10110 / problemas : 134 : 10111 / segurança : 268 : 1100 / envolvidos : 134 : 11010 / utilizados : 134 : 11011 / hardware : 199 : 11100 / tempo : 199 : 11101 / utilização : 399 : 1111 / ]
+-----------------------------------------------------------------------------
+
+assim
+
+in6
+
+Binary Tree (Pós-Ordem):
+[software : 134 / existem : 134 / uso : 134 / sobre : 134 / rede : 134 / sistema : 199 / impacto : 199 / novas : 199 / desenvolvimento : 199 / hardware : 201 / dados : 201 / informações : 200 / melhor : 201 / aumento : 201 / implantação : 267 / utilização : 400 / segurança : 268 / ti : 201 / tempo : 199 / dúvidas : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[dúvidas : 134 / rede : 134 / sobre : 134 / uso : 134 / existem : 134 / software : 134 / tempo : 199 / desenvolvimento : 199 / novas : 199 / impacto : 199 / sistema : 199 / ti : 201 / aumento : 201 / melhor : 201 / informações : 200 / dados : 201 / hardware : 201 / segurança : 268 / implantação : 267 / utilização : 400 / ]
+
+Binary Tree (In-Ordem):
+[software : 134 / existem : 134 / uso : 134 / sobre : 134 / rede : 134 / dúvidas : 134 / sistema : 199 / impacto : 199 / novas : 199 / desenvolvimento : 199 / tempo : 199 / informações : 200 / hardware : 201 / dados : 201 / melhor : 201 / aumento : 201 / ti : 201 / implantação : 267 / segurança : 268 / utilização : 400 / ]
+
+AVL Tree (Pós-Ordem):
+[software : 134 / existem : 134 / sobre : 134 / uso : 134 / sistema : 199 / dúvidas : 134 / novas : 199 / tempo : 199 / desenvolvimento : 199 / impacto : 199 / rede : 134 / hardware : 201 / melhor : 201 / dados : 201 / ti : 201 / utilização : 400 / segurança : 268 / implantação : 267 / aumento : 201 / informações : 200 / ]
+
+AVL Tree (Pré-Ordem):
+[informações : 200 / rede : 134 / uso : 134 / existem : 134 / software : 134 / sobre : 134 / impacto : 199 / dúvidas : 134 / sistema : 199 / desenvolvimento : 199 / novas : 199 / tempo : 199 / aumento : 201 / dados : 201 / hardware : 201 / melhor : 201 / implantação : 267 / ti : 201 / segurança : 268 / utilização : 400 / ]
+
+AVL Tree (In-Ordem):
+[software : 134 / existem : 134 / uso : 134 / sobre : 134 / rede : 134 / dúvidas : 134 / sistema : 199 / impacto : 199 / novas : 199 / desenvolvimento : 199 / tempo : 199 / informações : 200 / hardware : 201 / dados : 201 / melhor : 201 / aumento : 201 / ti : 201 / implantação : 267 / segurança : 268 / utilização : 400 / ]
+
+Huffman Tree (Pós-Ordem):
+[novas : 199 : 0000 / informações : 200 : 0001 / utilização : 400 : 001 / dados : 201 : 0100 / hardware : 201 : 0101 / ti : 201 : 0110 / aumento : 201 : 0111 / melhor : 201 : 1000 / implantação : 267 : 1001 / sobre : 134 : 10100 / rede : 134 : 10101 / uso : 134 : 10110 / dúvidas : 134 : 10111 / software : 134 : 11000 / existem : 134 : 11001 / segurança : 268 : 1101 / sistema : 199 : 11100 / tempo : 199 : 11101 / desenvolvimento : 199 : 11110 / impacto : 199 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[novas : 199 : 0000 / informações : 200 : 0001 / utilização : 400 : 001 / dados : 201 : 0100 / hardware : 201 : 0101 / ti : 201 : 0110 / aumento : 201 : 0111 / melhor : 201 : 1000 / implantação : 267 : 1001 / sobre : 134 : 10100 / rede : 134 : 10101 / uso : 134 : 10110 / dúvidas : 134 : 10111 / software : 134 : 11000 / existem : 134 : 11001 / segurança : 268 : 1101 / sistema : 199 : 11100 / tempo : 199 : 11101 / desenvolvimento : 199 : 11110 / impacto : 199 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[novas : 199 : 0000 / informações : 200 : 0001 / utilização : 400 : 001 / dados : 201 : 0100 / hardware : 201 : 0101 / ti : 201 : 0110 / aumento : 201 : 0111 / melhor : 201 : 1000 / implantação : 267 : 1001 / sobre : 134 : 10100 / rede : 134 : 10101 / uso : 134 : 10110 / dúvidas : 134 : 10111 / software : 134 : 11000 / existem : 134 : 11001 / segurança : 268 : 1101 / sistema : 199 : 11100 / tempo : 199 : 11101 / desenvolvimento : 199 : 11110 / impacto : 199 : 11111 / ]
+-----------------------------------------------------------------------------
+
+novas
+
+in1
+
+Binary Tree (Pós-Ordem):
+[maneira : 95 / quanto : 95 / wittgenstein : 95 / assim : 94 / É : 96 / imanente : 104 / segundo : 114 / sentido : 110 / pensamento : 115 / modo : 129 / priori : 125 / condição : 134 / mundo : 134 / sujeito : 145 / teoria : 176 / sistema : 115 / sobre : 114 / vista : 96 / pode : 95 / virtual : 93 / ]
+
+Binary Tree (Pré-Ordem):
+[virtual : 93 / pode : 95 / assim : 94 / wittgenstein : 95 / quanto : 95 / maneira : 95 / vista : 96 / É : 96 / sobre : 114 / sentido : 110 / imanente : 104 / segundo : 114 / sistema : 115 / pensamento : 115 / teoria : 176 / sujeito : 145 / mundo : 134 / condição : 134 / priori : 125 / modo : 129 / ]
+
+Binary Tree (In-Ordem):
+[virtual : 93 / assim : 94 / maneira : 95 / quanto : 95 / wittgenstein : 95 / pode : 95 / É : 96 / vista : 96 / imanente : 104 / sentido : 110 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 115 / priori : 125 / modo : 129 / condição : 134 / mundo : 134 / sujeito : 145 / teoria : 176 / ]
+
+AVL Tree (Pós-Ordem):
+[virtual : 93 / maneira : 95 / quanto : 95 / assim : 94 / É : 96 / pode : 95 / wittgenstein : 95 / imanente : 104 / segundo : 114 / pensamento : 115 / sobre : 114 / sentido : 110 / modo : 129 / priori : 125 / mundo : 134 / teoria : 176 / sujeito : 145 / condição : 134 / sistema : 115 / vista : 96 / ]
+
+AVL Tree (Pré-Ordem):
+[vista : 96 / wittgenstein : 95 / assim : 94 / virtual : 93 / quanto : 95 / maneira : 95 / pode : 95 / É : 96 / sistema : 115 / sentido : 110 / imanente : 104 / sobre : 114 / segundo : 114 / pensamento : 115 / condição : 134 / priori : 125 / modo : 129 / sujeito : 145 / mundo : 134 / teoria : 176 / ]
+
+AVL Tree (In-Ordem):
+[virtual : 93 / assim : 94 / maneira : 95 / quanto : 95 / wittgenstein : 95 / pode : 95 / É : 96 / vista : 96 / imanente : 104 / sentido : 110 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 115 / priori : 125 / modo : 129 / condição : 134 / mundo : 134 / sujeito : 145 / teoria : 176 / ]
+
+Huffman Tree (Pós-Ordem):
+[imanente : 104 : 0000 / sentido : 110 : 0001 / sobre : 114 : 0010 / segundo : 114 : 0011 / pensamento : 115 : 0100 / sistema : 115 : 0101 / priori : 125 : 0110 / modo : 129 : 0111 / condição : 134 : 1000 / mundo : 134 : 1001 / sujeito : 145 : 1010 / teoria : 176 : 1011 / virtual : 93 : 11000 / assim : 94 : 11001 / wittgenstein : 95 : 11010 / pode : 95 : 11011 / quanto : 95 : 11100 / maneira : 95 : 11101 / É : 96 : 11110 / vista : 96 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[imanente : 104 : 0000 / sentido : 110 : 0001 / sobre : 114 : 0010 / segundo : 114 : 0011 / pensamento : 115 : 0100 / sistema : 115 : 0101 / priori : 125 : 0110 / modo : 129 : 0111 / condição : 134 : 1000 / mundo : 134 : 1001 / sujeito : 145 : 1010 / teoria : 176 : 1011 / virtual : 93 : 11000 / assim : 94 : 11001 / wittgenstein : 95 : 11010 / pode : 95 : 11011 / quanto : 95 : 11100 / maneira : 95 : 11101 / É : 96 : 11110 / vista : 96 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[imanente : 104 : 0000 / sentido : 110 : 0001 / sobre : 114 : 0010 / segundo : 114 : 0011 / pensamento : 115 : 0100 / sistema : 115 : 0101 / priori : 125 : 0110 / modo : 129 : 0111 / condição : 134 : 1000 / mundo : 134 : 1001 / sujeito : 145 : 1010 / teoria : 176 : 1011 / virtual : 93 : 11000 / assim : 94 : 11001 / wittgenstein : 95 : 11010 / pode : 95 : 11011 / quanto : 95 : 11100 / maneira : 95 : 11101 / É : 96 : 11110 / vista : 96 : 11111 / ]
+-----------------------------------------------------------------------------
+
+novas
+
+in2
+
+Binary Tree (Pós-Ordem):
+[É : 95 / possível : 95 / vista : 95 / wittgenstein : 95 / imanente : 109 / segundo : 114 / sobre : 114 / pensamento : 115 / condição : 133 / priori : 144 / modo : 129 / sistema : 119 / sentido : 111 / teoria : 192 / sujeito : 149 / mundo : 144 / princípio : 97 / pode : 96 / maneira : 95 / respeito : 90 / ]
+
+Binary Tree (Pré-Ordem):
+[respeito : 90 / maneira : 95 / wittgenstein : 95 / vista : 95 / possível : 95 / É : 95 / pode : 96 / princípio : 97 / mundo : 144 / sentido : 111 / imanente : 109 / sistema : 119 / pensamento : 115 / sobre : 114 / segundo : 114 / modo : 129 / priori : 144 / condição : 133 / sujeito : 149 / teoria : 192 / ]
+
+Binary Tree (In-Ordem):
+[respeito : 90 / É : 95 / possível : 95 / vista : 95 / wittgenstein : 95 / maneira : 95 / pode : 96 / princípio : 97 / imanente : 109 / sentido : 111 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 119 / modo : 129 / condição : 133 / priori : 144 / mundo : 144 / sujeito : 149 / teoria : 192 / ]
+
+AVL Tree (Pós-Ordem):
+[É : 95 / respeito : 90 / vista : 95 / possível : 95 / maneira : 95 / imanente : 109 / princípio : 97 / pode : 96 / wittgenstein : 95 / segundo : 114 / sobre : 114 / sistema : 119 / pensamento : 115 / condição : 133 / priori : 144 / teoria : 192 / sujeito : 149 / mundo : 144 / modo : 129 / sentido : 111 / ]
+
+AVL Tree (Pré-Ordem):
+[sentido : 111 / wittgenstein : 95 / possível : 95 / respeito : 90 / É : 95 / vista : 95 / pode : 96 / maneira : 95 / princípio : 97 / imanente : 109 / modo : 129 / pensamento : 115 / sobre : 114 / segundo : 114 / sistema : 119 / mundo : 144 / priori : 144 / condição : 133 / sujeito : 149 / teoria : 192 / ]
+
+AVL Tree (In-Ordem):
+[respeito : 90 / É : 95 / possível : 95 / vista : 95 / wittgenstein : 95 / maneira : 95 / pode : 96 / princípio : 97 / imanente : 109 / sentido : 111 / segundo : 114 / sobre : 114 / pensamento : 115 / sistema : 119 / modo : 129 / condição : 133 / priori : 144 / mundo : 144 / sujeito : 149 / teoria : 192 / ]
+
+Huffman Tree (Pós-Ordem):
+[imanente : 109 : 0000 / sentido : 111 : 0001 / segundo : 114 : 0010 / sobre : 114 : 0011 / pensamento : 115 : 0100 / sistema : 119 : 0101 / modo : 129 : 0110 / condição : 133 : 0111 / mundo : 144 : 1000 / priori : 144 : 1001 / sujeito : 149 : 1010 / respeito : 90 : 10110 / É : 95 : 10111 / possível : 95 : 11000 / maneira : 95 : 11001 / vista : 95 : 11010 / wittgenstein : 95 : 11011 / teoria : 192 : 1110 / pode : 96 : 11110 / princípio : 97 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[imanente : 109 : 0000 / sentido : 111 : 0001 / segundo : 114 : 0010 / sobre : 114 : 0011 / pensamento : 115 : 0100 / sistema : 119 : 0101 / modo : 129 : 0110 / condição : 133 : 0111 / mundo : 144 : 1000 / priori : 144 : 1001 / sujeito : 149 : 1010 / respeito : 90 : 10110 / É : 95 : 10111 / possível : 95 : 11000 / maneira : 95 : 11001 / vista : 95 : 11010 / wittgenstein : 95 : 11011 / teoria : 192 : 1110 / pode : 96 : 11110 / princípio : 97 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[imanente : 109 : 0000 / sentido : 111 : 0001 / segundo : 114 : 0010 / sobre : 114 : 0011 / pensamento : 115 : 0100 / sistema : 119 : 0101 / modo : 129 : 0110 / condição : 133 : 0111 / mundo : 144 : 1000 / priori : 144 : 1001 / sujeito : 149 : 1010 / respeito : 90 : 10110 / É : 95 : 10111 / possível : 95 : 11000 / maneira : 95 : 11001 / vista : 95 : 11010 / wittgenstein : 95 : 11011 / teoria : 192 : 1110 / pode : 96 : 11110 / princípio : 97 : 11111 / ]
+-----------------------------------------------------------------------------
+
+novas
+
+in3
+
+Binary Tree (Pós-Ordem):
+[impacto : 135 / formas : 135 / pontos : 135 / sobre : 135 / melhoria : 135 / determinação : 135 / importante : 135 / podemos : 136 / quadros : 136 / É : 137 / importância : 137 / sistema : 138 / pode : 137 / estabelecimento : 136 / assim : 200 / sentido : 203 / processo : 202 / modo : 138 / atual : 135 / ressaltar : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[ressaltar : 134 / atual : 135 / importante : 135 / determinação : 135 / melhoria : 135 / sobre : 135 / pontos : 135 / formas : 135 / impacto : 135 / modo : 138 / estabelecimento : 136 / quadros : 136 / podemos : 136 / pode : 137 / importância : 137 / É : 137 / sistema : 138 / processo : 202 / assim : 200 / sentido : 203 / ]
+
+Binary Tree (In-Ordem):
+[ressaltar : 134 / impacto : 135 / formas : 135 / pontos : 135 / sobre : 135 / melhoria : 135 / determinação : 135 / importante : 135 / atual : 135 / podemos : 136 / quadros : 136 / estabelecimento : 136 / É : 137 / importância : 137 / pode : 137 / sistema : 138 / modo : 138 / assim : 200 / processo : 202 / sentido : 203 / ]
+
+AVL Tree (Pós-Ordem):
+[ressaltar : 134 / formas : 135 / impacto : 135 / sobre : 135 / pontos : 135 / determinação : 135 / atual : 135 / quadros : 136 / podemos : 136 / importante : 135 / melhoria : 135 / É : 137 / importância : 137 / sistema : 138 / pode : 137 / assim : 200 / sentido : 203 / processo : 202 / modo : 138 / estabelecimento : 136 / ]
+
+AVL Tree (Pré-Ordem):
+[estabelecimento : 136 / melhoria : 135 / pontos : 135 / impacto : 135 / ressaltar : 134 / formas : 135 / sobre : 135 / importante : 135 / determinação : 135 / podemos : 136 / atual : 135 / quadros : 136 / modo : 138 / pode : 137 / importância : 137 / É : 137 / sistema : 138 / processo : 202 / assim : 200 / sentido : 203 / ]
+
+AVL Tree (In-Ordem):
+[ressaltar : 134 / impacto : 135 / formas : 135 / pontos : 135 / sobre : 135 / melhoria : 135 / determinação : 135 / importante : 135 / atual : 135 / podemos : 136 / quadros : 136 / estabelecimento : 136 / É : 137 / importância : 137 / pode : 137 / sistema : 138 / modo : 138 / assim : 200 / processo : 202 / sentido : 203 / ]
+
+Huffman Tree (Pós-Ordem):
+[importante : 135 : 0000 / podemos : 136 : 0001 / estabelecimento : 136 : 0010 / quadros : 136 : 0011 / É : 137 : 0100 / importância : 137 : 0101 / pode : 137 : 0110 / modo : 138 : 0111 / sistema : 138 : 1000 / assim : 200 : 1001 / processo : 202 : 1010 / sentido : 203 : 1011 / ressaltar : 134 : 11000 / impacto : 135 : 11001 / atual : 135 : 11010 / pontos : 135 : 11011 / determinação : 135 : 11100 / sobre : 135 : 11101 / formas : 135 : 11110 / melhoria : 135 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[importante : 135 : 0000 / podemos : 136 : 0001 / estabelecimento : 136 : 0010 / quadros : 136 : 0011 / É : 137 : 0100 / importância : 137 : 0101 / pode : 137 : 0110 / modo : 138 : 0111 / sistema : 138 : 1000 / assim : 200 : 1001 / processo : 202 : 1010 / sentido : 203 : 1011 / ressaltar : 134 : 11000 / impacto : 135 : 11001 / atual : 135 : 11010 / pontos : 135 : 11011 / determinação : 135 : 11100 / sobre : 135 : 11101 / formas : 135 : 11110 / melhoria : 135 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[importante : 135 : 0000 / podemos : 136 : 0001 / estabelecimento : 136 : 0010 / quadros : 136 : 0011 / É : 137 : 0100 / importância : 137 : 0101 / pode : 137 : 0110 / modo : 138 : 0111 / sistema : 138 : 1000 / assim : 200 : 1001 / processo : 202 : 1010 / sentido : 203 : 1011 / ressaltar : 134 : 11000 / impacto : 135 : 11001 / atual : 135 : 11010 / pontos : 135 : 11011 / determinação : 135 : 11100 / sobre : 135 : 11101 / formas : 135 : 11110 / melhoria : 135 : 11111 / ]
+-----------------------------------------------------------------------------
+
+novas
+
+in4
+
+Binary Tree (Pós-Ordem):
+[modo : 134 / ainda : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / segurança : 134 / longo : 134 / processo : 198 / eleitores : 199 / política : 198 / melhoria : 201 / saúde : 201 / atual : 201 / político : 400 / políticas : 267 / assim : 201 / sentido : 200 / metas : 199 / impacto : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[impacto : 134 / longo : 134 / segurança : 134 / determinação : 134 / importância : 134 / condições : 134 / É : 134 / ainda : 134 / modo : 134 / metas : 199 / política : 198 / processo : 198 / eleitores : 199 / sentido : 200 / assim : 201 / atual : 201 / saúde : 201 / melhoria : 201 / políticas : 267 / político : 400 / ]
+
+Binary Tree (In-Ordem):
+[modo : 134 / ainda : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / segurança : 134 / longo : 134 / impacto : 134 / processo : 198 / política : 198 / eleitores : 199 / metas : 199 / sentido : 200 / melhoria : 201 / saúde : 201 / atual : 201 / assim : 201 / políticas : 267 / político : 400 / ]
+
+AVL Tree (Pós-Ordem):
+[modo : 134 / É : 134 / ainda : 134 / importância : 134 / segurança : 134 / determinação : 134 / condições : 134 / impacto : 134 / eleitores : 199 / política : 198 / processo : 198 / sentido : 200 / saúde : 201 / melhoria : 201 / assim : 201 / político : 400 / políticas : 267 / atual : 201 / metas : 199 / longo : 134 / ]
+
+AVL Tree (Pré-Ordem):
+[longo : 134 / condições : 134 / ainda : 134 / modo : 134 / É : 134 / determinação : 134 / importância : 134 / segurança : 134 / metas : 199 / processo : 198 / impacto : 134 / política : 198 / eleitores : 199 / atual : 201 / melhoria : 201 / sentido : 200 / saúde : 201 / políticas : 267 / assim : 201 / político : 400 / ]
+
+AVL Tree (In-Ordem):
+[modo : 134 / ainda : 134 / É : 134 / condições : 134 / importância : 134 / determinação : 134 / segurança : 134 / longo : 134 / impacto : 134 / processo : 198 / política : 198 / eleitores : 199 / metas : 199 / sentido : 200 / melhoria : 201 / saúde : 201 / atual : 201 / assim : 201 / políticas : 267 / político : 400 / ]
+
+Huffman Tree (Pós-Ordem):
+[política : 198 : 0000 / eleitores : 199 : 0001 / metas : 199 : 0010 / sentido : 200 : 0011 / político : 400 : 010 / atual : 201 : 0110 / saúde : 201 : 0111 / melhoria : 201 : 1000 / assim : 201 : 1001 / políticas : 267 : 1010 / ainda : 134 : 10110 / importância : 134 : 10111 / condições : 134 : 11000 / segurança : 134 : 11001 / modo : 134 : 11010 / É : 134 : 11011 / determinação : 134 : 11100 / impacto : 134 : 11101 / longo : 134 : 11110 / processo : 198 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[política : 198 : 0000 / eleitores : 199 : 0001 / metas : 199 : 0010 / sentido : 200 : 0011 / político : 400 : 010 / atual : 201 : 0110 / saúde : 201 : 0111 / melhoria : 201 : 1000 / assim : 201 : 1001 / políticas : 267 : 1010 / ainda : 134 : 10110 / importância : 134 : 10111 / condições : 134 : 11000 / segurança : 134 : 11001 / modo : 134 : 11010 / É : 134 : 11011 / determinação : 134 : 11100 / impacto : 134 : 11101 / longo : 134 : 11110 / processo : 198 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[política : 198 : 0000 / eleitores : 199 : 0001 / metas : 199 : 0010 / sentido : 200 : 0011 / político : 400 : 010 / atual : 201 : 0110 / saúde : 201 : 0111 / melhoria : 201 : 1000 / assim : 201 : 1001 / políticas : 267 : 1010 / ainda : 134 : 10110 / importância : 134 : 10111 / condições : 134 : 11000 / segurança : 134 : 11001 / modo : 134 : 11010 / É : 134 : 11011 / determinação : 134 : 11100 / impacto : 134 : 11101 / longo : 134 : 11110 / processo : 198 : 11111 / ]
+-----------------------------------------------------------------------------
+
+novas
+
+in5
+
+Binary Tree (Pós-Ordem):
+[sistemas : 134 / sentido : 134 / software : 134 / envolvidos : 134 / problemas : 134 / hardware : 199 / assim : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / informações : 201 / ti : 201 / implantação : 266 / segurança : 268 / dados : 201 / utilização : 399 / sistema : 200 / tempo : 199 / utilizados : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[utilizados : 134 / problemas : 134 / envolvidos : 134 / software : 134 / sentido : 134 / sistemas : 134 / tempo : 199 / assim : 199 / hardware : 199 / sistema : 200 / aumento : 200 / desenvolvimento : 200 / melhor : 200 / impacto : 200 / utilização : 399 / dados : 201 / ti : 201 / informações : 201 / segurança : 268 / implantação : 266 / ]
+
+Binary Tree (In-Ordem):
+[sistemas : 134 / sentido : 134 / software : 134 / envolvidos : 134 / problemas : 134 / utilizados : 134 / hardware : 199 / assim : 199 / tempo : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / sistema : 200 / informações : 201 / ti : 201 / dados : 201 / implantação : 266 / segurança : 268 / utilização : 399 / ]
+
+AVL Tree (Pós-Ordem):
+[sistemas : 134 / software : 134 / sentido : 134 / problemas : 134 / envolvidos : 134 / hardware : 199 / assim : 199 / impacto : 200 / desenvolvimento : 200 / melhor : 200 / tempo : 199 / sistema : 200 / ti : 201 / informações : 201 / implantação : 266 / utilização : 399 / segurança : 268 / dados : 201 / aumento : 200 / utilizados : 134 / ]
+
+AVL Tree (Pré-Ordem):
+[utilizados : 134 / envolvidos : 134 / sentido : 134 / sistemas : 134 / software : 134 / problemas : 134 / aumento : 200 / tempo : 199 / assim : 199 / hardware : 199 / melhor : 200 / impacto : 200 / desenvolvimento : 200 / dados : 201 / informações : 201 / sistema : 200 / ti : 201 / segurança : 268 / implantação : 266 / utilização : 399 / ]
+
+AVL Tree (In-Ordem):
+[sistemas : 134 / sentido : 134 / software : 134 / envolvidos : 134 / problemas : 134 / utilizados : 134 / hardware : 199 / assim : 199 / tempo : 199 / impacto : 200 / melhor : 200 / desenvolvimento : 200 / aumento : 200 / sistema : 200 / informações : 201 / ti : 201 / dados : 201 / implantação : 266 / segurança : 268 / utilização : 399 / ]
+
+Huffman Tree (Pós-Ordem):
+[utilização : 399 : 000 / impacto : 200 : 0010 / melhor : 200 : 0011 / sistema : 200 : 0100 / aumento : 200 : 0101 / ti : 201 : 0110 / informações : 201 : 0111 / dados : 201 : 1000 / implantação : 266 : 1001 / segurança : 268 : 1010 / envolvidos : 134 : 10110 / utilizados : 134 : 10111 / problemas : 134 : 11000 / sentido : 134 : 11001 / sistemas : 134 : 11010 / software : 134 : 11011 / hardware : 199 : 11100 / assim : 199 : 11101 / tempo : 199 : 11110 / desenvolvimento : 200 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[utilização : 399 : 000 / impacto : 200 : 0010 / melhor : 200 : 0011 / sistema : 200 : 0100 / aumento : 200 : 0101 / ti : 201 : 0110 / informações : 201 : 0111 / dados : 201 : 1000 / implantação : 266 : 1001 / segurança : 268 : 1010 / envolvidos : 134 : 10110 / utilizados : 134 : 10111 / problemas : 134 : 11000 / sentido : 134 : 11001 / sistemas : 134 : 11010 / software : 134 : 11011 / hardware : 199 : 11100 / assim : 199 : 11101 / tempo : 199 : 11110 / desenvolvimento : 200 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[utilização : 399 : 000 / impacto : 200 : 0010 / melhor : 200 : 0011 / sistema : 200 : 0100 / aumento : 200 : 0101 / ti : 201 : 0110 / informações : 201 : 0111 / dados : 201 : 1000 / implantação : 266 : 1001 / segurança : 268 : 1010 / envolvidos : 134 : 10110 / utilizados : 134 : 10111 / problemas : 134 : 11000 / sentido : 134 : 11001 / sistemas : 134 : 11010 / software : 134 : 11011 / hardware : 199 : 11100 / assim : 199 : 11101 / tempo : 199 : 11110 / desenvolvimento : 200 : 11111 / ]
+-----------------------------------------------------------------------------
+
+novas
+
+in6
+
+Binary Tree (Pós-Ordem):
+[software : 134 / existem : 134 / uso : 134 / sobre : 134 / rede : 134 / sistema : 199 / impacto : 199 / desenvolvimento : 199 / hardware : 201 / dados : 201 / informações : 200 / assim : 201 / melhor : 201 / aumento : 201 / implantação : 267 / utilização : 400 / segurança : 268 / ti : 201 / tempo : 199 / dúvidas : 134 / ]
+
+Binary Tree (Pré-Ordem):
+[dúvidas : 134 / rede : 134 / sobre : 134 / uso : 134 / existem : 134 / software : 134 / tempo : 199 / desenvolvimento : 199 / impacto : 199 / sistema : 199 / ti : 201 / aumento : 201 / melhor : 201 / assim : 201 / informações : 200 / dados : 201 / hardware : 201 / segurança : 268 / implantação : 267 / utilização : 400 / ]
+
+Binary Tree (In-Ordem):
+[software : 134 / existem : 134 / uso : 134 / sobre : 134 / rede : 134 / dúvidas : 134 / sistema : 199 / impacto : 199 / desenvolvimento : 199 / tempo : 199 / informações : 200 / hardware : 201 / dados : 201 / assim : 201 / melhor : 201 / aumento : 201 / ti : 201 / implantação : 267 / segurança : 268 / utilização : 400 / ]
+
+AVL Tree (Pós-Ordem):
+[software : 134 / existem : 134 / sobre : 134 / uso : 134 / dúvidas : 134 / impacto : 199 / sistema : 199 / rede : 134 / tempo : 199 / hardware : 201 / dados : 201 / informações : 200 / melhor : 201 / ti : 201 / aumento : 201 / utilização : 400 / segurança : 268 / implantação : 267 / assim : 201 / desenvolvimento : 199 / ]
+
+AVL Tree (Pré-Ordem):
+[desenvolvimento : 199 / rede : 134 / uso : 134 / existem : 134 / software : 134 / sobre : 134 / sistema : 199 / dúvidas : 134 / impacto : 199 / assim : 201 / informações : 200 / tempo : 199 / dados : 201 / hardware : 201 / implantação : 267 / aumento : 201 / melhor : 201 / ti : 201 / segurança : 268 / utilização : 400 / ]
+
+AVL Tree (In-Ordem):
+[software : 134 / existem : 134 / uso : 134 / sobre : 134 / rede : 134 / dúvidas : 134 / sistema : 199 / impacto : 199 / desenvolvimento : 199 / tempo : 199 / informações : 200 / hardware : 201 / dados : 201 / assim : 201 / melhor : 201 / aumento : 201 / ti : 201 / implantação : 267 / segurança : 268 / utilização : 400 / ]
+
+Huffman Tree (Pós-Ordem):
+[utilização : 400 : 000 / informações : 200 : 0010 / dados : 201 : 0011 / aumento : 201 : 0100 / melhor : 201 : 0101 / hardware : 201 : 0110 / ti : 201 : 0111 / assim : 201 : 1000 / implantação : 267 : 1001 / software : 134 : 10100 / existem : 134 : 10101 / segurança : 268 : 1011 / sobre : 134 : 11000 / rede : 134 : 11001 / uso : 134 : 11010 / dúvidas : 134 : 11011 / desenvolvimento : 199 : 11100 / impacto : 199 : 11101 / sistema : 199 : 11110 / tempo : 199 : 11111 / ]
+
+Huffman Tree (Pré-Ordem):
+[utilização : 400 : 000 / informações : 200 : 0010 / dados : 201 : 0011 / aumento : 201 : 0100 / melhor : 201 : 0101 / hardware : 201 : 0110 / ti : 201 : 0111 / assim : 201 : 1000 / implantação : 267 : 1001 / software : 134 : 10100 / existem : 134 : 10101 / segurança : 268 : 1011 / sobre : 134 : 11000 / rede : 134 : 11001 / uso : 134 : 11010 / dúvidas : 134 : 11011 / desenvolvimento : 199 : 11100 / impacto : 199 : 11101 / sistema : 199 : 11110 / tempo : 199 : 11111 / ]
+
+Huffman Tree (In-Ordem):
+[utilização : 400 : 000 / informações : 200 : 0010 / dados : 201 : 0011 / aumento : 201 : 0100 / melhor : 201 : 0101 / hardware : 201 : 0110 / ti : 201 : 0111 / assim : 201 : 1000 / implantação : 267 : 1001 / software : 134 : 10100 / existem : 134 : 10101 / segurança : 268 : 1011 / sobre : 134 : 11000 / rede : 134 : 11001 / uso : 134 : 11010 / dúvidas : 134 : 11011 / desenvolvimento : 199 : 11100 / impacto : 199 : 11101 / sistema : 199 : 11110 / tempo : 199 : 11111 / ]
+-----------------------------------------------------------------------------
+
+dia
+
+in1
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+dia
+
+in2
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+dia
+
+in3
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+dia
+
+in4
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+dia
+
+in5
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+dia
+
+in6
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+realmente
+
+in1
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+realmente
+
+in2
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+realmente
+
+in3
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+realmente
+
+in4
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+realmente
+
+in5
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
+realmente
+
+in6
+
+A palavra não está contida no texto!
+-----------------------------------------------------------------------------
+
