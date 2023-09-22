@@ -1,5 +1,5 @@
 # Trabalho 2 AEDSII - Autocompletar e Sugestões de Palavras
-Primeiro trabalho da disciplina AEDS II - Top K Elementos
+Segundo trabalho da disciplina AEDS II 
 
 <div style="display: inline-block;">
 <img align="center" height="20px" width="90px" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/> 
@@ -147,36 +147,6 @@ Primeiro trabalho da disciplina AEDS II - Top K Elementos
 
 <p>Para realizar as execuções do programa, foram utilizados dois arquivos de exemplo de entrada, sendo um deles o livro Dom Casmurro.</p>
 
-<p align="center">
-  <img src="img/img1.jpg">
-<p align="center"><b>Figura 1 - Dom Casmurro</b></p>
-</p><br>
-<p align="center">
-  <img src="img/img2.jpg">
-<p align="center"><b>Figura 2 - Arquivo 2(in2.data) </b></p>
-</p><br>
-
-<p>A seguir, foram realizadas duas execuções do programa, uma com apenas um arquivo, e outra com dois arquivos:</p>
-<p>Obs: O usuário pode escolher quantos arquivos serão lidos:</p>
-
-<p align="center">
-  <img src="img/img3.jpg">
-<p align="center"><b>Figura 3 - Teste com um arquivo </b></p>
-</p><br>
-
-<p align="center">
-  <img src="img/img4.jpg">
-<p align="center"><b>Figura 4 - Teste com dois arquivos </b></p>
-</p><br>
-
-<p>Por fim, ao final de cada teste é possível ver a latência do programa:</p>
-
-<p align="center">
-  <img src="img/img5.jpg">
-<p align="center"><b>Figura 5 - Latência do programa </b></p>
-</p><br>
-
-<p>Portanto, com os exemplos mostrados acima, fica evidente que o heap segue uma organização de heap mínimo, onde o valor do nó pai é inferior aos seus filhos da direita e da esquerda. Essa estrutura obedece à regra de que o filho esquerdo se encontra na posição 2i e o filho direito na posição 2i+1, em relação ao nó pai. Além disso, é possível constatar que as palavras elencadas na saída do programa correspondem às k palavras mais recorrentes nos textos.</p>
 
 <h2>Compilação e Execução do Programa</h2>
 
@@ -192,9 +162,7 @@ Primeiro trabalho da disciplina AEDS II - Top K Elementos
 
 <h2>Conclusão</h2>
 
-<p>A abordagem proposta para resolver o problema dos "top k itens" demonstra claramente a aplicação prática das estruturas de hash e heap. A busca eficiente dos k elementos mais valiosos em conjuntos de dados é essencial em análise de informações. A integração estratégica de tabelas de hash e heaps otimiza essa busca, oferecendo uma solução escalável com complexidade O(n log k) para identificar as k palavras mais frequentes em textos.</p>
 
-<p> A combinação de tabelas de hash para calcular frequências e heaps para gerenciar os elementos mais relevantes destaca a utilidade dessas estruturas. Com um tempo de execução eficiente, o algoritmo se destaca por sua capacidade de lidar com grandes volumes de dados. A decisão de usar alocação dinâmica de memória e a escolha estratégica de um heap mínimo para otimizar a remoção de elementos menos frequentes reforçam a abordagem eficaz desse algoritmo. Logo, se mostrou um algoritmo poderoso para abordar o problema em questão.</p>
 
 <h2>Contato</h2>
 
