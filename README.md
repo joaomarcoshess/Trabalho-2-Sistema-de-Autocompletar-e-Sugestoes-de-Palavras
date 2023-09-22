@@ -259,7 +259,19 @@ Segundo trabalho da disciplina AEDS II
 
 <h2>Conclusão</h2>
 
+<p>A proposta para resolver o problema dos "top k itens" ilustra de maneira clara e eficaz o uso de estruturas de hash e heap em um contexto prático. Encontrar os k elementos mais valiosos em um conjunto de dados é uma tarefa comum em análise de dados e processamento de informações. A combinação estratégica de estruturas de hash e heap permite alcançar essa meta de forma otimizada e eficaz.</p>
 
+<p>Durante a execução do programa, exploramos a construção de três tipos de árvores previamente discutidas, cada uma com vantagens e desvantagens específicas, que se adequam a diferentes objetivos de programação.</p>
+
+<p>A Árvore Binária, conhecida por sua simplicidade e facilidade de implementação, é uma escolha sólida para operações de busca e organização de dados em cenários de baixa complexidade. No entanto, pode ser menos eficiente ao lidar com grandes volumes de dados, especialmente na busca por palavras frequentes, devido à falta de balanceamento automático.</p>
+
+<p>A Árvore AVL, por outro lado, destaca-se pelo seu balanceamento automático, tornando-se uma excelente opção quando a eficiência da pesquisa é fundamental, especialmente em grandes conjuntos de dados. No entanto, sua complexidade de implementação e uso de memória podem ser desvantajosas em situações de menor complexidade ou restrições de recursos.</p>
+
+<p>A Árvore de Huffman é ideal para compactar texto, gerando códigos binários eficientes com base na frequência das palavras, mas é limitada a essa tarefa específica e não é adequada para pesquisas individuais de palavras.</p>
+
+<p>No contexto deste repositório, onde estamos construindo árvores a partir de uma estrutura de min-heap, a Árvore Binária Padrão não é a escolha preferida devido ao desequilíbrio resultante da inserção sequencial de elementos. A Árvore AVL é mais eficaz aqui, pois pode reequilibrar a árvore conforme necessário, tornando-a a opção preferencial para manter a árvore relativamente balanceada em condições desafiadoras.</p>
+
+<p>Por fim, é possível concluir que  cada uma dessas árvores tem suas próprias vantagens e desvantagens, tornando-as adequadas para diferentes propósitos. A escolha entre elas depende dos objetivos específicos de programação e das características do conjunto de dados em questão.</p>
 
 <h2>Contato</h2>
 
