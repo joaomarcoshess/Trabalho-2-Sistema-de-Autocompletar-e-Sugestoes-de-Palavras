@@ -102,6 +102,37 @@ Segundo trabalho da disciplina AEDS II
 <p align="center"><b>Figura 1 - Exemplo de Árvore Binária </b></p>
 </p><br>
 
+
+<h2>Árvore AVL(Árvore Adelson-Velsky e Landis)</h2>
+
+<p>Uma Árvore AVL é uma estrutura de dados de árvore binária que mantém uma propriedade especial de balanceamento para garantir um desempenho eficiente em operações de busca, inserção e exclusão de dados. O balanceamento é alcançado através do uso de um fator de balanceamento em cada nó, que é a diferença entre as alturas das subárvores esquerda e direita. Aqui estão os principais pontos sobre a Árvore AVL:</p>
+
+``` Inserção na Árvore AVL: ```
+
+- A inserção em uma Árvore AVL é implementada de forma recursiva, semelhante à árvore binária padrão;
+- Uma regra importante é que, quando um novo elemento é igual a um elemento já presente na árvore, o novo elemento é inserido à esquerda do nó correspondente.
+
+``` Balanceamento da Árvore AVL: ```
+
+- A árvore AVL mantém-se balanceada através do fator de balanceamento em cada nó;
+- Se o fator de balanceamento de um nó for -1, 0 ou 1, a árvore é considerada balanceada;
+- Se o fator de balanceamento de um nó for maior que 1, a árvore está desequilibrada à direita e requer rotações para reequilibrá-la;
+- Se o fator de balanceamento de um nó for menor que -1, a árvore está desequilibrada à esquerda e também requer rotações para reequilibrá-la.
+
+``` Balanceamento da Árvore AVL: ```
+
+- Rotação Simples à Direita: Realizada quando um nó está desequilibrado à esquerda e o desequilíbrio ocorre na subárvore esquerda. Uma rotação simples à direita reequilibra a árvore;
+- Rotação Simples à Esquerda: Realizada quando um nó está desequilibrado à direita e o desequilíbrio ocorre na subárvore direita. Uma rotação simples à esquerda reequilibra a árvore.
+- Rotação Dupla à Direita: Realizada quando um nó está desequilibrado à esquerda e o desequilíbrio ocorre na subárvore direita. Envolve duas operações: primeiro, uma rotação à esquerda e, em seguida, uma rotação à direita.
+- Rotação Dupla à Esquerda: Realizada quando um nó está desequilibrado à direita e o desequilíbrio ocorre na subárvore esquerda. Envolve duas operações: primeiro, uma rotação à direita e, em seguida, uma rotação à esquerda.
+
+<p>O exemplo abaixo mostra, num geral, uma Árvore AVL típica após várias inserções e rotações, que pode ser visualizada como uma árvore binária bem balanceada, onde a diferença de altura entre as subárvores esquerda e direita de cada nó é sempre limitada a -1, 0 ou 1, mantendo assim a propriedade de balanceamento.</p>
+
+<p align="center">
+  <img src="img/img2.jpg">
+<p align="center"><b>Figura 1 - Exemplo de Árvore Binária </b></p>
+</p><br>
+
 <h2>Arquivos </h2>
 
 * ``` main.cpp ```: Arquivo e função principal do sistema que recebe tanto o arquivo Funcoes.hpp quanto o arquivo Aux.hpp para execução do programa;
