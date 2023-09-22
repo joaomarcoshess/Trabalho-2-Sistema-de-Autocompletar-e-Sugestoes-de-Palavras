@@ -130,7 +130,18 @@ Segundo trabalho da disciplina AEDS II
 
 <p align="center">
   <img src="img/img2.jpg">
-<p align="center"><b>Figura 1 - Exemplo de Árvore Binária </b></p>
+<p align="center"><b>Figura 2 - Exemplo de Árvore AVL </b></p>
+</p><br>
+
+<h2>Árvore de Huffman</h2>
+
+<p>Uma árvore de Huffman é uma estrutura binária completa que se constrói de maneira incremental, juntando os dois símbolos menos frequentes e substituindo-os por símbolos auxiliares. Esse processo se repete até que todos os símbolos estejam agrupados, resultando em uma árvore binária completa. Em seguida, essa árvore é percorrida para atribuir valores binários (0 ou 1) às arestas, criando códigos binários exclusivos para cada símbolo.</p>
+
+<p>Essa técnica de compactação é baseada na frequência dos símbolos no conjunto de dados. Os símbolos mais comuns recebem códigos mais curtos, enquanto os menos comuns recebem códigos mais longos. Isso resulta em uma compressão de dados altamente eficaz, onde a representação dos dados é otimizada, economizando espaço de armazenamento ou largura de banda em transmissões de dados.</p>
+
+<p align="center">
+  <img src="img/img3.jpg">
+<p align="center"><b>Figura 2 - Exemplo de Árvore de Huffman </b></p>
 </p><br>
 
 <h2>Arquivos </h2>
