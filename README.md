@@ -87,13 +87,7 @@ Segundo trabalho da disciplina AEDS II
 - Descarte das palavras que são stopwords.
 - Inclusão na hash das palavras não stopwords, com frequência como valor associado.
 
-<h2>Vantagens e Desvantagens</h2>
-
-``` Vantagens: ```
-
-
-
-``` Desvantagens: ```
+<h1>Árvores Utilizadas</h1>
 
 <h2>Árvore Binária </h2>
 
