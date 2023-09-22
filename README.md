@@ -92,6 +92,12 @@ Segundo trabalho da disciplina AEDS II
 - Criação dos três tipos de árvores, sendo elas: Árvore Binária, Árvore AVL e Árvore de Huffman;
 - Criação do árquivo output.txt para armazenar a palavra, o texto e a verificação dos testes em Pós-Ordem, Pré-Ordem e In-Ordem.
 
+<h5>Observações:</h5>
+
+<p>Para processar e armazenar as palavras dos arquivos, foi utilizado um método de alocação dinâmica em uma variável de caracteres, permitindo uma leitura rápida e eficiente dos dados em memória, especialmente adequado para arquivos menores que cabem facilmente na memória. No entanto, essa abordagem consome mais memória e pode ser ineficiente para arquivos muito grandes.</p>
+
+<p>A leitura das stopwords e do arquivo input.data foi realizada diretamente a partir dos arquivos, sendo eficiente para grandes volumes de dados, evitando o consumo excessivo de memória. Entretanto, essa abordagem pode ser mais lenta devido às operações de leitura e escrita no arquivo. Foi escolhido usar hash e heap para otimizar o algoritmo, oferecendo eficiência na atualização durante a construção das árvores e a capacidade de preservar os heaps originais de cada texto. Essa escolha resulta em melhor desempenho, apesar do aumento no consumo de memória e complexidade da implementação. Para verificar a presença de palavras nos textos, tabelas de dispersão foram usadas para garantir eficiência na busca, proporcionando respostas rápidas, embora com um custo maior de memória. Em casos de colisão, a abordagem de inserção à esquerda foi adotada por sua simplicidade.</p>
+
 <h1>Árvores Utilizadas</h1>
 
 <h2>Árvore Binária </h2>
