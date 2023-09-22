@@ -103,7 +103,10 @@ Segundo trabalho da disciplina AEDS II
 
 <p>Abaixo, é apresentado um exemplo ilustrativo de uma árvore binária, destacando como os elementos estão organizados de acordo com a relação de ordem entre eles. Essa estrutura flexível e versátil é uma parte fundamental do repertório de estruturas de dados em ciência da computação e é amplamente aplicada em algoritmos e sistemas computacionais diversos.</p>
 
-
+<p align="center">
+  <img src="img/img1.jpg">
+<p align="center"><b>Figura 1 - Exemplo de Árvore Binária</b></p>
+</p><br>
 
 <h2>Arquivos </h2>
 
