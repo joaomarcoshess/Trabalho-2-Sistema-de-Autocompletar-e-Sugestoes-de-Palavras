@@ -87,6 +87,11 @@ Segundo trabalho da disciplina AEDS II
 - Descarte das palavras que são stopwords.
 - Inclusão na hash das palavras não stopwords, com frequência como valor associado.
 
+``` Implementação das Árvores: ```
+
+- Criação dos três tipos de árvores, sendo elas: Árvore Binária, Árvore AVL e Árvore de Huffman;
+- Criação do árquivo output.txt para armazenar a palavra, o texto e a verificação dos testes em Pós-Ordem, Pré-Ordem e In-Ordem.
+
 <h1>Árvores Utilizadas</h1>
 
 <h2>Árvore Binária </h2>
