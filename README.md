@@ -92,7 +92,7 @@ Segundo trabalho da disciplina AEDS II
 - Criação dos três tipos de árvores, sendo elas: Árvore Binária, Árvore AVL e Árvore de Huffman;
 - Criação do árquivo output.txt para armazenar a palavra, o texto e a verificação dos testes em Pós-Ordem, Pré-Ordem e In-Ordem.
 
-<h5>Observações:</h5>
+``` Observações: ```
 
 <p>Para processar e armazenar as palavras dos arquivos, foi utilizado um método de alocação dinâmica em uma variável de caracteres, permitindo uma leitura rápida e eficiente dos dados em memória, especialmente adequado para arquivos menores que cabem facilmente na memória. No entanto, essa abordagem consome mais memória e pode ser ineficiente para arquivos muito grandes.</p>
 
