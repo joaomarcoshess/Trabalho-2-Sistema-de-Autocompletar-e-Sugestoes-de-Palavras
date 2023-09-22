@@ -173,13 +173,38 @@ Segundo trabalho da disciplina AEDS II
 
 <h2>Funções das Classes </h2>
 
-<h3>Funcoes.hpp e Funcoes.cpp</h3>
+``` Funcoes.hpp e Funcoes.cpp ```
 
 * ``` void Welcome(); ```: Função contendo couts para inicializar o programa; 
 * ``` wchar_t* getText(const locale loc, string name); ```: A função Funcoes::getText recebe um objeto de localização locale e o nome de um arquivo como entrada. Ela lê o conteúdo do arquivo de texto especificado usando wide characters (wchar_t), aplicando a localização dada. Se o arquivo não puder ser aberto, exibe uma mensagem de erro e termina o programa. A função determina o tamanho do arquivo, aloca memória suficiente para armazenar seu conteúdo em um array de wchar_t, lê o conteúdo do arquivo para esse array e retorna o ponteiro para esse array, contendo o texto lido. O arquivo é então fechado;
 * ``` unordered_set<wstring> getStopWords(const locale loc) ```: A função Funcoes::getStopWords recebe um objeto de localização locale como entrada. Ela lê um arquivo chamado "stopwords.txt" que contém palavras que devem ser ignoradas (stopwords). A função cria um conjunto não ordenado (unordered_set) de wide strings (wstring) para armazenar essas stopwords. Se o arquivo não puder ser aberto, uma mensagem de erro é exibida e o programa é encerrado. A função aplica a localização dada ao fluxo de entrada do arquivo. Enquanto houver palavras no arquivo, ela lê uma palavra por vez e insere essa palavra no conjunto de stopwords. Após ler todas as palavras, fecha o arquivo e retorna o conjunto de stopwords;
 * ``` void printHeap(vector<Aux> heap) ```: Recebe um vetor de objetos do tipo Aux como entrada. Ela converte wide strings para strings UTF-8 usando um conversor. Em um loop, percorre o vetor e imprime o nome da palavra e sua recorrência usando a conversão UTF-8, separando cada par por uma linha vazia. A função tem o objetivo de imprimir os elementos do vetor heap no formato desejado.;
+* ``` void swapMinHeap(vector<pair<wstring, int>>& minHeap, const int& indexToRemove, const vector<pair<wstring, int>>& proxTopK, const int& auxIndex) ```: A função swapMinHeap realiza a troca e reequilibração do heap quando é necessário modificar um elemento em uma posição específica. Ela recebe como entrada o minHeap, que é um heap mínimo, o índice a ser removido (indexToRemove), o próximo valor de k+1 (proxTopK) e o índice auxiliar (auxIndex) que indica o texto em verificação para encontrar o elemento correto de k+1.
+* ``` void makeFrequenciesMaps(const locale& loc, const int& numFiles, vector<unordered_map<wstring, int>>& frequenceMap)  ```: Essa função é encarregada de gerar múltiplos mapas individuais para cada um dos textos de entrada, nos quais são armazenadas as palavras juntamente com suas respectivas frequências no texto correspondente.
+* ``` void makeHeaps(const int& k, const int& numFiles, const vector<unordered_map <wstring, int>>& frequenceMap, vector<vector<pair<wstring, int>>>& minHeap, vector<pair<wstring, int>>& proxTopK) ```: Essa função é encarregada de criar múltiplos heaps, cada um com tamanho k, sendo gerado um heap para cada arquivo de entrada. Além disso, ela desempenha o papel de extrair o valor top k+1 (proxTopK) do texto em análise.
+  
+``` AVLTree.hpp e AVLTree.cpp ```
 
+* ``` void destroyAVLTree(AVLTree *t) ```: Destrói a árvore AVL gerada;
+* ``` void insertAVLTree(AVLTree **t, const pair<string, int>& word) ```: Função que insere elementos na árvore;
+* ``` int getWeight(AVLTree **t) ```: Obtém a altura de um nó da árvore;
+* ``` int getMaxWeight(int left, int right) ```: Função que obtém a altura máxima da árvore;
+* ``` void rotacaoSimplesEsquerda(AVLTree **t) ```: Função que realiza uma rotação simples para a esquerda;
+* ``` void rotacaoSimplesDireita(AVLTree **t) ```: Função que realiza uma rotação simples para a direita;
+* ``` void rotacaoDuplaEsquerda(AVLTree **t) ```: Função que realiza uma rotação dupla para a esquerda;
+* ``` void rotacaoDuplaDireita(AVLTree **t) ```: Função que realiza uma rotação dupla para a direita;
+* ``` void printAVLTreePosOrdem(AVLTree *t, ofstream& outputFile) ```: Imprime a árvore AVL com o método de Pós-Ordem;
+* ``` void printAVLTreePreOrdem(AVLTree *t, ofstream& outputFile) ```: Imprime a árvore AVL com o método de Pré-Ordem;
+* ``` void printAVLTreeInOrdem(AVLTree *t, ofstream& outputFile)  ```: Imprime a árvore AVL com o método In-Ordem;
+* ``` void printAVLTree(AVLTree *t, ofstream& outputFile) ```: Chama todas as funções que imprimem a árvore com o seu método em uma função só.
+
+
+``` BinTree.hpp e BinTree.cpp ```
+
+
+
+
+``` HuffTree.hpp e HuffTree.cpp ```
 
 <h2>Funções do C++ </h2>
 
