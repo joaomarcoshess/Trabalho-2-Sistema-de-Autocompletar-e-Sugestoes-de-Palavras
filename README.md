@@ -173,7 +173,7 @@ Segundo trabalho da disciplina AEDS II
 
 <h2>Funções das Classes </h2>
 
-``` Funcoes.hpp e Funcoes.cpp ```
+<p>Funcoes.hpp e Funcoes.cpp</p>
 
 * ``` void Welcome(); ```: Função contendo couts para inicializar o programa; 
 * ``` wchar_t* getText(const locale loc, string name); ```: A função Funcoes::getText recebe um objeto de localização locale e o nome de um arquivo como entrada. Ela lê o conteúdo do arquivo de texto especificado usando wide characters (wchar_t), aplicando a localização dada. Se o arquivo não puder ser aberto, exibe uma mensagem de erro e termina o programa. A função determina o tamanho do arquivo, aloca memória suficiente para armazenar seu conteúdo em um array de wchar_t, lê o conteúdo do arquivo para esse array e retorna o ponteiro para esse array, contendo o texto lido. O arquivo é então fechado;
@@ -183,7 +183,7 @@ Segundo trabalho da disciplina AEDS II
 * ``` void makeFrequenciesMaps(const locale& loc, const int& numFiles, vector<unordered_map<wstring, int>>& frequenceMap)  ```: Essa função é encarregada de gerar múltiplos mapas individuais para cada um dos textos de entrada, nos quais são armazenadas as palavras juntamente com suas respectivas frequências no texto correspondente.
 * ``` void makeHeaps(const int& k, const int& numFiles, const vector<unordered_map <wstring, int>>& frequenceMap, vector<vector<pair<wstring, int>>>& minHeap, vector<pair<wstring, int>>& proxTopK) ```: Essa função é encarregada de criar múltiplos heaps, cada um com tamanho k, sendo gerado um heap para cada arquivo de entrada. Além disso, ela desempenha o papel de extrair o valor top k+1 (proxTopK) do texto em análise.
   
-``` AVLTree.hpp e AVLTree.cpp ```
+<p>AVLTree.hpp e AVLTree.cpp</p>
 
 * ``` void destroyAVLTree(AVLTree *t) ```: Destrói a árvore AVL gerada;
 * ``` void insertAVLTree(AVLTree **t, const pair<string, int>& word) ```: Função que insere elementos na árvore;
