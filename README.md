@@ -95,6 +95,14 @@ Segundo trabalho da disciplina AEDS II
 
 ``` Desvantagens: ```
 
+<h2>Árvore Binária </h2>
+
+<p>Uma árvore binária é uma estrutura de dados hierárquica fundamental em ciência da computação, amplamente utilizada para organizar e armazenar dados de maneira eficiente. Ela é composta por nós interconectados em uma estrutura hierárquica, onde cada nó pode ter, no máximo, dois filhos: um filho à esquerda e um filho à direita. Essa estrutura é projetada de maneira a refletir uma relação de ordem entre os nós, onde o filho à esquerda representa um valor menor em relação ao nó pai, enquanto o filho à direita representa um valor maior. Isso torna as árvores binárias particularmente úteis para operações de busca, inserção e exclusão de dados, sendo um elemento central em algoritmos de ordenação, pesquisa e muitas outras aplicações computacionais.</p>
+
+<p>Na implementação de uma árvore binária, pode-se optar por diferentes abordagens de inserção. No exemplo mencionado, foi escolhida a abordagem de inserção não recursiva, que envolve a iteração através dos nós da árvore até encontrar o local adequado para inserir um novo elemento. Em casos em que dois elementos possuem a mesma chave de ordenação, a opção foi inserir o novo elemento à esquerda do nó correspondente, mantendo assim a estrutura da árvore balanceada. Isso garante que a árvore permaneça ordenada e eficiente para operações de busca.</p>
+
+<p>Abaixo, é apresentado um exemplo ilustrativo de uma árvore binária, destacando como os elementos estão organizados de acordo com a relação de ordem entre eles. Essa estrutura flexível e versátil é uma parte fundamental do repertório de estruturas de dados em ciência da computação e é amplamente aplicada em algoritmos e sistemas computacionais diversos.</p>
+
 
 
 <h2>Arquivos </h2>
