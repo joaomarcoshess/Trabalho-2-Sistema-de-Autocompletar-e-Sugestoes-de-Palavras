@@ -266,7 +266,24 @@ Segundo trabalho da disciplina AEDS II
 <p align="center"><b>Figura 7 - Saída normal do programa </b></p>
 </p><br>
 
-<p>Os resultados da execução são registrados no arquivo outputFile, criado para apresentar todos os resultados. No exemplo a seguir, foi configurada a leitura de 6 arquivos e obtidas as 20 principais palavras dos textos. </p>
+<p>Por fim, os resultados de cada árvore são colocados num arquivo chamado output.txt, contendo detalhadamente as palavras analisadas:</p>
+
+<p align="center">
+  <img src="img/img8.jpg">
+<p align="center"><b>Figura 8 - Saída com a árvore binária </b></p>
+</p><br>
+
+<p align="center">
+  <img src="img/img7.jpg">
+<p align="center"><b>Figura 9 - Saída com a árvore AVL </b></p>
+</p><br>
+
+<p align="center">
+  <img src="img/img10.jpg">
+<p align="center"><b>Figura 10 - Saída com a árvore de Huffman</b></p>
+</p><br>
+
+<p>Nos exemplos de saída acima, podemos notar que os dados nas árvores são apresentados da seguinte maneira: primeiro a palavra e sua frequência, com exceção da árvore de Huffman, na qual podemos ver a palavra, sua frequência e, por último, seu código. Além disso, fica evidente que todas as árvores foram construídas conforme as diretrizes estabelecidas no texto. Sempre que uma palavra existe no texto, mas não faz parte das "top k" palavras, as árvores são construídas com base no heap original. No entanto, quando uma palavra está entre as "top k", ela é removida do heap e substituída pela próxima palavra com maior frequência no texto. Também é importante notar os casos em que as palavras não estão presentes no texto, pois é simplesmente informado que a palavra não está contida no arquivo verificado.</p>
 
 <h2>Compilação e Execução do Programa</h2>
 
