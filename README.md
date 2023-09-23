@@ -152,7 +152,7 @@ Segundo trabalho da disciplina AEDS II
 
 <p align="center">
   <img src="img/img3.jpg">
-<p align="center"><b>Figura 2 - Exemplo de Árvore de Huffman </b></p>
+<p align="center"><b>Figura 3 - Exemplo de Árvore de Huffman </b></p>
 </p><br>
 
 <h2>Arquivos </h2>
@@ -242,8 +242,31 @@ Segundo trabalho da disciplina AEDS II
 
 <h2>Exemplos de Execução</h2>
 
-<p>Para realizar as execuções do programa, foram utilizados dois arquivos de exemplo de entrada, sendo um deles o livro Dom Casmurro.</p>
+<p>Para realizar as execuções do programa, foram utilizados seis arquivos de exemplo de entrada. Abaixo, serão mostrados 2 deles, contendo textos a respeito da filosofia:</p>
 
+<p align="center">
+  <img src="img/img4.jpg">
+<p align="center"><b>Figura 4 - Exemplo de Arquivo de Teste </b></p>
+</p><br>
+
+<p align="center">
+  <img src="img/img5.jpg">
+<p align="center"><b>Figura 5 - Exemplo de Arquivo de Teste </b></p>
+</p><br>
+
+<p align="center">
+  <img src="img/img6.jpg">
+<p align="center"><b>Figura 6 - Dados do arquivo "input.txt" </b></p>
+</p><br>
+
+<p>A saída normal do programa mostra as 20 palavras com maior recorrência nos textos utilizados para teste, como mostra a figura abaixo:</p>
+
+<p align="center">
+  <img src="img/img7.jpg">
+<p align="center"><b>Figura 7 - Saída normal do programa </b></p>
+</p><br>
+
+<p>Os resultados da execução são registrados no arquivo outputFile, criado para apresentar todos os resultados. No exemplo a seguir, foi configurada a leitura de 6 arquivos e obtidas as 20 principais palavras dos textos. </p>
 
 <h2>Compilação e Execução do Programa</h2>
 
